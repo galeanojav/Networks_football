@@ -1,0 +1,1596 @@
+codigo	tipo	equipo	player	x	y	min	sec	period	partido	nombre_equipo	nombre_jugador	outcome	fase	tipo	end_x	end_y	extra
+1	pase	181	80906	50	50.1	0	0	1	2372227	Mallorca	Dani Rodríguez	1	0	0	41.7	54.8	0
+1	pase_fallado	181	227164	43.3	52.4	0	2	1	2372227	Mallorca	Manu Morlanes	0	0	0	76.9	59.9	0
+1	pase	407	451565	20.7	40	0	5	1	2372227	Las Palmas	Saúl Coco	1	0	0	27.6	27.9	0
+44	duelo_aereo	407	244363	32	22.9	0	6	1	2372227	Las Palmas	Marc Cardona	1	0	0	0	0	0
+44	duelo_aereo	181	58792	68	77.1	0	6	1	2372227	Mallorca	Jaume Costa	0	0	0	0	0	0
+1	pase	407	244363	31.2	23.7	0	7	1	2372227	Las Palmas	Marc Cardona	1	0	0	37.9	7.1	0
+1	pase_fallado	407	198221	34.4	3.3	0	8	1	2372227	Las Palmas	Javi Muñoz	0	0	0	62.4	4.9	0
+49	recuperacion_balon	181	500759	44	93.3	0	12	1	2372227	Mallorca	Copete	1	0	0	0	0	0
+1	pase	181	500759	44	93.3	0	12	1	2372227	Mallorca	Copete	1	0	0	46.6	86.9	0
+1	pase	181	227164	46.6	86.9	0	13	1	2372227	Mallorca	Manu Morlanes	1	0	0	42.1	95.4	0
+1	pase	181	500759	35.1	83.9	0	42	1	2372227	Mallorca	Copete	1	0	0	32.3	46.4	0
+1	pase	181	170116	31.1	45.8	0	43	1	2372227	Mallorca	Martin Valjent	1	0	0	8.8	41.2	0
+1	pase_fallado	181	104407	9.3	44.1	0	46	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	63.1	45.8	0
+1	pase_fallado	407	487703	36.3	54	0	49	1	2372227	Las Palmas	Álex Suárez	0	0	0	53.7	55.5	0
+1	pase	181	227164	45	46.4	0	50	1	2372227	Mallorca	Manu Morlanes	1	0	0	48.4	43.3	0
+50	me_roban_balon	181	80906	45.4	43.7	0	53	1	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+7	entrada	407	449718	54.6	56.3	0	53	1	2372227	Las Palmas	Enzo Loiodice	0	0	0	0	0	0
+61	toco_balon	181	80906	46.7	49.3	0	53	1	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+49	recuperacion_balon	407	244363	55.1	57.5	0	54	1	2372227	Las Palmas	Marc Cardona	1	0	0	0	0	0
+1	pase_fallado	407	244363	65	65.1	0	56	1	2372227	Las Palmas	Marc Cardona	0	0	0	59.4	78.5	0
+8	pase_cortado	181	170154	37.3	21.5	0	57	1	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+61	toco_balon	181	170154	38.3	30	0	58	1	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+49	recuperacion_balon	181	80906	34.6	27	0	59	1	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+1	pase_fallado	181	80906	39.7	25.8	1	1	1	2372227	Mallorca	Dani Rodríguez	0	0	0	56.1	-2	0
+5	balon_fuera	407	244363	43.8	100	1	3	1	2372227	Las Palmas	Marc Cardona	1	0	347	0	0	0
+5	balon_fuera	181	80906	56.2	0	1	3	1	2372227	Mallorca	Dani Rodríguez	0	0	347	0	0	0
+1	pase	407	167432	43	100	1	17	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	30.9	90.8	0
+1	pase	407	487703	29.6	82.9	1	22	1	2372227	Las Palmas	Álex Suárez	1	0	0	38.4	87	0
+1	pase	407	484753	42.6	82.6	1	28	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	43.4	70.1	0
+1	pase	407	449718	45.5	57.8	1	31	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	40.1	33.8	0
+1	pase	407	451565	40.5	33.4	1	33	1	2372227	Las Palmas	Saúl Coco	1	0	0	53.2	16.9	0
+1	pase	407	213469	53.7	16.9	1	35	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	43.8	26.3	0
+1	pase	407	451565	42.9	31.5	1	37	1	2372227	Las Palmas	Saúl Coco	1	0	0	47	55.3	0
+1	pase	407	484753	52.9	66	1	39	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	54.8	86.5	0
+1	pase	407	167432	56.6	86.2	1	41	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	43.4	65.8	0
+1	pase	407	487703	43.2	60	1	44	1	2372227	Las Palmas	Álex Suárez	1	0	0	47	42.3	0
+1	pase	407	451565	48.9	40.2	1	47	1	2372227	Las Palmas	Saúl Coco	1	0	0	55	53.4	0
+1	pase_fallado	407	484753	58.6	59.8	1	51	1	2372227	Las Palmas	Kirian Rodríguez	0	0	0	87	102	0
+5	balon_fuera	181	80906	15.4	0	1	56	1	2372227	Mallorca	Dani Rodríguez	1	0	347	0	0	0
+5	balon_fuera	407	484753	84.6	100	1	56	1	2372227	Las Palmas	Kirian Rodríguez	0	0	347	0	0	0
+1	pase	181	170154	17.9	0	2	15	1	2372227	Mallorca	Pablo Maffeo	1	0	0	31	11.3	0
+1	pase	181	156293	31	12	2	17	1	2372227	Mallorca	Vedat Muriqi	1	0	0	39.6	25.2	0
+1	pase	181	225463	39.6	26.7	2	19	1	2372227	Mallorca	Amath Ndiaye	1	0	0	27.6	58.1	0
+1	pase_fallado	181	500759	27.6	58.1	2	22	1	2372227	Mallorca	Copete	0	0	0	36	75.9	0
+8	pase_cortado	407	213469	63.1	12.6	2	24	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+49	recuperacion_balon	407	213469	65.6	11	2	25	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+1	pase_fallado	407	213469	79.9	8.1	2	26	1	2372227	Las Palmas	Álvaro Lemos	0	0	0	82.1	13.9	0
+12	despeje	181	500759	18.5	87.4	2	27	1	2372227	Mallorca	Copete	1	0	0	0	0	0
+6	corner	181	500759	20.1	86.8	2	28	1	2372227	Mallorca	Copete	0	0	0	0	0	0
+6	corner	407	213469	79.9	13.2	2	28	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+1	pase	407	86398	99.5	0.5	2	47	1	2372227	Las Palmas	Jonathan Viera	1	0	0	95	19.5	0
+1	pase	407	108438	95	19.5	2	49	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	90.6	14.2	0
+1	pase	407	86398	88.9	14.3	2	51	1	2372227	Las Palmas	Jonathan Viera	1	0	0	94.9	31.2	0
+1	pase_fallado	407	449718	94.7	29.9	2	52	1	2372227	Las Palmas	Enzo Loiodice	0	0	0	87.8	28.9	0
+49	recuperacion_balon	181	227164	13.4	69.1	2	54	1	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+1	pase	181	227164	13.2	68.4	2	55	1	2372227	Mallorca	Manu Morlanes	1	0	0	13	89.6	0
+1	pase_fallado	181	58792	13	90	2	56	1	2372227	Mallorca	Jaume Costa	0	0	0	52.3	79.6	0
+49	recuperacion_balon	407	167432	45.7	25	3	0	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+1	pase	407	167432	41.2	30.1	3	0	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	22.5	42.7	0
+1	pase	407	472194	22.7	44.5	3	8	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	27.3	38.2	0
+1	pase	407	451565	29.6	38.8	3	10	1	2372227	Las Palmas	Saúl Coco	1	0	0	35.9	50.7	0
+1	pase	407	484753	35	50.4	3	14	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	40.1	82.6	0
+1	pase	407	167432	44.6	87.9	3	18	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	38.1	70.1	0
+1	pase	407	487703	42.2	61.2	3	22	1	2372227	Las Palmas	Álex Suárez	1	0	0	46.6	37.7	0
+1	pase	407	451565	44.2	33.4	3	25	1	2372227	Las Palmas	Saúl Coco	1	0	0	56.4	35.3	0
+1	pase	407	484753	53.7	27.7	3	28	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	58.8	13.2	0
+1	pase	407	213469	54.4	7.3	3	30	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	39.5	30.1	0
+1	pase	407	451565	35.8	39	3	33	1	2372227	Las Palmas	Saúl Coco	1	0	0	38.5	66.6	0
+1	pase_fallado	407	487703	39.5	66.6	3	37	1	2372227	Las Palmas	Álex Suárez	0	0	0	79.8	73.5	0
+1	pase	181	195923	21.2	26.8	3	40	1	2372227	Mallorca	Giovanni González	1	0	0	10.4	38.8	0
+52	portero_agarrra_pelota	181	104407	8.3	39	3	41	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	0	0	0
+1	pase_fallado	181	104407	13.9	43.4	3	48	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	70.1	20.4	0
+1	pase_fallado	407	167432	32.5	90.1	3	52	1	2372227	Las Palmas	Daley Sinkgraven	0	0	0	39.4	85.8	0
+1	pase_fallado	181	80906	60.5	25.9	3	53	1	2372227	Mallorca	Dani Rodríguez	0	0	0	67.4	18.2	0
+45	regate_recibido	181	170154	66.1	12.2	3	55	1	2372227	Mallorca	Pablo Maffeo	0	0	0	0	0	0
+3	regate_conseguido	407	484753	33.9	87.8	3	55	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+49	recuperacion_balon	407	484753	34.7	91.8	3	56	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+1	pase	407	484753	35.4	93.6	3	58	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	36.6	83.7	0
+83	sin_identificar	181	107594	65.7	23.3	3	59	1	2372227	Mallorca	Omar Mascarell	0	0	0	0	0	0
+1	pase	407	449718	36.6	83.7	3	59	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	28.8	72.8	0
+1	pase	407	487703	29.2	71.4	4	2	1	2372227	Las Palmas	Álex Suárez	1	0	0	32.4	66	0
+1	pase	407	449718	31.3	63.7	4	5	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	34.7	59.3	0
+1	pase	407	198221	34.7	59.3	4	6	1	2372227	Las Palmas	Javi Muñoz	1	0	0	28.8	62.8	0
+1	pase	407	449718	30.4	68.3	4	8	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	31.3	77.2	0
+1	pase	407	484753	32.2	80.5	4	13	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	38	73.3	0
+1	pase	407	449718	39	69.2	4	14	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	32.3	68	0
+1	pase	407	487703	32.4	68	4	16	1	2372227	Las Palmas	Álex Suárez	1	0	0	34.9	84.7	0
+1	pase	407	484753	36.4	86.2	4	18	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	46.3	95.8	0
+1	pase	407	86398	46.3	95.8	4	20	1	2372227	Las Palmas	Jonathan Viera	1	0	0	42	92.2	0
+1	pase	407	167432	55.5	83.3	4	26	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	57.9	94.5	0
+1	pase	407	86398	58	90.8	4	28	1	2372227	Las Palmas	Jonathan Viera	1	0	0	58.9	84.5	0
+1	pase	407	449718	58.3	83.5	4	29	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	48.9	86.8	0
+1	pase	407	86398	45	81.3	4	31	1	2372227	Las Palmas	Jonathan Viera	1	0	0	35.8	73.9	0
+1	pase	407	487703	36.9	72.3	4	33	1	2372227	Las Palmas	Álex Suárez	1	0	0	42.2	66.7	0
+1	pase	407	484753	43.7	69.9	4	37	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	54.7	88	0
+1	pase	407	167432	56.8	91.8	4	40	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	50.3	89.5	0
+1	pase	407	449718	52.8	89.8	4	42	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	43.2	54.8	0
+1	pase	407	451565	44	45.6	4	46	1	2372227	Las Palmas	Saúl Coco	1	0	0	54.6	46.6	0
+1	pase	407	198221	53.7	45.4	4	47	1	2372227	Las Palmas	Javi Muñoz	1	0	0	40.7	39	0
+1	pase	407	451565	40.2	31.7	4	49	1	2372227	Las Palmas	Saúl Coco	1	0	0	46.7	7.4	0
+61	toco_balon	407	213469	44.8	2.3	4	50	1	2372227	Las Palmas	Álvaro Lemos	0	0	0	0	0	0
+5	balon_fuera	181	58792	64.4	100	4	52	1	2372227	Mallorca	Jaume Costa	1	0	347	0	0	0
+5	balon_fuera	407	213469	35.6	0	4	52	1	2372227	Las Palmas	Álvaro Lemos	0	0	347	0	0	0
+1	pase_fallado	181	58792	64.8	100	5	15	1	2372227	Mallorca	Jaume Costa	0	0	0	72.1	87.4	0
+8	pase_cortado	407	451565	32.4	8	5	16	1	2372227	Las Palmas	Saúl Coco	1	0	0	0	0	0
+1	pase_fallado	181	107594	58.3	85.7	5	18	1	2372227	Mallorca	Omar Mascarell	0	0	0	68.7	92.6	0
+1	pase	407	213469	33.2	6.9	5	20	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	38.1	11.7	0
+49	recuperacion_balon	407	198221	38.3	9.9	5	20	1	2372227	Las Palmas	Javi Muñoz	1	0	0	0	0	0
+1	pase_fallado	407	198221	37.8	11.7	5	21	1	2372227	Las Palmas	Javi Muñoz	0	0	0	39.3	11.9	0
+61	toco_balon	181	227164	62	82.2	5	21	1	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+4	falta_recibida	407	108438	41.6	3.1	5	23	1	2372227	Las Palmas	Sandro Ramírez	1	0	152	0	0	0
+4	falta_cometida	181	500759	58.4	96.9	5	23	1	2372227	Mallorca	Copete	0	0	152	0	0	0
+1	pase	407	213469	44.6	4.9	5	39	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	35.2	18.8	0
+1	pase	407	451565	37.8	36.3	5	44	1	2372227	Las Palmas	Saúl Coco	1	0	0	44	34	0
+1	pase	407	484753	43.5	33.6	5	48	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	36.6	57.7	0
+1	pase	407	487703	40.2	63.7	5	51	1	2372227	Las Palmas	Álex Suárez	1	0	0	47.5	83.1	0
+1	pase	407	167432	47.5	83.1	5	53	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	52.4	72.1	0
+1	pase	407	198221	53.2	70.1	5	55	1	2372227	Las Palmas	Javi Muñoz	1	0	0	61.9	75.1	0
+1	pase	407	449718	61.9	76.2	5	56	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	53	74.9	0
+1	pase	407	198221	47.6	76.4	6	0	1	2372227	Las Palmas	Javi Muñoz	1	0	0	43.8	41.5	0
+1	pase	407	451565	44.3	40	6	5	1	2372227	Las Palmas	Saúl Coco	1	0	0	46.5	68.5	0
+1	pase	407	198221	58.6	61.8	6	11	1	2372227	Las Palmas	Javi Muñoz	1	0	0	56.4	49.8	0
+1	pase	407	484753	56.4	49.8	6	13	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	59.9	23.6	0
+1	pase	407	213469	63.2	15.3	6	15	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	69.3	5.8	0
+1	pase	407	108438	68.3	21.7	6	18	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	69.9	34	0
+1	pase	407	198221	69.9	34	6	20	1	2372227	Las Palmas	Javi Muñoz	1	0	0	64	48.6	0
+1	pase	407	449718	64.7	51.1	6	22	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	66.2	68.3	0
+1	pase	407	167432	65.5	66.2	6	24	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	67.6	40.4	0
+1	pase	407	198221	66.8	34.7	6	27	1	2372227	Las Palmas	Javi Muñoz	1	0	0	60.3	21.9	0
+1	pase	407	213469	60.3	21.7	6	28	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	69.6	6	0
+1	pase	407	198221	74.2	18.2	6	31	1	2372227	Las Palmas	Javi Muñoz	1	0	0	84.5	24.8	0
+83	sin_identificar	181	500759	15.5	81.4	6	32	1	2372227	Mallorca	Copete	0	0	0	0	0	0
+61	toco_balon	407	108438	88.2	16.5	6	32	1	2372227	Las Palmas	Sandro Ramírez	0	0	0	0	0	0
+49	recuperacion_balon	181	500759	12.7	92.9	6	34	1	2372227	Mallorca	Copete	1	0	0	0	0	0
+1	pase_fallado	181	500759	14.6	94.4	6	35	1	2372227	Mallorca	Copete	0	0	0	15.7	94.8	0
+74	bloqueo_pase	407	198221	86	4.4	6	35	1	2372227	Las Palmas	Javi Muñoz	1	0	0	0	0	0
+5	balon_fuera	181	500759	21.2	100	6	36	1	2372227	Mallorca	Copete	1	0	347	0	0	0
+5	balon_fuera	407	198221	78.8	0	6	36	1	2372227	Las Palmas	Javi Muñoz	0	0	347	0	0	0
+1	pase	181	58792	20.8	100	6	59	1	2372227	Mallorca	Jaume Costa	1	0	0	45	94.2	0
+1	pase_fallado	181	156293	45.3	94.4	7	0	1	2372227	Mallorca	Vedat Muriqi	0	0	0	59	92.4	0
+49	recuperacion_balon	407	451565	41.1	8.9	7	3	1	2372227	Las Palmas	Saúl Coco	1	0	0	0	0	0
+1	pase	407	451565	41.1	8.9	7	3	1	2372227	Las Palmas	Saúl Coco	1	0	0	17.6	41.1	0
+1	pase	407	472194	22.2	53	7	8	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	52.8	60.8	0
+44	duelo_aereo	407	244363	52.5	59.8	7	9	1	2372227	Las Palmas	Marc Cardona	1	0	0	0	0	0
+44	duelo_aereo	181	195923	47.5	40.2	7	9	1	2372227	Mallorca	Giovanni González	0	0	0	0	0	0
+1	pase_fallado	407	244363	52.8	61.8	7	9	1	2372227	Las Palmas	Marc Cardona	0	0	0	51.1	40	0
+49	recuperacion_balon	181	227164	48.6	58.8	7	11	1	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+1	pase	181	227164	48.3	60.6	7	11	1	2372227	Mallorca	Manu Morlanes	1	0	0	63.4	61.4	0
+50	me_roban_balon	181	156293	61.1	69.5	7	12	1	2372227	Mallorca	Vedat Muriqi	0	0	0	0	0	0
+7	entrada	407	451565	38.9	30.5	7	13	1	2372227	Las Palmas	Saúl Coco	0	0	0	0	0	0
+61	toco_balon	181	58792	58.2	97.2	7	15	1	2372227	Mallorca	Jaume Costa	0	0	0	0	0	0
+5	balon_fuera	181	58792	65.2	100	7	16	1	2372227	Mallorca	Jaume Costa	0	0	347	0	0	0
+5	balon_fuera	407	451565	34.8	0	7	16	1	2372227	Las Palmas	Saúl Coco	1	0	347	0	0	0
+1	pase	407	213469	36.8	0	7	25	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	19.9	10.5	0
+1	pase	407	451565	19.9	11	7	28	1	2372227	Las Palmas	Saúl Coco	1	0	0	28.7	9.9	0
+1	pase	407	484753	31.4	11.7	7	31	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	41.5	28.5	0
+1	pase	407	198221	42.4	32.4	7	32	1	2372227	Las Palmas	Javi Muñoz	1	0	0	34.3	15.1	0
+1	pase	407	484753	36	16.1	7	35	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	41	26.4	0
+1	pase	407	198221	39.2	33.2	7	38	1	2372227	Las Palmas	Javi Muñoz	1	0	0	44.4	71.1	0
+1	pase	407	167432	40.4	74.8	7	42	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	35.5	61.6	0
+1	pase	407	487703	36	57.7	7	46	1	2372227	Las Palmas	Álex Suárez	1	0	0	44.8	58.7	0
+1	pase	407	449718	47.2	59.6	7	48	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	37.1	61.2	0
+1	pase	407	487703	37.1	61.2	7	49	1	2372227	Las Palmas	Álex Suárez	1	0	0	45.1	84.2	0
+1	pase	407	167432	45.1	84.2	7	51	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	42.9	68	0
+1	pase	407	487703	41	67.3	7	53	1	2372227	Las Palmas	Álex Suárez	1	0	0	44.1	51.8	0
+1	pase	407	484753	53.8	39.1	7	57	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	60	25.6	0
+1	pase	407	198221	61.5	23.3	7	58	1	2372227	Las Palmas	Javi Muñoz	1	0	0	60.6	9.9	0
+1	pase	407	213469	60.6	9.9	8	1	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	57	18.5	0
+1	pase	407	484753	59.8	21.3	8	6	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	58.9	11.5	0
+1	pase	407	213469	59.1	9.4	8	7	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	64.8	5.5	0
+1	pase	407	86398	64.8	6.5	8	8	1	2372227	Las Palmas	Jonathan Viera	1	0	0	61.7	21.5	0
+1	pase	407	484753	61.6	21.3	8	12	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	65.2	6.2	0
+83	sin_identificar	181	500759	41.1	92.3	8	13	1	2372227	Mallorca	Copete	0	0	0	0	0	0
+1	pase	407	86398	67.8	6.2	8	13	1	2372227	Las Palmas	Jonathan Viera	1	0	0	57.8	7.4	0
+1	pase	407	213469	57.5	9.4	8	16	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	44.8	31.1	0
+1	pase	407	451565	44.7	31.3	8	18	1	2372227	Las Palmas	Saúl Coco	1	0	0	62.4	73.7	0
+1	pase	407	167432	62	77.1	8	22	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	68.8	92.9	0
+1	pase	407	244363	68.1	85.1	8	27	1	2372227	Las Palmas	Marc Cardona	1	0	0	62.1	75.5	0
+1	pase	407	449718	62.2	76	8	28	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	74.2	91.7	0
+1	pase	407	167432	70.3	90.2	8	32	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	87.1	74.6	0
+1	pase_fallado	407	244363	87.1	75.3	8	34	1	2372227	Las Palmas	Marc Cardona	0	0	0	86.6	72.4	0
+12	despeje	181	195923	13.5	32.7	8	35	1	2372227	Mallorca	Giovanni González	1	0	0	24.1	26.5	0
+49	recuperacion_balon	181	170154	16.2	24.4	8	36	1	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+83	sin_identificar	407	244363	86.9	73.6	8	36	1	2372227	Las Palmas	Marc Cardona	0	0	0	0	0	0
+1	pase	181	170154	22.2	25.8	8	37	1	2372227	Mallorca	Pablo Maffeo	1	0	0	27.1	11.2	0
+1	pase	181	80906	31.7	14.6	8	38	1	2372227	Mallorca	Dani Rodríguez	1	0	0	44.3	11.6	0
+4	falta_cometida	181	156293	43.5	10.2	8	40	1	2372227	Mallorca	Vedat Muriqi	0	0	152	0	0	0
+1	pase	407	167432	57.1	91.7	9	33	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	40	89.4	0
+1	pase	407	487703	35	86.5	9	39	1	2372227	Las Palmas	Álex Suárez	1	0	0	44.8	93.1	0
+1	pase	407	167432	43.6	86.9	9	45	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	34	79.7	0
+1	pase	407	487703	32.9	70.8	9	48	1	2372227	Las Palmas	Álex Suárez	1	0	0	39.9	87.2	0
+1	pase	407	167432	40.9	88.6	9	51	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	40	70.5	0
+1	pase	407	484753	44.7	63.1	9	56	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	44	41.5	0
+1	pase	407	451565	60.4	36.5	10	2	1	2372227	Las Palmas	Saúl Coco	1	0	0	59.4	14.9	0
+1	pase_fallado	407	213469	60.9	4.4	10	5	1	2372227	Las Palmas	Álvaro Lemos	0	0	0	79.5	16.3	0
+1	pase	181	500759	20.8	81.5	10	6	1	2372227	Mallorca	Copete	1	0	0	24.1	95.4	0
+1	pase_fallado	181	58792	24.1	95.6	10	9	1	2372227	Mallorca	Jaume Costa	0	0	0	33.3	94.7	0
+1	pase	407	108438	68.6	4.8	10	11	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	63.1	12.2	0
+1	pase	407	484753	63.1	12.2	10	12	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	67.5	3.9	0
+1	pase	407	108438	66.1	4.2	10	14	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	46.6	35.2	0
+1	pase	407	487703	53	44.8	10	20	1	2372227	Las Palmas	Álex Suárez	1	0	0	48.6	66.4	0
+1	pase	407	167432	59.3	83.8	10	24	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	58.8	90.6	0
+1	pase	407	244363	59.5	93.6	10	26	1	2372227	Las Palmas	Marc Cardona	1	0	0	54.2	75.3	0
+1	pase	407	484753	58.7	77.9	10	31	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	63	90.9	0
+1	pase	407	167432	55.3	82.4	10	33	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	54.7	75.6	0
+1	pase_fallado	407	484753	56.9	74.4	10	37	1	2372227	Las Palmas	Kirian Rodríguez	0	0	0	70.8	74.9	0
+8	pase_cortado	181	170154	24.8	28.5	10	38	1	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+1	pase_fallado	181	170154	25.3	33.9	10	39	1	2372227	Mallorca	Pablo Maffeo	0	0	0	33.5	39.2	0
+44	duelo_aereo	181	225463	33.6	36.5	10	43	1	2372227	Mallorca	Amath Ndiaye	1	0	0	0	0	0
+44	duelo_aereo	407	198221	66.4	63.5	10	43	1	2372227	Las Palmas	Javi Muñoz	0	0	0	0	0	0
+1	pase_fallado	181	225463	31.8	37.3	10	43	1	2372227	Mallorca	Amath Ndiaye	0	0	0	37.7	37.4	0
+61	toco_balon	407	198221	66.2	66.2	10	43	1	2372227	Las Palmas	Javi Muñoz	1	0	0	0	0	0
+1	pase	407	213469	64.7	56.9	10	45	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	69.6	40.6	0
+1	pase	407	449718	70.7	44.7	10	47	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	73.1	53.6	0
+1	pase	407	198221	72.3	48.6	10	47	1	2372227	Las Palmas	Javi Muñoz	1	0	0	68.9	42.3	0
+1	pase_fallado	407	449718	68.8	42.3	10	48	1	2372227	Las Palmas	Enzo Loiodice	0	0	0	87.2	32.5	0
+49	recuperacion_balon	181	500759	10.8	68.4	10	51	1	2372227	Mallorca	Copete	1	0	0	0	0	0
+12	despeje	181	500759	7.4	73.2	10	52	1	2372227	Mallorca	Copete	1	0	0	4.3	102	0
+5	balon_fuera	181	500759	5	100	10	54	1	2372227	Mallorca	Copete	0	0	347	0	0	0
+5	balon_fuera	407	198221	95	0	10	54	1	2372227	Las Palmas	Javi Muñoz	1	0	347	0	0	0
+1	pase	407	213469	88.2	0	11	10	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	91.3	4.8	0
+61	toco_balon	407	198221	94.9	6.4	11	11	1	2372227	Las Palmas	Javi Muñoz	0	0	0	0	0	0
+12	despeje	181	58792	6.5	90.9	11	12	1	2372227	Mallorca	Jaume Costa	1	0	0	9.5	101.4	0
+5	balon_fuera	181	500759	8.6	100	11	13	1	2372227	Mallorca	Copete	0	0	347	0	0	0
+5	balon_fuera	407	198221	91.4	0	11	13	1	2372227	Las Palmas	Javi Muñoz	1	0	347	0	0	0
+1	pase	407	213469	92.9	0	11	17	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	86.5	2.5	0
+1	pase_fallado	407	484753	90.4	3.9	11	20	1	2372227	Las Palmas	Kirian Rodríguez	0	0	0	91.1	50.9	0
+11	sin_identificar	181	104407	10.1	51	11	23	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	0	0	0
+1	pase	181	104407	11.8	46.1	11	31	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	18.5	20.3	0
+1	pase	181	195923	20.4	21.8	11	34	1	2372227	Mallorca	Giovanni González	1	0	0	28.8	27.4	0
+1	pase	181	107594	28.7	27.7	11	35	1	2372227	Mallorca	Omar Mascarell	1	0	0	17.2	23.9	0
+1	pase	181	195923	19.5	21.6	11	39	1	2372227	Mallorca	Giovanni González	1	0	0	36.2	19.8	0
+1	pase	181	80906	36.9	18.3	11	40	1	2372227	Mallorca	Dani Rodríguez	1	0	0	32.8	2.9	0
+1	pase	181	170154	32.8	2.9	11	41	1	2372227	Mallorca	Pablo Maffeo	1	0	0	36	10.9	0
+3	regate_conseguido	181	80906	36	19	11	43	1	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+45	regate_recibido	407	449718	64	81	11	43	1	2372227	Las Palmas	Enzo Loiodice	0	0	0	0	0	0
+3	regate_conseguido	181	80906	39.9	28.9	11	43	1	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+45	regate_recibido	407	167432	60.1	71.1	11	43	1	2372227	Las Palmas	Daley Sinkgraven	0	0	0	0	0	0
+1	pase_fallado	181	80906	42	29.5	11	46	1	2372227	Mallorca	Dani Rodríguez	0	0	0	60	35.1	0
+1	pase	407	451565	32	59.6	11	48	1	2372227	Las Palmas	Saúl Coco	1	0	0	10.2	57.7	0
+49	recuperacion_balon	407	472194	10.3	58.2	11	50	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	0	0	0
+1	pase	407	472194	9.4	53.4	11	55	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	13.8	76	0
+1	pase	407	487703	13.5	74.9	11	57	1	2372227	Las Palmas	Álex Suárez	1	0	0	5.3	52.3	0
+1	pase	407	472194	16.3	50.9	12	8	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	57.6	95.2	0
+3	regate_fallado	407	244363	59.8	96	12	11	1	2372227	Las Palmas	Marc Cardona	0	0	0	0	0	0
+7	entrada	181	195923	40.2	4	12	12	1	2372227	Mallorca	Giovanni González	1	0	0	0	0	0
+5	balon_fuera	181	195923	43.8	0	12	13	1	2372227	Mallorca	Giovanni González	0	0	347	0	0	0
+5	balon_fuera	407	244363	56.2	100	12	13	1	2372227	Las Palmas	Marc Cardona	1	0	347	0	0	0
+1	pase	407	167432	56.3	100	12	26	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	39.6	91.3	0
+1	pase	407	487703	44.1	86.2	12	30	1	2372227	Las Palmas	Álex Suárez	1	0	0	46.5	87	0
+1	pase	407	484753	58.4	87	12	34	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	66.6	97.2	0
+1	pase	407	167432	66.6	97.2	12	36	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	69.3	91.7	0
+1	pase	407	244363	69.3	91.7	12	37	1	2372227	Las Palmas	Marc Cardona	1	0	0	63.2	96.5	0
+1	pase	407	167432	58.8	96.5	12	39	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	34.3	85.4	0
+1	pase	407	487703	34.3	85.3	12	43	1	2372227	Las Palmas	Álex Suárez	1	0	0	38.5	67.5	0
+1	pase	407	484753	44.1	50.5	12	48	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	43.2	28.6	0
+1	pase	407	451565	46	30.8	12	51	1	2372227	Las Palmas	Saúl Coco	1	0	0	43.8	66	0
+1	pase	407	487703	45.5	70.8	12	54	1	2372227	Las Palmas	Álex Suárez	1	0	0	49.1	85.3	0
+1	pase	407	167432	49.2	85.3	12	55	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	44.1	70.7	0
+1	pase	407	487703	43.2	67.6	13	0	1	2372227	Las Palmas	Álex Suárez	1	0	0	48.3	70.7	0
+1	pase	407	449718	48.3	70.7	13	2	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	60.1	87.6	0
+1	pase	407	167432	57.8	80.6	13	5	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	53.7	72.4	0
+1	pase	407	86398	53.7	72.4	13	6	1	2372227	Las Palmas	Jonathan Viera	1	0	0	46.2	86.7	0
+1	pase	407	449718	45.1	82.2	13	7	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	39.9	62.6	0
+1	pase	407	487703	39.9	62.6	13	10	1	2372227	Las Palmas	Álex Suárez	1	0	0	46.6	76.4	0
+1	pase	407	449718	57	70.5	13	15	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	59.8	66.6	0
+1	pase	407	484753	59.8	66.6	13	17	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	41.7	66.6	0
+1	pase	407	487703	43.8	60.5	13	20	1	2372227	Las Palmas	Álex Suárez	1	0	0	47.9	72.1	0
+1	pase_fallado	407	484753	58.8	61.9	13	25	1	2372227	Las Palmas	Kirian Rodríguez	0	0	0	67.6	46.8	0
+8	pase_cortado	181	225463	35	49.9	13	26	1	2372227	Mallorca	Amath Ndiaye	1	0	0	0	0	0
+49	recuperacion_balon	181	80906	35.5	47.2	13	27	1	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+1	pase	181	80906	45.5	53	13	30	1	2372227	Mallorca	Dani Rodríguez	1	0	0	53.6	42.8	0
+4	falta_recibida	181	156293	46.6	33.9	13	33	1	2372227	Mallorca	Vedat Muriqi	1	0	152	0	0	265
+4	falta_cometida	407	487703	53.4	66.1	13	33	1	2372227	Las Palmas	Álex Suárez	0	0	152	0	0	265
+1	pase_fallado	181	195923	43.4	32.4	13	45	1	2372227	Mallorca	Giovanni González	0	0	0	70.2	101.2	0
+5	balon_fuera	181	58792	74	100	13	47	1	2372227	Mallorca	Jaume Costa	0	0	347	0	0	0
+5	balon_fuera	407	487703	26	0	13	47	1	2372227	Las Palmas	Álex Suárez	1	0	347	0	0	0
+1	pase	407	213469	28.1	0	13	52	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	24	20.6	0
+1	pase	407	484753	28.1	32.4	14	0	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	41.6	34.5	0
+1	pase_fallado	407	86398	41.9	34.2	14	2	1	2372227	Las Palmas	Jonathan Viera	0	0	0	75.4	27.9	0
+59	portero_sale_despeja	181	104407	27.9	70.5	14	5	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	0	0	0
+1	pase_fallado	181	104407	27.9	70.5	14	5	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	68.7	66.4	0
+45	regate_recibido	181	156293	64.8	77.2	14	10	1	2372227	Mallorca	Vedat Muriqi	0	0	0	0	0	0
+3	regate_conseguido	407	484753	35.2	22.8	14	10	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+1	pase	407	484753	36.5	23.1	14	12	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	36.9	10.6	0
+1	pase	407	213469	36.5	11.9	14	14	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	14.5	40.6	0
+1	pase	407	472194	14.6	42.2	14	19	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	30.9	44.1	0
+1	pase	407	484753	32.4	43.8	14	23	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	29.2	63.2	0
+1	pase	407	487703	27.9	63.9	14	28	1	2372227	Las Palmas	Álex Suárez	1	0	0	32	50.1	0
+1	pase	407	484753	36	27.9	14	33	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	44.3	42.2	0
+1	pase	407	449718	44.2	42.5	14	34	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	35.5	56.9	0
+1	pase	407	487703	36.1	56.8	14	39	1	2372227	Las Palmas	Álex Suárez	1	0	0	47.7	87.9	0
+61	toco_balon	407	167432	47	88.2	14	40	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+1	pase	407	244363	41.1	93.1	14	44	1	2372227	Las Palmas	Marc Cardona	1	0	0	33.9	76	0
+1	pase	407	487703	33.7	72.8	14	47	1	2372227	Las Palmas	Álex Suárez	1	0	0	34.2	47.3	0
+1	pase	407	451565	40	46.2	14	50	1	2372227	Las Palmas	Saúl Coco	1	0	0	46.4	41.9	0
+1	pase	407	484753	45.2	42.9	14	52	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	47.6	60.4	0
+1	pase	407	449718	53.5	62.8	14	56	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	44.7	48.4	0
+1	pase	407	451565	47.8	43.2	15	0	1	2372227	Las Palmas	Saúl Coco	1	0	0	45	68.3	0
+1	pase	407	487703	46.5	70.5	15	2	1	2372227	Las Palmas	Álex Suárez	1	0	0	54.5	55.7	0
+1	pase	407	198221	54.5	55.7	15	3	1	2372227	Las Palmas	Javi Muñoz	1	0	0	37.1	39.5	0
+1	pase	407	451565	43.6	45.6	15	7	1	2372227	Las Palmas	Saúl Coco	1	0	0	53.8	52.8	0
+1	pase	407	198221	54.3	49.1	15	8	1	2372227	Las Palmas	Javi Muñoz	1	0	0	47.4	41.9	0
+1	pase	407	484753	47.2	42.1	15	10	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	57.7	37.5	0
+1	pase	407	86398	59.9	36.1	15	10	1	2372227	Las Palmas	Jonathan Viera	1	0	0	52.1	35.4	0
+1	pase	407	484753	58.1	35.4	15	15	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	45.1	64.6	0
+1	pase	407	487703	41.5	63.9	15	18	1	2372227	Las Palmas	Álex Suárez	1	0	0	54.4	30.6	0
+1	pase_fallado	407	484753	54.8	30.8	15	21	1	2372227	Las Palmas	Kirian Rodríguez	0	0	0	73.9	26.5	0
+1	pase_fallado	181	58792	21.5	74.5	15	23	1	2372227	Mallorca	Jaume Costa	0	0	0	33.6	75.4	0
+8	pase_cortado	407	449718	70.8	20	15	24	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+1	pase	407	449718	74.7	6.9	15	27	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	71.2	5.1	0
+1	pase	407	213469	70.8	4.9	15	29	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	60.9	7.6	0
+1	pase	407	484753	60.5	7.3	15	31	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	63.5	16	0
+1	pase	407	198221	63.4	18.8	15	33	1	2372227	Las Palmas	Javi Muñoz	1	0	0	70.7	14.9	0
+3	regate_fallado	407	449718	77.8	26.6	15	36	1	2372227	Las Palmas	Enzo Loiodice	0	0	0	0	0	0
+7	entrada	181	500759	22.2	73.4	15	37	1	2372227	Mallorca	Copete	1	0	0	0	0	0
+49	recuperacion_balon	181	58792	11.5	77.9	15	38	1	2372227	Mallorca	Jaume Costa	1	0	0	0	0	0
+1	pase	181	58792	10.3	78.1	15	38	1	2372227	Mallorca	Jaume Costa	1	0	0	22.4	78.3	0
+61	toco_balon	181	225463	28.7	80.5	15	39	1	2372227	Mallorca	Amath Ndiaye	0	0	0	0	0	0
+3	regate_fallado	181	225463	27.5	85.6	15	40	1	2372227	Mallorca	Amath Ndiaye	0	0	0	0	0	0
+49	recuperacion_balon	407	108438	69.6	20.8	15	40	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	0	0	0
+1	pase	407	108438	70.7	31.7	15	43	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	63.9	45	0
+1	pase	407	167432	63.4	46.8	15	45	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	46.7	53.6	0
+1	pase	407	487703	43.1	58.2	15	49	1	2372227	Las Palmas	Álex Suárez	1	0	0	54.4	34.9	0
+1	pase	407	484753	54.7	34.9	15	52	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	66.7	37.4	0
+1	pase	407	86398	66.7	37.4	15	54	1	2372227	Las Palmas	Jonathan Viera	1	0	0	78.3	16.7	0
+1	pase	407	108438	81.2	14.9	15	57	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	70.5	22.9	0
+45	regate_recibido	181	227164	30.3	70.9	15	58	1	2372227	Mallorca	Manu Morlanes	0	0	0	0	0	0
+3	regate_conseguido	407	86398	69.7	29.1	15	58	1	2372227	Las Palmas	Jonathan Viera	1	0	0	0	0	0
+3	regate_fallado	407	86398	75.7	33.7	15	59	1	2372227	Las Palmas	Jonathan Viera	0	0	0	0	0	0
+3	regate_fallado	407	86398	74.5	34.3	16	0	1	2372227	Las Palmas	Jonathan Viera	0	0	0	0	0	0
+12	despeje	181	195923	15.7	50.3	16	1	1	2372227	Mallorca	Giovanni González	1	0	0	17.7	52.6	0
+61	toco_balon	407	86398	82.9	45.2	16	1	1	2372227	Las Palmas	Jonathan Viera	1	0	0	0	0	0
+11	sin_identificar	181	104407	1.7	50.4	16	3	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	0	0	0
+52	portero_agarrra_pelota	181	104407	1.2	50.9	16	9	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	0	0	0
+1	pase	181	104407	15	50.9	16	28	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	57.6	30	0
+1	pase_fallado	181	156293	57.6	30	16	30	1	2372227	Mallorca	Vedat Muriqi	0	0	0	62.5	31	0
+49	recuperacion_balon	407	484753	40.1	82.2	16	33	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+1	pase	407	484753	40.7	79.1	16	33	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	45.7	73.2	0
+1	pase	407	449718	45.2	71.9	16	34	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	28.3	60.6	0
+1	pase	407	451565	26.7	60.5	16	36	1	2372227	Las Palmas	Saúl Coco	1	0	0	25	93.1	0
+61	toco_balon	407	487703	24.7	96.7	16	39	1	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+1	pase	407	167432	24.7	96.7	16	41	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	24.3	83.1	0
+1	pase	407	484753	30.9	79.4	16	47	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	25.3	68.3	0
+1	pase	407	487703	28.9	72.6	16	52	1	2372227	Las Palmas	Álex Suárez	1	0	0	35.4	92.9	0
+1	pase	407	484753	35.4	92.9	16	54	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	39.1	74.8	0
+1	pase	407	449718	39.6	67.8	16	57	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	44.3	55.7	0
+1	pase	407	86398	44.3	55.9	16	58	1	2372227	Las Palmas	Jonathan Viera	1	0	0	39.1	64.4	0
+1	pase	407	449718	39.3	64.6	17	0	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	46.1	54.6	0
+1	pase	407	86398	46.1	54.6	17	1	1	2372227	Las Palmas	Jonathan Viera	1	0	0	38.9	62.8	0
+1	pase	407	449718	38.9	62.8	17	1	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	37.6	27.9	0
+1	pase	407	451565	37.6	27.9	17	4	1	2372227	Las Palmas	Saúl Coco	1	0	0	57.6	11.4	0
+1	pase	407	213469	57.6	11.4	17	7	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	57.8	28.1	0
+1	pase	407	86398	57.4	25.1	17	9	1	2372227	Las Palmas	Jonathan Viera	1	0	0	52.5	18.8	0
+1	pase	407	213469	52.5	18.8	17	10	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	42.2	27.9	0
+1	pase	407	451565	46.2	31.3	17	12	1	2372227	Las Palmas	Saúl Coco	1	0	0	54.2	43.4	0
+1	pase	407	449718	54.2	43.4	17	14	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	46.5	33.1	0
+1	pase	407	451565	57.8	27.7	17	20	1	2372227	Las Palmas	Saúl Coco	1	0	0	67.3	11.2	0
+1	pase	407	86398	70.4	13	17	22	1	2372227	Las Palmas	Jonathan Viera	1	0	0	81.4	18.5	0
+1	pase	407	198221	81.5	19.4	17	24	1	2372227	Las Palmas	Javi Muñoz	1	0	0	74.3	39.8	0
+3	regate_fallado	407	449718	73.2	41.6	17	25	1	2372227	Las Palmas	Enzo Loiodice	0	0	0	0	0	0
+7	entrada	181	107594	26.8	58.4	17	26	1	2372227	Mallorca	Omar Mascarell	0	0	0	0	0	0
+1	pase	407	484753	69.3	46.6	17	28	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	70.9	64.2	0
+1	pase	407	167432	70.9	64.2	17	29	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	68.6	54.6	0
+1	pase	407	484753	67.3	52.8	17	31	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	54.2	56.1	0
+1	pase	407	487703	54.2	56.1	17	34	1	2372227	Las Palmas	Álex Suárez	1	0	0	59.1	74.4	0
+1	pase	407	167432	59.6	67.8	17	39	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	58.9	83.5	0
+1	pase_fallado	407	484753	58.8	76.4	17	42	1	2372227	Las Palmas	Kirian Rodríguez	0	0	0	87.7	61.8	0
+52	portero_agarrra_pelota	181	104407	11.1	37.3	17	45	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	0	0	0
+80	sin_identificar	181	104407	11.7	56.9	17	58	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	0	0	0
+1	pase_fallado	181	104407	8.5	66.8	18	2	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	66.8	46.2	0
+49	recuperacion_balon	407	451565	35.2	48.9	18	6	1	2372227	Las Palmas	Saúl Coco	1	0	0	0	0	0
+1	pase	407	451565	35.2	48.9	18	6	1	2372227	Las Palmas	Saúl Coco	1	0	0	12.8	49.3	0
+1	pase	407	472194	12.5	50	18	9	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	24.8	75.6	0
+1	pase	407	167432	24.8	75.6	18	12	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	31.9	65.7	0
+1	pase	407	484753	35.5	63.2	18	18	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	39.4	88.5	0
+1	pase	407	167432	40.5	89.2	18	22	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	35	71.5	0
+1	pase	407	487703	36.9	67.5	18	26	1	2372227	Las Palmas	Álex Suárez	1	0	0	43	55	0
+1	pase	407	198221	54.7	77.1	18	31	1	2372227	Las Palmas	Javi Muñoz	1	0	0	53.7	91	0
+1	pase	407	167432	55.5	91	18	33	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	64.8	95.6	0
+1	pase_fallado	407	244363	66	97.1	18	35	1	2372227	Las Palmas	Marc Cardona	0	0	0	57.4	95.2	0
+8	pase_cortado	181	80906	44.5	6.2	18	35	1	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+5	balon_fuera	181	80906	52.9	0	18	37	1	2372227	Mallorca	Dani Rodríguez	0	0	347	0	0	0
+5	balon_fuera	407	244363	47.1	100	18	37	1	2372227	Las Palmas	Marc Cardona	1	0	347	0	0	0
+1	pase	407	167432	41.9	100	18	50	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	52.7	60.6	0
+1	pase	407	451565	63	40.8	18	55	1	2372227	Las Palmas	Saúl Coco	1	0	0	60	28.9	0
+1	pase	407	213469	60.3	30.7	18	58	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	83.8	39.4	0
+1	pase_fallado	407	198221	82.1	37.2	18	59	1	2372227	Las Palmas	Javi Muñoz	0	0	0	93.3	41.8	0
+52	portero_agarrra_pelota	181	104407	2.4	56	19	1	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	0	0	0
+1	pase_fallado	181	104407	7.6	59.3	19	12	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	63.2	66.1	0
+61	toco_balon	407	451565	38.5	32.2	19	15	1	2372227	Las Palmas	Saúl Coco	1	0	0	0	0	0
+1	pase_fallado	181	225463	52.9	88.9	19	17	1	2372227	Mallorca	Amath Ndiaye	0	0	0	59.3	75.3	0
+1	pase_fallado	407	449718	40.2	28.8	19	19	1	2372227	Las Palmas	Enzo Loiodice	0	0	0	63.7	18.8	0
+1	pase	181	500759	39.7	85.4	19	21	1	2372227	Mallorca	Copete	1	0	0	23.5	68.5	0
+59	portero_sale_despeja	181	104407	23.1	71.2	19	24	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	0	0	0
+1	pase_fallado	181	104407	20.4	81.2	19	25	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	30.3	101.9	0
+5	balon_fuera	181	104407	32.8	100	19	27	1	2372227	Mallorca	Predrag Rajkovic	0	0	347	0	0	0
+5	balon_fuera	407	449718	67.2	0	19	27	1	2372227	Las Palmas	Enzo Loiodice	1	0	347	0	0	0
+1	pase	407	213469	76.4	0	19	37	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	71.7	9.9	0
+1	pase	407	86398	71.7	9.9	19	39	1	2372227	Las Palmas	Jonathan Viera	1	0	0	70.2	6	0
+1	pase	407	213469	69.3	5.7	19	40	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	52.5	20.3	0
+1	pase	407	451565	52.3	29.9	19	43	1	2372227	Las Palmas	Saúl Coco	1	0	0	53.4	55.9	0
+1	pase	407	487703	54.5	50	19	48	1	2372227	Las Palmas	Álex Suárez	1	0	0	70.1	65.7	0
+61	toco_balon	407	198221	70.9	66.7	19	49	1	2372227	Las Palmas	Javi Muñoz	1	0	0	0	0	0
+61	toco_balon	181	170116	29.1	33.3	19	49	1	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+2	pase_fuera_juego	407	449718	68.5	69.9	19	51	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	83.3	85.1	0
+55	sin_identificar	181	195923	27.9	33.1	19	51	1	2372227	Mallorca	Giovanni González	1	0	0	0	0	0
+1	pase	181	104407	26.2	20.9	20	29	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	64.1	25.2	0
+1	pase_fallado	181	156293	64.2	25.3	20	33	1	2372227	Mallorca	Vedat Muriqi	0	0	0	63.5	19.8	0
+1	pase_fallado	407	449718	37.1	74	20	34	1	2372227	Las Palmas	Enzo Loiodice	0	0	0	38.8	74.9	0
+61	toco_balon	181	80906	63.5	19.8	20	34	1	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+61	toco_balon	181	225463	63.7	24.4	20	35	1	2372227	Mallorca	Amath Ndiaye	0	0	0	0	0	0
+49	recuperacion_balon	407	487703	40	71.2	20	36	1	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+50	me_roban_balon	407	487703	38.4	73	20	36	1	2372227	Las Palmas	Álex Suárez	0	0	0	0	0	0
+7	entrada	181	225463	61.6	27	20	37	1	2372227	Mallorca	Amath Ndiaye	1	0	0	0	0	0
+49	recuperacion_balon	181	227164	61.2	33.1	20	38	1	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+1	pase	181	227164	61.2	33.1	20	38	1	2372227	Mallorca	Manu Morlanes	1	0	0	69.4	37.3	0
+3	regate_fallado	181	156293	72.2	40.4	20	39	1	2372227	Mallorca	Vedat Muriqi	0	0	0	0	0	0
+7	entrada	407	487703	27.8	59.6	20	39	1	2372227	Las Palmas	Álex Suárez	0	0	0	0	0	0
+3	regate_fallado	181	225463	73.2	47.6	20	41	1	2372227	Mallorca	Amath Ndiaye	0	0	0	0	0	0
+7	entrada	407	487703	26.8	52.4	20	42	1	2372227	Las Palmas	Álex Suárez	0	0	0	0	0	0
+49	recuperacion_balon	407	487703	22.1	59.4	20	42	1	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+83	sin_identificar	181	225463	82.7	52.9	20	44	1	2372227	Mallorca	Amath Ndiaye	1	0	0	0	0	0
+1	pase_fallado	407	487703	18.5	48.7	20	44	1	2372227	Las Palmas	Álex Suárez	0	0	0	42.9	33.4	0
+1	pase	181	500759	53.6	72.1	20	46	1	2372227	Mallorca	Copete	1	0	0	62.4	46.6	0
+49	recuperacion_balon	181	107594	67.7	51	20	47	1	2372227	Mallorca	Omar Mascarell	1	0	0	0	0	0
+1	pase	181	107594	62.4	46.3	20	48	1	2372227	Mallorca	Omar Mascarell	1	0	0	88.4	29.1	0
+3	regate_conseguido	181	170154	89.4	31.6	20	52	1	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+45	regate_recibido	407	167432	10.6	68.4	20	52	1	2372227	Las Palmas	Daley Sinkgraven	0	0	0	0	0	0
+1	pase	181	170154	89	33.7	20	54	1	2372227	Mallorca	Pablo Maffeo	1	0	0	88.6	39.4	0
+1	pase	181	156293	88.6	39.4	20	55	1	2372227	Mallorca	Vedat Muriqi	1	0	0	86.2	45.2	0
+14	ocasion_palo	181	80906	86.2	45.2	20	56	1	2372227	Mallorca	Dani Rodríguez	1	22	0	0	0	0
+12	despeje	407	167432	6.2	64.4	20	58	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	25.7	100.8	0
+5	balon_fuera	181	80906	78.5	0	21	0	1	2372227	Mallorca	Dani Rodríguez	1	0	347	0	0	0
+5	balon_fuera	407	167432	21.5	100	21	0	1	2372227	Las Palmas	Daley Sinkgraven	0	0	347	0	0	0
+1	pase	181	170154	78.9	0	21	28	1	2372227	Mallorca	Pablo Maffeo	1	0	0	94.2	16.9	0
+1	pase	181	227164	93.9	6.9	21	32	1	2372227	Mallorca	Manu Morlanes	1	0	0	94.6	2.3	0
+1	pase_fallado	181	170154	95.6	3.1	21	33	1	2372227	Mallorca	Pablo Maffeo	0	0	0	85.3	59.6	0
+12	despeje	407	108438	13.5	37.2	21	35	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	31.2	41.5	0
+13	ocasion_fuera	181	500759	70.6	59	21	37	1	2372227	Mallorca	Copete	1	22	0	0	0	0
+5	balon_fuera	181	500759	92.8	100	21	40	1	2372227	Mallorca	Copete	0	0	347	0	0	0
+5	balon_fuera	407	108438	7.2	0	21	40	1	2372227	Las Palmas	Sandro Ramírez	1	0	347	0	0	0
+1	pase_fallado	407	213469	12.5	0	22	3	1	2372227	Las Palmas	Álvaro Lemos	0	0	0	37.6	5.1	0
+8	pase_cortado	181	170116	61.9	96.5	22	6	1	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+2	pase_fuera_juego	181	58792	70.9	97.1	22	8	1	2372227	Mallorca	Jaume Costa	1	0	0	76.9	85.6	0
+55	sin_identificar	407	451565	23.1	14.2	22	8	1	2372227	Las Palmas	Saúl Coco	1	0	0	0	0	0
+1	pase	407	451565	26.1	21.5	22	37	1	2372227	Las Palmas	Saúl Coco	1	0	0	28.4	57.8	0
+1	pase	407	487703	28.4	58.4	22	38	1	2372227	Las Palmas	Álex Suárez	1	0	0	81.5	80.1	0
+83	sin_identificar	181	195923	19.9	15.7	22	45	1	2372227	Mallorca	Giovanni González	1	0	0	0	0	0
+1	pase	407	244363	81.5	80.3	22	45	1	2372227	Las Palmas	Marc Cardona	1	0	0	73.9	75.1	0
+1	pase_fallado	407	86398	72.6	73.3	22	48	1	2372227	Las Palmas	Jonathan Viera	0	0	0	85.4	72.3	0
+49	recuperacion_balon	181	195923	11.6	28.8	22	48	1	2372227	Mallorca	Giovanni González	1	0	0	0	0	0
+1	pase	181	195923	18.4	32.4	22	50	1	2372227	Mallorca	Giovanni González	1	0	0	22.9	73.8	0
+1	pase_fallado	181	58792	27	77.8	22	54	1	2372227	Mallorca	Jaume Costa	0	0	0	67.3	52.4	0
+49	recuperacion_balon	407	451565	35.2	41.6	22	57	1	2372227	Las Palmas	Saúl Coco	1	0	0	0	0	0
+1	pase	407	451565	34.2	49.7	22	58	1	2372227	Las Palmas	Saúl Coco	1	0	0	40.9	73.2	0
+83	sin_identificar	181	227164	57.5	26.1	23	4	1	2372227	Mallorca	Manu Morlanes	0	0	0	0	0	0
+1	pase	407	487703	46.1	87.8	23	6	1	2372227	Las Palmas	Álex Suárez	1	0	0	40.2	95.6	0
+1	pase	407	167432	38.1	93.6	23	8	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	32.5	78.8	0
+1	pase	407	484753	32.4	65.5	23	16	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	45.1	51.8	0
+1	pase	407	86398	45.1	51.8	23	17	1	2372227	Las Palmas	Jonathan Viera	1	0	0	37.1	32.9	0
+1	pase	407	451565	37	32.5	23	19	1	2372227	Las Palmas	Saúl Coco	1	0	0	44.7	18.8	0
+1	pase	407	213469	44.7	19	23	22	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	56.4	6.9	0
+1	pase	407	108438	56.4	6.9	23	24	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	39.5	14	0
+1	pase	407	213469	40.2	20.1	23	26	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	36	53	0
+1	pase	407	487703	36.1	53	23	30	1	2372227	Las Palmas	Álex Suárez	1	0	0	45	40	0
+1	pase	407	484753	53.5	31.3	23	34	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	64.1	8.3	0
+1	pase	407	213469	64.2	8.5	23	36	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	59	9.6	0
+1	pase	407	484753	63.1	6.7	23	38	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	66	14	0
+1	pase	407	213469	63.6	14	23	39	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	48.1	26.1	0
+1	pase	407	451565	58.8	51.1	23	46	1	2372227	Las Palmas	Saúl Coco	1	0	0	59.5	75.6	0
+1	pase	407	167432	60.3	86.3	23	48	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	67.1	95.1	0
+1	pase	407	244363	67.1	95.1	23	49	1	2372227	Las Palmas	Marc Cardona	1	0	0	59.8	90.2	0
+1	pase	407	167432	58.8	87.8	23	51	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	56.2	67.6	0
+1	pase	407	449718	55.6	63.1	23	53	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	54.4	48	0
+1	pase	407	451565	62.7	42.3	23	57	1	2372227	Las Palmas	Saúl Coco	1	0	0	70.3	30.8	0
+1	pase	407	484753	70.3	30.8	23	58	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	68.5	16.5	0
+1	pase	407	213469	68.5	16.5	23	59	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	74.5	4.1	0
+1	pase_fallado	407	108438	79.8	5.5	24	2	1	2372227	Las Palmas	Sandro Ramírez	0	0	0	87.2	25.1	0
+12	despeje	181	500759	10	72.8	24	3	1	2372227	Mallorca	Copete	1	0	0	26.5	61.6	0
+1	pase	407	449718	73.1	36.3	24	5	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	71.9	26.2	0
+1	pase	407	484753	67	23.3	24	9	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	63.6	39.1	0
+1	pase	407	449718	65.1	44.5	24	10	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	65	58.9	0
+1	pase	407	167432	65	58.9	24	13	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	65.1	29.9	0
+1	pase	407	484753	68.9	23.5	24	16	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	77.1	10.6	0
+1	pase	407	108438	73	11.9	24	20	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	67.1	18.1	0
+1	pase	407	484753	65.3	20.3	24	22	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	67.5	31.3	0
+1	pase	407	449718	67.5	31.3	24	23	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	67	12.8	0
+1	pase	407	484753	64.1	31.2	24	28	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	52.7	65.1	0
+1	pase	407	487703	55.2	66.2	24	32	1	2372227	Las Palmas	Álex Suárez	1	0	0	56.9	47.7	0
+1	pase	407	449718	61.4	41.8	24	34	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	60.7	26	0
+1	pase	407	484753	63.7	14.4	24	38	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	95.9	20.4	0
+1	pase_fallado	407	108438	97.7	21.2	24	41	1	2372227	Las Palmas	Sandro Ramírez	0	0	0	87.5	102	0
+4	falta_recibida	407	108438	97.9	27.2	24	41	1	2372227	Las Palmas	Sandro Ramírez	1	0	152	0	0	265
+4	falta_cometida	181	500759	2.1	72.8	24	41	1	2372227	Mallorca	Copete	0	0	152	0	0	265
+65	sin_identificar	407	108438	22.1	59.4	26	52	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	0	0	0
+17	tarjeta	181	500759	14.1	73.9	27	10	1	2372227	Mallorca	Copete	1	0	0	0	0	0
+58	sin_identificar	181	104407	1	49.4	28	1	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	0	0	0
+16	gol	407	86398	88.5	50	28	1	1	2372227	Las Palmas	Jonathan Viera	1	0	9	0	0	0
+1	pase	181	80906	50.4	50.3	28	59	1	2372227	Mallorca	Dani Rodríguez	1	0	0	39.5	42.3	0
+1	pase	181	107594	41.5	41.2	29	1	1	2372227	Mallorca	Omar Mascarell	1	0	0	32.8	29.1	0
+1	pase	181	195923	37.9	30.3	29	4	1	2372227	Mallorca	Giovanni González	1	0	0	49	5.2	0
+1	pase	181	170154	53.8	6.8	29	8	1	2372227	Mallorca	Pablo Maffeo	1	0	0	39.2	16.5	0
+1	pase	181	195923	36.8	20.3	29	13	1	2372227	Mallorca	Giovanni González	1	0	0	14.1	41	0
+1	pase	181	104407	13.5	38.8	29	17	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	75.4	21.9	0
+1	pase_fallado	181	170154	86.4	25.9	29	23	1	2372227	Mallorca	Pablo Maffeo	0	0	0	92.5	48.8	0
+12	despeje	407	451565	7.8	50.2	29	25	1	2372227	Las Palmas	Saúl Coco	1	0	0	4.8	52.8	0
+52	portero_agarrra_pelota	407	472194	4.7	53	29	26	1	2372227	Las Palmas	Álvaro Vallés	0	0	0	0	0	0
+1	pase_fallado	407	472194	2.7	57.1	29	39	1	2372227	Las Palmas	Álvaro Vallés	0	0	0	67.2	15.8	0
+61	toco_balon	181	195923	32.5	62.7	29	45	1	2372227	Mallorca	Giovanni González	1	0	0	0	0	0
+5	balon_fuera	181	195923	37.4	100	29	48	1	2372227	Mallorca	Giovanni González	0	0	347	0	0	0
+5	balon_fuera	407	472194	62.6	0	29	48	1	2372227	Las Palmas	Álvaro Vallés	1	0	347	0	0	0
+1	pase	407	213469	65.1	0	32	0	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	67.2	10.1	0
+1	pase	407	86398	67.2	10.1	32	1	1	2372227	Las Palmas	Jonathan Viera	1	0	0	63.5	3.7	0
+1	pase_fallado	407	213469	63.5	3.7	32	1	1	2372227	Las Palmas	Álvaro Lemos	0	0	0	71.6	-2	0
+5	balon_fuera	181	58792	33.8	100	32	3	1	2372227	Mallorca	Jaume Costa	1	0	347	0	0	0
+5	balon_fuera	407	213469	66.2	0	32	3	1	2372227	Las Palmas	Álvaro Lemos	0	0	347	0	0	0
+1	pase	181	58792	38.5	100	32	12	1	2372227	Mallorca	Jaume Costa	1	0	0	35.3	96.9	0
+1	pase	181	500759	33.9	95.1	32	15	1	2372227	Mallorca	Copete	1	0	0	37.8	97.5	0
+61	toco_balon	181	58792	37.5	98.3	32	16	1	2372227	Mallorca	Jaume Costa	0	0	0	0	0	0
+5	balon_fuera	181	58792	36.3	100	32	16	1	2372227	Mallorca	Jaume Costa	0	0	347	0	0	0
+5	balon_fuera	407	213469	63.7	0	32	16	1	2372227	Las Palmas	Álvaro Lemos	1	0	347	0	0	0
+1	pase_fallado	407	213469	64.5	0	32	26	1	2372227	Las Palmas	Álvaro Lemos	0	0	0	86.7	26.1	0
+52	portero_agarrra_pelota	181	104407	8.1	74.8	32	31	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	0	0	0
+1	pase	181	104407	13.1	64.3	32	38	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	12.4	35.1	0
+1	pase_fallado	181	170116	23.6	27.9	32	43	1	2372227	Mallorca	Martin Valjent	0	0	0	66.7	21.9	0
+8	pase_cortado	407	484753	31.5	89.2	32	45	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+5	balon_fuera	181	170116	73	0	32	49	1	2372227	Mallorca	Martin Valjent	1	0	347	0	0	0
+5	balon_fuera	407	484753	27	100	32	49	1	2372227	Las Palmas	Kirian Rodríguez	0	0	347	0	0	0
+1	pase	181	170154	76.9	0	33	1	1	2372227	Mallorca	Pablo Maffeo	1	0	0	79.7	11.9	0
+1	pase	181	80906	79.3	15.2	33	2	1	2372227	Mallorca	Dani Rodríguez	1	0	0	82.3	4.1	0
+1	pase_fallado	181	170154	79.2	9.2	33	5	1	2372227	Mallorca	Pablo Maffeo	0	0	0	90.4	42.5	0
+12	despeje	407	451565	9.3	56.2	33	7	1	2372227	Las Palmas	Saúl Coco	1	0	0	45.1	102	0
+5	balon_fuera	181	170154	57.4	0	33	11	1	2372227	Mallorca	Pablo Maffeo	1	0	347	0	0	0
+5	balon_fuera	407	451565	42.6	100	33	11	1	2372227	Las Palmas	Saúl Coco	0	0	347	0	0	0
+1	pase	181	195923	60.8	0	33	17	1	2372227	Mallorca	Giovanni González	1	0	0	66	9.2	0
+1	pase	181	107594	66	9.2	33	18	1	2372227	Mallorca	Omar Mascarell	1	0	0	56.5	4.3	0
+1	pase_fallado	181	195923	57.2	3.4	33	19	1	2372227	Mallorca	Giovanni González	0	0	0	79.1	20.9	0
+12	despeje	407	487703	21.4	89.2	33	22	1	2372227	Las Palmas	Álex Suárez	1	0	0	17.9	102	0
+5	balon_fuera	181	225463	84.4	0	33	24	1	2372227	Mallorca	Amath Ndiaye	1	0	347	0	0	0
+5	balon_fuera	407	487703	15.6	100	33	24	1	2372227	Las Palmas	Álex Suárez	0	0	347	0	0	0
+1	pase_fallado	181	170154	87.3	0	33	41	1	2372227	Mallorca	Pablo Maffeo	0	0	0	87.1	35.2	0
+44	duelo_aereo	407	167432	12.7	61.4	33	43	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+44	duelo_aereo	181	156293	87.3	38.6	33	43	1	2372227	Mallorca	Vedat Muriqi	0	0	0	0	0	0
+12	despeje	407	167432	13.4	64.8	33	43	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	26	52.7	0
+2	pase_fuera_juego	181	500759	69.1	52.5	33	46	1	2372227	Mallorca	Copete	1	0	0	88.3	41.6	0
+55	sin_identificar	407	167432	16.8	60.3	33	46	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+1	pase	407	472194	14.9	56.4	34	16	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	37.4	67.3	0
+1	pase	407	86398	34.4	64.4	34	19	1	2372227	Las Palmas	Jonathan Viera	1	0	0	22.9	38.1	0
+1	pase	407	451565	22.9	38.1	34	20	1	2372227	Las Palmas	Saúl Coco	1	0	0	9.8	49.1	0
+1	pase	407	472194	9.8	49.1	34	22	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	25.8	6.9	0
+1	pase	407	213469	26.7	5.7	34	25	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	48.4	11.4	0
+50	me_roban_balon	407	198221	40.8	7.9	34	30	1	2372227	Las Palmas	Javi Muñoz	0	0	0	0	0	0
+7	entrada	181	227164	59.2	92.1	34	30	1	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+49	recuperacion_balon	181	58792	66.6	95.7	34	31	1	2372227	Mallorca	Jaume Costa	1	0	0	0	0	0
+1	pase	181	58792	66.6	95.7	34	31	1	2372227	Mallorca	Jaume Costa	1	0	0	76.2	91.5	0
+1	pase	181	225463	83.3	97.4	34	35	1	2372227	Mallorca	Amath Ndiaye	1	0	0	92.9	91.8	0
+50	me_roban_balon	181	80906	90.9	95.2	34	38	1	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+7	entrada	407	213469	9.1	4.8	34	38	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+49	recuperacion_balon	407	484753	17.5	6.2	34	40	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+4	falta_recibida	407	484753	18.2	11.1	34	41	1	2372227	Las Palmas	Kirian Rodríguez	1	0	152	0	0	265
+4	falta_cometida	181	225463	81.8	88.9	34	41	1	2372227	Mallorca	Amath Ndiaye	0	0	152	0	0	265
+1	pase	407	451565	16.2	9.9	35	19	1	2372227	Las Palmas	Saúl Coco	1	0	0	9.5	19	0
+1	pase	407	472194	12.2	16.5	35	22	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	54	94.8	0
+50	me_roban_balon	407	108438	54.8	95.6	35	25	1	2372227	Las Palmas	Sandro Ramírez	0	0	0	0	0	0
+7	entrada	181	195923	45.2	4.4	35	26	1	2372227	Mallorca	Giovanni González	1	0	0	0	0	0
+5	balon_fuera	181	195923	56.2	0	35	28	1	2372227	Mallorca	Giovanni González	0	0	347	0	0	0
+5	balon_fuera	407	108438	43.8	100	35	28	1	2372227	Las Palmas	Sandro Ramírez	1	0	347	0	0	0
+1	pase	407	167432	46.1	100	35	49	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	46	92	0
+1	pase	407	86398	45.7	92.7	35	51	1	2372227	Las Palmas	Jonathan Viera	1	0	0	32	60	0
+1	pase	407	451565	44	46.6	35	55	1	2372227	Las Palmas	Saúl Coco	1	0	0	47.2	41.1	0
+45	regate_recibido	181	80906	43.1	64.8	35	58	1	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+3	regate_conseguido	407	484753	56.9	35.2	35	58	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+1	pase	407	484753	60	38.1	36	0	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	46.5	34.5	0
+1	pase	407	451565	46.2	39.2	36	1	1	2372227	Las Palmas	Saúl Coco	1	0	0	53.8	54.4	0
+1	pase	407	449718	55.3	56.1	36	2	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	43.7	63.1	0
+1	pase	407	487703	43.7	64.4	36	4	1	2372227	Las Palmas	Álex Suárez	1	0	0	55.3	85.3	0
+1	pase	407	167432	55.8	86	36	8	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	66.7	97.7	0
+1	pase	407	108438	66.7	97.7	36	9	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	61.5	89.7	0
+1	pase	407	86398	61.5	89.7	36	11	1	2372227	Las Palmas	Jonathan Viera	1	0	0	62	96.3	0
+1	pase	407	108438	62	96.3	36	12	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	55.4	96.3	0
+1	pase	407	167432	55.4	96.3	36	14	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	40.7	74.9	0
+1	pase	407	487703	39.7	76.7	36	17	1	2372227	Las Palmas	Álex Suárez	1	0	0	49.7	74.4	0
+1	pase	407	484753	47.8	74.6	36	18	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	37.9	77.4	0
+1	pase	407	487703	31.5	74	36	24	1	2372227	Las Palmas	Álex Suárez	1	0	0	10.7	41.5	0
+1	pase_fallado	407	472194	21.4	47.7	36	34	1	2372227	Las Palmas	Álvaro Vallés	0	0	0	65.7	92.9	0
+1	pase_fallado	181	170154	35.2	11.9	36	37	1	2372227	Mallorca	Pablo Maffeo	0	0	0	37.2	-2	0
+5	balon_fuera	181	170154	36.8	0	36	38	1	2372227	Mallorca	Pablo Maffeo	0	0	347	0	0	0
+5	balon_fuera	407	472194	63.2	100	36	38	1	2372227	Las Palmas	Álvaro Vallés	1	0	347	0	0	0
+1	pase	407	167432	56.4	100	36	50	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	62.2	92.7	0
+1	pase	407	86398	62.2	92.7	36	51	1	2372227	Las Palmas	Jonathan Viera	1	0	0	60.9	98.4	0
+1	pase	407	167432	61.2	98.3	36	52	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	65.2	83.7	0
+61	toco_balon	407	108438	65.5	82.9	36	53	1	2372227	Las Palmas	Sandro Ramírez	0	0	0	0	0	0
+49	recuperacion_balon	181	80906	39	26.8	36	55	1	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+1	pase	181	80906	36.7	29.4	36	57	1	2372227	Mallorca	Dani Rodríguez	1	0	0	41.7	74.5	0
+1	pase_fallado	181	58792	42.9	81.4	37	1	1	2372227	Mallorca	Jaume Costa	0	0	0	70.8	76.6	0
+49	recuperacion_balon	407	451565	27	17.2	37	3	1	2372227	Las Palmas	Saúl Coco	1	0	0	0	0	0
+1	pase_fallado	407	451565	27	17.2	37	3	1	2372227	Las Palmas	Saúl Coco	0	0	0	37.6	-2	0
+5	balon_fuera	181	58792	60.6	100	37	6	1	2372227	Mallorca	Jaume Costa	1	0	347	0	0	0
+5	balon_fuera	407	451565	39.4	0	37	6	1	2372227	Las Palmas	Saúl Coco	0	0	347	0	0	0
+1	pase	181	58792	65.5	100	37	10	1	2372227	Mallorca	Jaume Costa	1	0	0	49.1	96.9	0
+1	pase	181	500759	47.3	95	37	14	1	2372227	Mallorca	Copete	1	0	0	14.7	56	0
+1	pase	181	104407	14.9	47.3	37	22	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	62.2	20.6	0
+44	duelo_aereo	181	170154	61.6	17.7	37	25	1	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+44	duelo_aereo	407	167432	38.4	82.3	37	25	1	2372227	Las Palmas	Daley Sinkgraven	0	0	0	0	0	0
+1	pase_fallado	181	170154	59.4	20	37	25	1	2372227	Mallorca	Pablo Maffeo	0	0	0	46.7	32.6	0
+49	recuperacion_balon	407	449718	52.4	75.6	37	27	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+1	pase	407	449718	49.1	75.3	37	29	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	39.4	79.9	0
+1	pase_fallado	407	167432	39.4	79.9	37	30	1	2372227	Las Palmas	Daley Sinkgraven	0	0	0	65.6	77.8	0
+49	recuperacion_balon	181	170116	39.8	25.5	37	32	1	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+1	pase	181	170116	40.2	19.7	37	35	1	2372227	Mallorca	Martin Valjent	1	0	0	43.6	29.1	0
+1	pase	181	107594	43.7	29.4	37	37	1	2372227	Mallorca	Omar Mascarell	1	0	0	39.9	41.5	0
+1	pase	181	227164	43.7	42.1	37	39	1	2372227	Mallorca	Manu Morlanes	1	0	0	54.2	40.7	0
+1	pase	181	225463	57.1	43.9	37	40	1	2372227	Mallorca	Amath Ndiaye	1	0	0	53	47.2	0
+1	pase	181	107594	54.3	49.9	37	42	1	2372227	Mallorca	Omar Mascarell	1	0	0	68.4	92.3	0
+1	pase	181	58792	80.4	90.9	37	46	1	2372227	Mallorca	Jaume Costa	1	0	0	92.8	37.3	0
+44	duelo_aereo	181	156293	93.5	42.8	37	49	1	2372227	Mallorca	Vedat Muriqi	1	0	0	0	0	0
+44	duelo_aereo	407	487703	6.5	57.2	37	49	1	2372227	Las Palmas	Álex Suárez	0	0	0	0	0	0
+1	pase	181	156293	92.8	37.3	37	49	1	2372227	Mallorca	Vedat Muriqi	1	0	0	88.6	50.3	0
+15	disparo_parado	181	80906	87.4	46.6	37	50	1	2372227	Mallorca	Dani Rodríguez	1	22	0	0	0	0
+61	toco_balon	181	225463	90	46	37	50	1	2372227	Mallorca	Amath Ndiaye	1	0	0	0	0	0
+4	falta_recibida	181	225463	90.9	46.8	37	52	1	2372227	Mallorca	Amath Ndiaye	1	0	152	0	0	265
+4	falta_cometida	407	484753	9.1	53.2	37	52	1	2372227	Las Palmas	Kirian Rodríguez	0	0	152	0	0	265
+17	tarjeta	407	484753	13.7	45	38	22	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+14	ocasion_palo	181	156293	88.5	50	40	1	1	2372227	Mallorca	Vedat Muriqi	1	0	9	0	0	0
+58	sin_identificar	407	472194	1.5	50.5	40	1	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	0	0	0
+4	falta_cometida	181	156293	90.8	51.6	40	2	1	2372227	Mallorca	Vedat Muriqi	0	0	241	0	0	0
+1	pase_fallado	407	472194	3.7	50.5	40	48	1	2372227	Las Palmas	Álvaro Vallés	0	0	0	43.2	80.8	0
+49	recuperacion_balon	181	170154	64.8	5.2	40	50	1	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+1	pase	181	170154	64.8	5.2	40	50	1	2372227	Mallorca	Pablo Maffeo	1	0	0	77.7	4.4	0
+1	pase_fallado	181	80906	76.9	3.4	40	55	1	2372227	Mallorca	Dani Rodríguez	0	0	0	79.1	5.5	0
+61	toco_balon	407	451565	20.5	96	40	55	1	2372227	Las Palmas	Saúl Coco	1	0	0	0	0	0
+1	pase_fallado	181	170154	99.1	8.2	40	58	1	2372227	Mallorca	Pablo Maffeo	0	0	0	97.3	7.1	0
+61	toco_balon	407	167432	3.5	89.9	40	58	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+6	corner	181	170154	94.6	2.2	40	59	1	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+6	corner	407	167432	5.4	97.8	40	59	1	2372227	Las Palmas	Daley Sinkgraven	0	0	0	0	0	0
+1	pase	181	80906	99.5	0.5	41	26	1	2372227	Mallorca	Dani Rodríguez	1	0	0	97.9	26.7	0
+1	pase	181	500759	97.9	26.7	41	28	1	2372227	Mallorca	Copete	1	0	0	88.1	16.4	0
+1	pase	181	80906	86.2	17.3	41	29	1	2372227	Mallorca	Dani Rodríguez	1	0	0	84.4	91.8	0
+1	pase	181	170154	73.1	79.3	41	38	1	2372227	Mallorca	Pablo Maffeo	1	0	0	58.4	59.7	0
+1	pase_fallado	181	227164	58.4	59.7	41	41	1	2372227	Mallorca	Manu Morlanes	0	0	0	40.7	102	0
+5	balon_fuera	181	227164	43.7	100	41	45	1	2372227	Mallorca	Manu Morlanes	0	0	347	0	0	0
+5	balon_fuera	407	487703	56.3	0	41	45	1	2372227	Las Palmas	Álex Suárez	1	0	347	0	0	0
+1	pase	407	213469	55.9	0	42	2	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	65.5	5.8	0
+45	regate_recibido	181	227164	37.9	93.2	42	3	1	2372227	Mallorca	Manu Morlanes	0	0	0	0	0	0
+3	regate_conseguido	407	86398	62.1	6.8	42	3	1	2372227	Las Palmas	Jonathan Viera	1	0	0	0	0	0
+3	regate_fallado	407	86398	62	6.4	42	5	1	2372227	Las Palmas	Jonathan Viera	0	0	0	0	0	0
+7	entrada	181	227164	38	93.6	42	5	1	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+49	recuperacion_balon	181	227164	41.5	94.2	42	5	1	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+1	pase_fallado	181	227164	42.8	95.4	42	8	1	2372227	Mallorca	Manu Morlanes	0	0	0	45.3	81.2	0
+8	pase_cortado	407	484753	57.6	21	42	9	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+3	regate_conseguido	181	80906	54	68.4	42	12	1	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+45	regate_recibido	407	484753	46	31.6	42	12	1	2372227	Las Palmas	Kirian Rodríguez	0	0	0	0	0	0
+61	toco_balon	181	80906	53.3	71.1	42	13	1	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+49	recuperacion_balon	407	449718	44.8	30.9	42	14	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+1	pase	407	449718	44.8	30.9	42	15	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	45.6	21.7	0
+1	pase	407	244363	45.6	21.7	42	16	1	2372227	Las Palmas	Marc Cardona	1	0	0	37	29.7	0
+1	pase	407	213469	36.9	29.7	42	19	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	31.8	30.8	0
+1	pase	407	451565	31.7	30.8	42	20	1	2372227	Las Palmas	Saúl Coco	1	0	0	9.1	51.8	0
+1	pase	407	472194	8.4	52	42	25	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	20.2	21	0
+1	pase	407	451565	32.7	15.6	42	29	1	2372227	Las Palmas	Saúl Coco	1	0	0	42.9	38.6	0
+1	pase	407	244363	42.9	38.6	42	31	1	2372227	Las Palmas	Marc Cardona	1	0	0	33.5	50.9	0
+1	pase_fallado	407	484753	33.5	50.9	42	32	1	2372227	Las Palmas	Kirian Rodríguez	0	0	0	64.5	77.8	0
+49	recuperacion_balon	181	195923	42.6	26.7	42	34	1	2372227	Mallorca	Giovanni González	1	0	0	0	0	0
+4	falta_recibida	181	195923	47.4	22.7	42	35	1	2372227	Mallorca	Giovanni González	1	0	152	0	0	265
+4	falta_cometida	407	198221	52.6	77.3	42	35	1	2372227	Las Palmas	Javi Muñoz	0	0	152	0	0	265
+1	pase	181	107594	52.1	35.2	42	56	1	2372227	Mallorca	Omar Mascarell	1	0	0	38	50	0
+1	pase	181	170116	39.2	49.3	42	59	1	2372227	Mallorca	Martin Valjent	1	0	0	41.4	31.6	0
+1	pase	181	107594	43.4	29.7	43	2	1	2372227	Mallorca	Omar Mascarell	1	0	0	39.4	13.5	0
+1	pase	181	195923	40.5	11.8	43	4	1	2372227	Mallorca	Giovanni González	1	0	0	45.6	20.7	0
+1	pase	181	107594	45.7	19.4	43	5	1	2372227	Mallorca	Omar Mascarell	1	0	0	38.3	15.8	0
+1	pase_fallado	181	195923	39.4	14.7	43	6	1	2372227	Mallorca	Giovanni González	0	0	0	43.8	11.6	0
+49	recuperacion_balon	407	108438	64.5	92	43	8	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	0	0	0
+83	sin_identificar	181	107594	43.4	5.2	43	8	1	2372227	Mallorca	Omar Mascarell	0	0	0	0	0	0
+61	toco_balon	407	108438	62.1	96.7	43	9	1	2372227	Las Palmas	Sandro Ramírez	0	0	0	0	0	0
+5	balon_fuera	181	107594	41.3	0	43	10	1	2372227	Mallorca	Omar Mascarell	1	0	347	0	0	0
+5	balon_fuera	407	108438	58.7	100	43	10	1	2372227	Las Palmas	Sandro Ramírez	0	0	347	0	0	0
+1	pase	181	170154	40.1	0	43	38	1	2372227	Mallorca	Pablo Maffeo	1	0	0	62.7	17.9	0
+50	me_roban_balon	181	80906	74.2	26.8	43	42	1	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+7	entrada	407	484753	25.8	73.2	43	42	1	2372227	Las Palmas	Kirian Rodríguez	0	0	0	0	0	0
+50	me_roban_balon	181	80906	73.8	27.2	43	43	1	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+7	entrada	407	484753	26.2	72.8	43	43	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+49	recuperacion_balon	407	449718	38.3	74.9	43	45	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+1	pase	407	449718	38.3	74.9	43	45	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	43.8	75.3	0
+1	pase	407	86398	43.8	75.3	43	46	1	2372227	Las Palmas	Jonathan Viera	1	0	0	41.1	60.7	0
+1	pase	407	198221	41.1	60.7	43	47	1	2372227	Las Palmas	Javi Muñoz	1	0	0	38.5	95.8	0
+1	pase	407	449718	38.6	95.8	43	50	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	45.1	96.8	0
+1	pase	407	108438	45.1	96.8	43	51	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	43.2	88.8	0
+1	pase	407	86398	52.8	88.4	43	54	1	2372227	Las Palmas	Jonathan Viera	1	0	0	85.8	94.6	0
+1	pase	407	108438	89.5	78	44	2	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	75.7	64.1	0
+1	pase	407	198221	75.7	64.1	44	3	1	2372227	Las Palmas	Javi Muñoz	1	0	0	72.9	56.1	0
+15	disparo_parado	407	449718	74.1	53.8	44	5	1	2372227	Las Palmas	Enzo Loiodice	1	22	0	0	0	0
+10	parada	181	170116	21.1	48.6	44	5	1	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+44	duelo_aereo	407	449718	70.6	70.3	44	8	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+44	duelo_aereo	181	80906	29.4	29.7	44	8	1	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+1	pase	407	449718	73.4	71	44	8	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	68.3	78.3	0
+1	pase	407	167432	67.5	83.1	44	11	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	77.4	91.3	0
+1	pase	407	108438	71.8	90.2	44	18	1	2372227	Las Palmas	Sandro Ramírez	1	0	0	63.7	89.5	0
+1	pase	407	449718	62.5	90.4	44	19	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	64.7	82.6	0
+1	pase	407	484753	64.7	82.6	44	21	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	61.6	90.2	0
+1	pase	407	449718	64.5	90.6	44	22	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	63	82.4	0
+1	pase	407	484753	63	78	44	24	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	65.2	90.2	0
+1	pase	407	449718	66.3	84.9	44	26	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	59	77.2	0
+1	pase	407	484753	64.6	81	44	29	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	72.7	82.6	0
+1	pase	407	198221	73.5	83.3	44	32	1	2372227	Las Palmas	Javi Muñoz	1	0	0	78.4	94.9	0
+1	pase	407	167432	75.7	93.3	44	35	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	61	92.2	0
+1	pase	407	449718	60.4	89.9	44	38	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	54.7	62.5	0
+1	pase	407	487703	54.7	62.5	44	40	1	2372227	Las Palmas	Álex Suárez	1	0	0	56.6	89	0
+1	pase	407	449718	59	92.6	44	43	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	69.8	87.2	0
+45	regate_recibido	181	107594	35.4	18.8	44	44	1	2372227	Mallorca	Omar Mascarell	0	0	0	0	0	0
+3	regate_conseguido	407	86398	64.6	81.2	44	44	1	2372227	Las Palmas	Jonathan Viera	1	0	0	0	0	0
+1	pase	407	86398	69.7	84.4	44	45	1	2372227	Las Palmas	Jonathan Viera	1	0	0	62.9	69.8	0
+1	pase	407	484753	62.9	69.8	44	45	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	58.3	90.4	0
+1	pase	407	449718	58.3	90.4	44	48	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	53	74.9	0
+1	pase	407	487703	53	74.9	44	49	1	2372227	Las Palmas	Álex Suárez	1	0	0	58	93.3	0
+1	pase	407	449718	58.4	92.9	44	51	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	63.6	97.2	0
+1	pase	407	86398	63.6	97.2	44	52	1	2372227	Las Palmas	Jonathan Viera	1	0	0	58	95.6	0
+1	pase	407	449718	58	95.6	44	53	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	63	96.1	0
+1	pase	407	86398	62.4	96.3	44	54	1	2372227	Las Palmas	Jonathan Viera	1	0	0	62.1	90.2	0
+1	pase	407	484753	61.9	89.4	44	55	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	48.8	91	0
+1	pase	407	449718	48.4	87.4	45	0	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	36.6	73.2	0
+1	pase	407	487703	37	71.9	45	3	1	2372227	Las Palmas	Álex Suárez	1	0	0	39.9	39.5	0
+1	pase	407	451565	38.1	36.6	45	6	1	2372227	Las Palmas	Saúl Coco	1	0	0	31.7	53	0
+1	pase	407	487703	32.5	57.3	45	9	1	2372227	Las Palmas	Álex Suárez	1	0	0	34.2	89.7	0
+1	pase	407	449718	34.2	89.9	45	11	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	45.1	95.2	0
+1	pase_fallado	407	167432	45.1	95.2	45	13	1	2372227	Las Palmas	Daley Sinkgraven	0	0	0	46.1	95.2	0
+74	bloqueo_pase	181	170154	55.5	5.6	45	13	1	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+5	balon_fuera	181	170154	53.8	0	45	14	1	2372227	Mallorca	Pablo Maffeo	0	0	347	0	0	0
+5	balon_fuera	407	167432	46.2	100	45	14	1	2372227	Las Palmas	Daley Sinkgraven	1	0	347	0	0	0
+1	pase	407	167432	56.3	100	45	21	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	56.6	94.2	0
+1	pase	407	484753	56.3	92.9	45	23	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	42.6	96.5	0
+1	pase	407	167432	42.9	96.2	45	25	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	14.4	52.8	0
+1	pase	407	472194	14.4	49.1	45	31	1	2372227	Las Palmas	Álvaro Vallés	1	0	0	25.3	33.6	0
+1	pase	407	451565	25.5	33.8	45	34	1	2372227	Las Palmas	Saúl Coco	1	0	0	28.7	47.2	0
+1	pase	407	484753	28.6	47	45	35	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	10.9	46.1	0
+1	pase_fallado	407	472194	11.5	45.9	45	37	1	2372227	Las Palmas	Álvaro Vallés	0	0	0	34.7	-2	0
+5	balon_fuera	181	170154	67.9	100	45	40	1	2372227	Mallorca	Pablo Maffeo	1	0	347	0	0	0
+5	balon_fuera	407	472194	32.1	0	45	40	1	2372227	Las Palmas	Álvaro Vallés	0	0	347	0	0	0
+1	pase	181	58792	71.2	100	45	46	1	2372227	Mallorca	Jaume Costa	1	0	0	56.3	93.2	0
+1	pase	181	500759	45.7	77.9	45	51	1	2372227	Mallorca	Copete	1	0	0	36.7	44	0
+1	pase	181	170116	34.4	48.5	45	56	1	2372227	Mallorca	Martin Valjent	1	0	0	15.7	63.1	0
+1	pase	181	104407	15.7	63.1	45	58	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	63.4	73.9	0
+4	falta_cometida	181	156293	65.4	74.5	46	4	1	2372227	Mallorca	Vedat Muriqi	0	0	152	0	0	0
+1	pase	407	451565	34.9	13.1	46	36	1	2372227	Las Palmas	Saúl Coco	1	0	0	68.7	21.7	0
+1	pase	407	198221	66.8	21.1	46	38	1	2372227	Las Palmas	Javi Muñoz	1	0	0	66.4	13.9	0
+61	toco_balon	407	244363	65.5	14.3	46	39	1	2372227	Las Palmas	Marc Cardona	1	0	0	0	0	0
+1	pase_fallado	407	198221	60.7	19	46	40	1	2372227	Las Palmas	Javi Muñoz	0	0	0	61.8	17.8	0
+61	toco_balon	181	170116	36.5	81.1	46	40	1	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+3	regate_fallado	407	213469	60.1	18.4	46	41	1	2372227	Las Palmas	Álvaro Lemos	0	0	0	0	0	0
+7	entrada	181	58792	39.9	81.6	46	42	1	2372227	Mallorca	Jaume Costa	0	0	0	0	0	0
+61	toco_balon	407	213469	60.3	17.2	46	42	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+1	pase_fallado	181	107594	38.3	70.1	46	43	1	2372227	Mallorca	Omar Mascarell	0	0	0	39.7	69.9	0
+74	bloqueo_pase	407	213469	60.7	20.8	46	43	1	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+61	toco_balon	181	107594	41	75.3	46	43	1	2372227	Mallorca	Omar Mascarell	1	0	0	0	0	0
+45	regate_recibido	181	107594	40.6	73.6	46	45	1	2372227	Mallorca	Omar Mascarell	0	0	0	0	0	0
+3	regate_conseguido	407	244363	59.4	26.4	46	45	1	2372227	Las Palmas	Marc Cardona	1	0	0	0	0	0
+3	regate_fallado	407	244363	60.4	22.4	46	46	1	2372227	Las Palmas	Marc Cardona	0	0	0	0	0	0
+7	entrada	181	80906	39.6	77.6	46	47	1	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+61	toco_balon	407	244363	56.5	38.2	46	47	1	2372227	Las Palmas	Marc Cardona	1	0	0	0	0	0
+50	me_roban_balon	181	80906	39.7	68.6	46	48	1	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+7	entrada	407	213469	60.3	31.4	46	48	1	2372227	Las Palmas	Álvaro Lemos	0	0	0	0	0	0
+50	me_roban_balon	181	80906	40.1	77.4	46	48	1	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+7	entrada	407	213469	59.9	22.6	46	49	1	2372227	Las Palmas	Álvaro Lemos	0	0	0	0	0	0
+1	pase_fallado	181	225463	46.3	69.4	46	50	1	2372227	Mallorca	Amath Ndiaye	0	0	0	41.8	51.3	0
+83	sin_identificar	181	227164	46.6	51.9	46	53	1	2372227	Mallorca	Manu Morlanes	0	0	0	0	0	0
+1	pase	407	86398	54.3	47	46	53	1	2372227	Las Palmas	Jonathan Viera	1	0	0	42.2	41.6	0
+1	pase	407	487703	42.2	41.6	46	54	1	2372227	Las Palmas	Álex Suárez	1	0	0	47.6	38.6	0
+1	pase	407	484753	52	40.2	46	56	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	56.6	61.4	0
+1	pase_fallado	407	449718	57	66.2	46	58	1	2372227	Las Palmas	Enzo Loiodice	0	0	0	84.9	65	0
+52	portero_agarrra_pelota	181	104407	14.4	37.7	47	1	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	0	0	0
+1	pase_fallado	181	104407	14.1	51.3	47	25	1	2372227	Mallorca	Predrag Rajkovic	0	0	0	58.1	37.3	0
+49	recuperacion_balon	407	449718	67.1	66.9	47	28	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+1	pase	407	449718	67.1	66.9	47	30	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	73.8	76.5	0
+3	regate_fallado	407	108438	84	78.5	47	32	1	2372227	Las Palmas	Sandro Ramírez	0	0	0	0	0	0
+7	entrada	181	170154	16	21.5	47	32	1	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+49	recuperacion_balon	181	170154	24	25.8	47	34	1	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+50	me_roban_balon	181	170154	26.9	19.1	47	34	1	2372227	Mallorca	Pablo Maffeo	0	0	0	0	0	0
+7	entrada	407	449718	73.1	80.9	47	34	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+49	recuperacion_balon	407	167432	73.2	96.1	47	37	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+1	pase	407	167432	81.6	91.7	47	41	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	70.6	92.7	0
+1	pase	407	484753	70.7	90.8	47	43	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	75.2	82.8	0
+1	pase	407	449718	75.2	82.8	47	44	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	69.6	90.1	0
+1	pase	407	484753	70.1	90.5	47	45	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	72.5	77.1	0
+1	pase	407	86398	70.4	81	47	48	1	2372227	Las Palmas	Jonathan Viera	1	0	0	72.6	74.8	0
+50	me_roban_balon	407	108438	70.2	76.6	47	49	1	2372227	Las Palmas	Sandro Ramírez	0	0	0	0	0	0
+7	entrada	181	170116	29.8	23.4	47	49	1	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+49	recuperacion_balon	181	107594	31.2	28.2	47	49	1	2372227	Mallorca	Omar Mascarell	1	0	0	0	0	0
+1	pase	181	107594	31.2	28.2	47	50	1	2372227	Mallorca	Omar Mascarell	1	0	0	36.7	36.9	0
+4	falta_recibida	181	156293	38.4	49	47	53	1	2372227	Mallorca	Vedat Muriqi	1	0	152	0	0	0
+4	falta_cometida	407	487703	61.6	51	47	53	1	2372227	Las Palmas	Álex Suárez	0	0	152	0	0	0
+1	pase	181	107594	38.6	49.4	48	24	1	2372227	Mallorca	Omar Mascarell	1	0	0	70.6	8	0
+1	pase_fallado	181	170154	70.6	8	48	26	1	2372227	Mallorca	Pablo Maffeo	0	0	0	96.4	53	0
+52	portero_agarrra_pelota	407	472194	5.4	36.9	48	28	1	2372227	Las Palmas	Álvaro Vallés	0	0	0	0	0	0
+1	pase_fallado	407	472194	13.7	51.2	48	47	1	2372227	Las Palmas	Álvaro Vallés	0	0	0	68.5	18.3	0
+1	pase_fallado	181	170116	32.6	72.3	48	51	1	2372227	Mallorca	Martin Valjent	0	0	0	43	73.9	0
+4	falta_recibida	407	213469	57.8	22	48	52	1	2372227	Las Palmas	Álvaro Lemos	1	0	152	0	0	265
+4	falta_cometida	181	58792	42.2	78	48	52	1	2372227	Mallorca	Jaume Costa	0	0	152	0	0	265
+1	pase	407	484753	55.8	18.5	49	13	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	44.5	58.5	0
+1	pase	407	487703	44.3	61.6	49	16	1	2372227	Las Palmas	Álex Suárez	1	0	0	18.9	53.6	0
+1	pase_fallado	407	472194	22.5	50.5	49	28	1	2372227	Las Palmas	Álvaro Vallés	0	0	0	62.5	90.1	0
+1	pase	181	195923	34.4	19.4	49	31	1	2372227	Mallorca	Giovanni González	1	0	0	43.9	31.5	0
+1	pase_fallado	181	227164	43.9	31.5	49	33	1	2372227	Mallorca	Manu Morlanes	0	0	0	38.9	27.7	0
+44	duelo_aereo	407	484753	61	72.8	49	35	1	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+44	duelo_aereo	181	225463	39	27.2	49	35	1	2372227	Mallorca	Amath Ndiaye	0	0	0	0	0	0
+1	pase_fallado	407	484753	60.9	73.3	49	35	1	2372227	Las Palmas	Kirian Rodríguez	0	0	0	62.6	77.2	0
+49	recuperacion_balon	181	225463	38.9	25.9	49	36	1	2372227	Mallorca	Amath Ndiaye	1	0	0	0	0	0
+1	pase	181	225463	39.9	22.2	49	36	1	2372227	Mallorca	Amath Ndiaye	1	0	0	40.8	11.3	0
+1	pase_fallado	181	170154	40	6.8	49	38	1	2372227	Mallorca	Pablo Maffeo	0	0	0	42.3	7	0
+74	bloqueo_pase	407	167432	60.4	96.7	49	39	1	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+5	balon_fuera	181	170154	38.9	0	49	39	1	2372227	Mallorca	Pablo Maffeo	1	0	347	0	0	0
+5	balon_fuera	407	167432	61.1	100	49	39	1	2372227	Las Palmas	Daley Sinkgraven	0	0	347	0	0	0
+1	pase	181	170154	41.5	0	49	53	1	2372227	Mallorca	Pablo Maffeo	1	0	0	43.7	10.7	0
+1	pase	181	80906	42.2	11.7	49	56	1	2372227	Mallorca	Dani Rodríguez	1	0	0	32.4	4.9	0
+2	pase_fuera_juego	181	195923	35.8	2.5	49	58	1	2372227	Mallorca	Giovanni González	1	0	0	56.3	16.3	0
+55	sin_identificar	407	487703	43.3	77.9	49	58	1	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+1	pase	407	487703	39	86.1	51	11	1	2372227	Las Palmas	Álex Suárez	1	0	0	67	91.3	0
+3	regate_fallado	407	449718	64.1	86.7	51	14	1	2372227	Las Palmas	Enzo Loiodice	0	0	0	0	0	0
+7	entrada	181	195923	35.9	13.3	51	14	1	2372227	Mallorca	Giovanni González	0	0	0	0	0	0
+61	toco_balon	407	449718	67	89.2	51	14	1	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+4	falta_recibida	181	170154	35.1	10.2	51	17	1	2372227	Mallorca	Pablo Maffeo	1	0	152	0	0	0
+4	falta_cometida	407	108438	64.9	89.8	51	17	1	2372227	Las Palmas	Sandro Ramírez	0	0	152	0	0	0
+1	pase	181	104407	31.7	19.8	51	33	1	2372227	Mallorca	Predrag Rajkovic	1	0	0	70.4	3.5	0
+61	toco_balon	181	80906	70.2	2.9	51	36	1	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+18	cambio_jugador_fuera	181	195923	49.8	49.7	45	0	2	2372227	Mallorca	Giovanni González	1	0	0	0	0	0
+19	cambio_jugador_dentro	181	169007	49.8	49.7	45	0	2	2372227	Mallorca	Sergi Darder	1	0	0	0	0	0
+18	cambio_jugador_fuera	181	500759	68.8	0	45	0	2	2372227	Mallorca	Copete	1	0	0	0	0	0
+19	cambio_jugador_dentro	181	105571	68.8	0	45	0	2	2372227	Mallorca	Antonio Raíllo	1	0	0	0	0	0
+1	pase	407	86398	50.1	50.2	45	0	2	2372227	Las Palmas	Jonathan Viera	1	0	0	40.7	48.9	0
+1	pase	407	484753	41.5	49.5	45	4	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	38.9	78.8	0
+1	pase	407	167432	38.4	78.1	45	5	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	26.2	67.1	0
+1	pase	407	487703	30.7	70.8	45	12	2	2372227	Las Palmas	Álex Suárez	1	0	0	37.3	91.8	0
+1	pase	407	167432	33.9	84.2	45	16	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	10.8	64.6	0
+1	pase	407	472194	8.3	52	45	20	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	41.6	6.7	0
+1	pase_fallado	407	244363	41.6	6.7	45	24	2	2372227	Las Palmas	Marc Cardona	0	0	0	59.3	24.9	0
+49	recuperacion_balon	181	105571	38.2	67.3	45	27	2	2372227	Mallorca	Antonio Raíllo	1	0	0	0	0	0
+1	pase	181	105571	33.5	68.6	45	27	2	2372227	Mallorca	Antonio Raíllo	1	0	0	6	44.3	0
+1	pase	181	104407	6.1	35.7	45	34	2	2372227	Mallorca	Predrag Rajkovic	1	0	0	10.6	8	0
+1	pase_fallado	181	170116	17.8	5	45	38	2	2372227	Mallorca	Martin Valjent	0	0	0	56.1	31.4	0
+1	pase_fallado	407	487703	39.7	75.1	45	40	2	2372227	Las Palmas	Álex Suárez	0	0	0	56.3	56.4	0
+61	toco_balon	181	227164	43.6	33.3	45	42	2	2372227	Mallorca	Manu Morlanes	0	0	0	0	0	0
+1	pase	407	449718	57.3	57.3	45	43	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	61.4	43.2	0
+49	recuperacion_balon	407	244363	60.7	37.9	45	44	2	2372227	Las Palmas	Marc Cardona	1	0	0	0	0	0
+1	pase	407	244363	61.1	35.6	45	47	2	2372227	Las Palmas	Marc Cardona	1	0	0	38.4	41.1	0
+1	pase	407	451565	36.1	30.2	46	8	2	2372227	Las Palmas	Saúl Coco	1	0	0	36.1	37.7	0
+1	pase	407	484753	36.1	37.4	46	9	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	37.6	26.3	0
+1	pase	407	451565	37.8	24	46	11	2	2372227	Las Palmas	Saúl Coco	1	0	0	36.8	2.6	0
+1	pase	407	213469	36.9	2.6	46	14	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	42.5	3.3	0
+3	regate_fallado	407	244363	44.9	5	46	15	2	2372227	Las Palmas	Marc Cardona	0	0	0	0	0	0
+7	entrada	181	58792	55.1	95	46	15	2	2372227	Mallorca	Jaume Costa	1	0	0	0	0	0
+49	recuperacion_balon	181	169007	54.9	85.7	46	16	2	2372227	Mallorca	Sergi Darder	1	0	0	0	0	0
+1	pase_fallado	181	169007	54.9	85.7	46	17	2	2372227	Mallorca	Sergi Darder	0	0	0	74.6	43	0
+49	recuperacion_balon	407	167432	22.6	60.8	46	20	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+1	pase	407	167432	20.2	62.7	46	20	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	9.5	60	0
+1	pase_fallado	407	472194	8.7	72.3	46	24	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	47.5	91.7	0
+1	pase_fallado	181	170116	50.9	10.6	46	28	2	2372227	Mallorca	Martin Valjent	0	0	0	55	5.8	0
+5	balon_fuera	181	170116	55.2	0	46	31	2	2372227	Mallorca	Martin Valjent	0	0	347	0	0	0
+5	balon_fuera	407	108438	44.8	100	46	31	2	2372227	Las Palmas	Sandro Ramírez	1	0	347	0	0	0
+1	pase_fallado	407	167432	43.3	100	46	49	2	2372227	Las Palmas	Daley Sinkgraven	0	0	0	57.4	96.9	0
+61	toco_balon	407	108438	57.6	96.8	46	50	2	2372227	Las Palmas	Sandro Ramírez	0	0	0	0	0	0
+49	recuperacion_balon	181	170116	28.7	7.1	46	53	2	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+1	pase_fallado	181	170116	28.7	7.1	46	53	2	2372227	Mallorca	Martin Valjent	0	0	0	74.6	23.7	0
+59	portero_sale_despeja	407	472194	26	79.4	46	57	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	0	0	0
+12	despeje	407	472194	26	79.4	46	57	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	29.7	101.3	0
+5	balon_fuera	181	170116	69.6	0	47	0	2	2372227	Mallorca	Martin Valjent	1	0	347	0	0	0
+5	balon_fuera	407	472194	30.4	100	47	0	2	2372227	Las Palmas	Álvaro Vallés	0	0	347	0	0	0
+1	pase	181	170154	68.8	0	47	16	2	2372227	Mallorca	Pablo Maffeo	1	0	0	66.4	24.9	0
+1	pase	181	156293	65.7	25.5	47	20	2	2372227	Mallorca	Vedat Muriqi	1	0	0	53.9	46.4	0
+1	pase	181	105571	53.5	47.6	47	22	2	2372227	Mallorca	Antonio Raíllo	1	0	0	54	85	0
+1	pase	181	58792	57.6	85	47	27	2	2372227	Mallorca	Jaume Costa	1	0	0	65.6	78.4	0
+1	pase_fallado	181	225463	64.9	77.8	47	29	2	2372227	Mallorca	Amath Ndiaye	0	0	0	63	78.8	0
+74	bloqueo_pase	407	198221	36	10.1	47	29	2	2372227	Las Palmas	Javi Muñoz	1	0	0	0	0	0
+49	recuperacion_balon	407	244363	31.8	4.9	47	30	2	2372227	Las Palmas	Marc Cardona	1	0	0	0	0	0
+1	pase	407	244363	31.8	4.9	47	30	2	2372227	Las Palmas	Marc Cardona	1	0	0	32.7	21.7	0
+1	pase	407	484753	33.8	21.5	47	33	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	37.5	6.2	0
+1	pase	407	198221	37.4	6.2	47	34	2	2372227	Las Palmas	Javi Muñoz	1	0	0	36.6	15.6	0
+1	pase	407	484753	36.6	16	47	35	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	27.6	11.2	0
+1	pase	407	213469	27.3	12.1	47	38	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	33.7	17.8	0
+1	pase	407	484753	38	18.7	47	46	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	28.6	41.8	0
+1	pase	407	451565	30.8	30.1	47	49	2	2372227	Las Palmas	Saúl Coco	1	0	0	39.4	8.3	0
+1	pase	407	484753	41.6	6	47	52	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	60	0.8	0
+50	me_roban_balon	407	244363	52.3	3.4	47	53	2	2372227	Las Palmas	Marc Cardona	0	0	0	0	0	0
+7	entrada	181	225463	47.7	96.6	47	54	2	2372227	Mallorca	Amath Ndiaye	1	0	0	0	0	0
+61	toco_balon	181	225463	42	95.9	47	55	2	2372227	Mallorca	Amath Ndiaye	1	0	0	0	0	0
+49	recuperacion_balon	181	227164	45.1	85.6	47	56	2	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+1	pase	181	227164	48.9	91.3	47	56	2	2372227	Mallorca	Manu Morlanes	1	0	0	41	96.6	0
+1	pase	181	58792	39.3	93	47	57	2	2372227	Mallorca	Jaume Costa	1	0	0	40.6	78.1	0
+1	pase	181	107594	41.6	76.6	47	58	2	2372227	Mallorca	Omar Mascarell	1	0	0	51.4	83.8	0
+1	pase	181	227164	51.4	83.8	48	0	2	2372227	Mallorca	Manu Morlanes	1	0	0	52.8	95.3	0
+1	pase	181	225463	52.8	95.3	48	1	2	2372227	Mallorca	Amath Ndiaye	1	0	0	43.4	96.6	0
+1	pase	181	58792	34.6	83.6	48	4	2	2372227	Mallorca	Jaume Costa	1	0	0	27.3	70	0
+1	pase	181	105571	26.9	66.7	48	6	2	2372227	Mallorca	Antonio Raíllo	1	0	0	27.7	35.8	0
+1	pase_fallado	181	170116	53.5	28.2	48	14	2	2372227	Mallorca	Martin Valjent	0	0	0	66.7	15	0
+8	pase_cortado	407	167432	33.2	94.3	48	15	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+5	balon_fuera	181	170116	67	0	48	16	2	2372227	Mallorca	Martin Valjent	1	0	347	0	0	0
+5	balon_fuera	407	167432	33	100	48	16	2	2372227	Las Palmas	Daley Sinkgraven	0	0	347	0	0	0
+1	pase	181	170154	66	0	48	29	2	2372227	Mallorca	Pablo Maffeo	1	0	0	45.9	6.8	0
+1	pase	181	170116	43.4	10.9	48	34	2	2372227	Mallorca	Martin Valjent	1	0	0	37	47.2	0
+1	pase	181	105571	55.8	68.5	48	39	2	2372227	Mallorca	Antonio Raíllo	1	0	0	54.2	96.2	0
+1	pase	181	58792	53.6	94.7	48	42	2	2372227	Mallorca	Jaume Costa	1	0	0	96.7	86.3	0
+61	toco_balon	181	227164	96.7	86.3	48	46	2	2372227	Mallorca	Manu Morlanes	0	0	0	0	0	0
+5	balon_fuera	181	227164	100	84.8	48	46	2	2372227	Mallorca	Manu Morlanes	0	0	346	0	0	0
+5	balon_fuera	407	451565	0	15.2	48	46	2	2372227	Las Palmas	Saúl Coco	1	0	346	0	0	0
+1	pase	407	487703	5.1	58	49	12	2	2372227	Las Palmas	Álex Suárez	1	0	0	6.9	49.8	0
+1	pase_fallado	407	472194	10.2	46.8	49	17	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	60.6	28.3	0
+8	pase_cortado	181	58792	33.3	70	49	21	2	2372227	Mallorca	Jaume Costa	1	0	0	0	0	0
+3	regate_fallado	407	244363	62.9	30.1	49	22	2	2372227	Las Palmas	Marc Cardona	0	0	0	0	0	0
+7	entrada	181	105571	37.1	69.9	49	22	2	2372227	Mallorca	Antonio Raíllo	0	0	0	0	0	0
+1	pase	407	86398	61.1	37.7	49	24	2	2372227	Las Palmas	Jonathan Viera	1	0	0	55.3	32.2	0
+1	pase	407	244363	58.5	31.4	49	25	2	2372227	Las Palmas	Marc Cardona	1	0	0	52.4	36.9	0
+1	pase	407	449718	53.5	35.6	49	26	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	57.1	25.6	0
+1	pase	407	244363	55.8	30.6	49	28	2	2372227	Las Palmas	Marc Cardona	1	0	0	41.5	62.8	0
+1	pase	407	487703	40.3	59.8	49	31	2	2372227	Las Palmas	Álex Suárez	1	0	0	48.9	60.8	0
+1	pase	407	198221	47.9	59	49	33	2	2372227	Las Palmas	Javi Muñoz	1	0	0	54.6	43.7	0
+1	pase	407	449718	54.6	41	49	34	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	57.3	52.8	0
+1	pase	407	86398	61.5	68.7	49	38	2	2372227	Las Palmas	Jonathan Viera	1	0	0	70.7	92.7	0
+15	disparo_parado	407	108438	72.2	76.7	49	41	2	2372227	Las Palmas	Sandro Ramírez	1	22	0	0	0	0
+10	parada	181	104407	0.9	46.4	49	43	2	2372227	Mallorca	Predrag Rajkovic	1	0	0	0	0	0
+52	portero_agarrra_pelota	181	104407	1.5	48.4	49	43	2	2372227	Mallorca	Predrag Rajkovic	0	0	0	0	0	0
+1	pase	181	104407	13.6	40.1	49	48	2	2372227	Mallorca	Predrag Rajkovic	1	0	0	82.5	9.5	0
+1	pase_fallado	181	170154	96.1	13.4	50	0	2	2372227	Mallorca	Pablo Maffeo	0	0	0	91.6	44.6	0
+12	despeje	407	484753	7.8	57.3	50	1	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	22.5	53.9	0
+1	pase_fallado	407	198221	22.1	53.9	50	3	2	2372227	Las Palmas	Javi Muñoz	0	0	0	33.5	45	0
+44	duelo_aereo	181	58792	65.2	60	50	4	2	2372227	Mallorca	Jaume Costa	1	0	0	0	0	0
+44	duelo_aereo	407	244363	34.8	40	50	4	2	2372227	Las Palmas	Marc Cardona	0	0	0	0	0	0
+1	pase_fallado	181	58792	64	64.9	50	4	2	2372227	Mallorca	Jaume Costa	0	0	0	72.4	49.7	0
+1	pase_fallado	407	198221	30.2	55	50	6	2	2372227	Las Palmas	Javi Muñoz	0	0	0	39.5	77.6	0
+1	pase_fallado	181	80906	58.3	21.2	50	8	2	2372227	Mallorca	Dani Rodríguez	0	0	0	68.2	-1.7	0
+5	balon_fuera	181	80906	65.1	0	50	12	2	2372227	Mallorca	Dani Rodríguez	0	0	347	0	0	0
+5	balon_fuera	407	108438	34.9	100	50	12	2	2372227	Las Palmas	Sandro Ramírez	1	0	347	0	0	0
+1	pase	407	167432	37.6	100	50	39	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	42.1	93.1	0
+1	pase_fallado	407	86398	42.1	93.1	50	40	2	2372227	Las Palmas	Jonathan Viera	0	0	0	54.9	81.3	0
+49	recuperacion_balon	181	170154	42.5	20	50	42	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+1	pase_fallado	181	170154	42.5	20	50	42	2	2372227	Mallorca	Pablo Maffeo	0	0	0	60.2	23.6	0
+49	recuperacion_balon	407	487703	39.6	76.4	50	43	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+1	pase_fallado	407	487703	39.6	76.4	50	45	2	2372227	Las Palmas	Álex Suárez	0	0	0	58.8	74.8	0
+44	duelo_aereo	181	170154	38.6	24.2	50	47	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+44	duelo_aereo	407	108438	61.4	75.8	50	47	2	2372227	Las Palmas	Sandro Ramírez	0	0	0	0	0	0
+1	pase	181	170154	38	23.7	50	47	2	2372227	Mallorca	Pablo Maffeo	1	0	0	53.2	20.3	0
+49	recuperacion_balon	181	80906	53.2	20.3	50	48	2	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+1	pase	181	80906	53.2	21.9	50	49	2	2372227	Mallorca	Dani Rodríguez	1	0	0	42.2	24.7	0
+1	pase	181	107594	42.2	24.7	50	51	2	2372227	Mallorca	Omar Mascarell	1	0	0	51.7	6.7	0
+1	pase_fallado	181	170154	51.7	6.7	50	53	2	2372227	Mallorca	Pablo Maffeo	0	0	0	101.3	21.8	0
+56	perdida_golpeo_rival	407	472194	1.9	80.8	50	58	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	0	0	0
+5	balon_fuera	181	170154	100	21	50	59	2	2372227	Mallorca	Pablo Maffeo	0	0	346	0	0	0
+5	balon_fuera	407	472194	0	79	50	59	2	2372227	Las Palmas	Álvaro Vallés	1	0	346	0	0	0
+1	pase_fallado	407	472194	4	53	51	26	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	58.3	53.4	0
+1	pase_fallado	181	105571	32.2	50.4	51	29	2	2372227	Mallorca	Antonio Raíllo	0	0	0	55	38	0
+1	pase_fallado	407	198221	40	61	51	31	2	2372227	Las Palmas	Javi Muñoz	0	0	0	43.4	60.2	0
+61	toco_balon	181	107594	54.4	37.5	51	31	2	2372227	Mallorca	Omar Mascarell	1	0	0	0	0	0
+1	pase	181	170116	45.7	43.1	51	33	2	2372227	Mallorca	Martin Valjent	1	0	0	60.8	64.6	0
+49	recuperacion_balon	181	169007	58.7	69.7	51	34	2	2372227	Mallorca	Sergi Darder	1	0	0	0	0	0
+1	pase	181	169007	61.7	71.7	51	34	2	2372227	Mallorca	Sergi Darder	1	0	0	60	68.6	0
+1	pase	181	227164	63	62.7	51	35	2	2372227	Mallorca	Manu Morlanes	1	0	0	60.3	75.3	0
+1	pase	181	169007	58.6	78.7	51	41	2	2372227	Mallorca	Sergi Darder	1	0	0	59.2	90.3	0
+1	pase	181	58792	59	90.9	51	43	2	2372227	Mallorca	Jaume Costa	1	0	0	56	82.1	0
+1	pase	181	169007	57.9	73.2	51	46	2	2372227	Mallorca	Sergi Darder	1	0	0	67.4	64.3	0
+1	pase	181	156293	67.4	64.3	51	47	2	2372227	Mallorca	Vedat Muriqi	1	0	0	85.6	69.7	0
+15	disparo_parado	181	227164	90.7	65.1	51	50	2	2372227	Mallorca	Manu Morlanes	1	22	0	0	0	0
+10	parada	407	472194	3.3	43.1	51	50	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	0	0	0
+61	toco_balon	407	167432	1.6	92.9	51	54	2	2372227	Las Palmas	Daley Sinkgraven	0	0	0	0	0	0
+5	balon_fuera	181	227164	93.6	0	51	56	2	2372227	Mallorca	Manu Morlanes	1	0	347	0	0	0
+5	balon_fuera	407	167432	6.4	100	51	56	2	2372227	Las Palmas	Daley Sinkgraven	0	0	347	0	0	0
+1	pase	181	80906	92.4	0	52	0	2	2372227	Mallorca	Dani Rodríguez	1	0	0	90	12.3	0
+1	pase_fallado	181	169007	90.7	3.7	52	3	2	2372227	Mallorca	Sergi Darder	0	0	0	93.6	43	0
+12	despeje	407	487703	6.9	65	52	4	2	2372227	Las Palmas	Álex Suárez	1	0	0	6.1	92.4	0
+49	recuperacion_balon	407	167432	6	91.3	52	6	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+1	pase	407	167432	1.6	87.8	52	7	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	7.5	91.9	0
+1	pase	407	198221	15.1	94.3	52	9	2	2372227	Las Palmas	Javi Muñoz	1	0	0	29.2	95.2	0
+4	falta_recibida	407	108438	30.8	89.4	52	11	2	2372227	Las Palmas	Sandro Ramírez	1	0	152	0	0	265
+4	falta_cometida	181	107594	69.2	10.6	52	11	2	2372227	Mallorca	Omar Mascarell	0	0	152	0	0	265
+17	tarjeta	181	107594	67.7	16.5	52	20	2	2372227	Mallorca	Omar Mascarell	1	0	0	0	0	0
+1	pase	407	484753	31.9	85.8	53	35	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	44	86.5	0
+83	sin_identificar	181	80906	37.1	18.9	53	40	2	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+1	pase	407	449718	58.3	74.8	53	40	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	54.6	63.1	0
+1	pase	407	198221	59.8	61.8	53	41	2	2372227	Las Palmas	Javi Muñoz	1	0	0	61.3	52.8	0
+1	pase	407	86398	62.7	52.4	53	42	2	2372227	Las Palmas	Jonathan Viera	1	0	0	52.1	52.4	0
+1	pase	407	484753	54.2	50.2	53	44	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	57	38.2	0
+1	pase	407	86398	61.1	27.9	53	51	2	2372227	Las Palmas	Jonathan Viera	1	0	0	55.8	32.7	0
+1	pase	407	484753	55.4	32.5	53	52	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	63.1	14.9	0
+1	pase	407	198221	63.5	8.9	53	55	2	2372227	Las Palmas	Javi Muñoz	1	0	0	67.5	22.2	0
+1	pase	407	86398	67	22.4	53	56	2	2372227	Las Palmas	Jonathan Viera	1	0	0	62.7	11	0
+1	pase	407	198221	59.5	11.9	53	57	2	2372227	Las Palmas	Javi Muñoz	1	0	0	63.1	26.1	0
+1	pase	407	86398	63.1	26.1	53	58	2	2372227	Las Palmas	Jonathan Viera	1	0	0	59.3	12.4	0
+1	pase	407	198221	63.1	6	53	59	2	2372227	Las Palmas	Javi Muñoz	1	0	0	55	15.1	0
+1	pase_fallado	407	484753	52.1	5.6	54	2	2	2372227	Las Palmas	Kirian Rodríguez	0	0	0	66.1	8.3	0
+8	pase_cortado	181	225463	34.5	92.4	54	2	2	2372227	Mallorca	Amath Ndiaye	1	0	0	0	0	0
+5	balon_fuera	181	225463	36.5	100	54	4	2	2372227	Mallorca	Amath Ndiaye	0	0	347	0	0	0
+5	balon_fuera	407	484753	63.5	0	54	4	2	2372227	Las Palmas	Kirian Rodríguez	1	0	347	0	0	0
+1	pase_fallado	407	213469	59.9	0	54	15	2	2372227	Las Palmas	Álvaro Lemos	0	0	0	75	5.1	0
+8	pase_cortado	181	58792	21.3	90.8	54	16	2	2372227	Mallorca	Jaume Costa	1	0	0	0	0	0
+61	toco_balon	181	225463	27.5	95.4	54	16	2	2372227	Mallorca	Amath Ndiaye	1	0	0	0	0	0
+49	recuperacion_balon	181	169007	38.6	91.1	54	18	2	2372227	Mallorca	Sergi Darder	1	0	0	0	0	0
+1	pase	181	169007	35.7	85	54	18	2	2372227	Mallorca	Sergi Darder	1	0	0	41.3	82.9	0
+3	regate_fallado	181	156293	40.8	87.8	54	20	2	2372227	Mallorca	Vedat Muriqi	0	0	0	0	0	0
+7	entrada	407	484753	59.2	12.2	54	20	2	2372227	Las Palmas	Kirian Rodríguez	0	0	0	0	0	0
+1	pase_fallado	181	156293	41.7	82.6	54	21	2	2372227	Mallorca	Vedat Muriqi	0	0	0	48.6	84.3	0
+61	toco_balon	407	213469	52.1	9.3	54	21	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+49	recuperacion_balon	407	451565	35.5	21.7	54	23	2	2372227	Las Palmas	Saúl Coco	1	0	0	0	0	0
+1	pase	407	451565	35.5	21.7	54	24	2	2372227	Las Palmas	Saúl Coco	1	0	0	10.9	42.3	0
+1	pase_fallado	407	472194	11.1	37.3	54	28	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	64.8	21.5	0
+44	duelo_aereo	181	105571	33.8	75.9	54	32	2	2372227	Mallorca	Antonio Raíllo	1	0	0	0	0	0
+44	duelo_aereo	407	244363	66.2	24.1	54	32	2	2372227	Las Palmas	Marc Cardona	0	0	0	0	0	0
+1	pase_fallado	181	105571	34	77.5	54	32	2	2372227	Mallorca	Antonio Raíllo	0	0	0	51.9	92.1	0
+1	pase	407	213469	50.9	3.5	54	36	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	56.5	2.3	0
+50	me_roban_balon	407	244363	58.9	3.1	54	36	2	2372227	Las Palmas	Marc Cardona	0	0	0	0	0	0
+7	entrada	181	227164	41.1	96.9	54	37	2	2372227	Mallorca	Manu Morlanes	0	0	0	0	0	0
+61	toco_balon	407	244363	55.5	5.3	54	37	2	2372227	Las Palmas	Marc Cardona	1	0	0	0	0	0
+5	balon_fuera	181	227164	42.8	100	54	38	2	2372227	Mallorca	Manu Morlanes	1	0	347	0	0	0
+5	balon_fuera	407	244363	57.2	0	54	38	2	2372227	Las Palmas	Marc Cardona	0	0	347	0	0	0
+1	pase	181	58792	40.9	100	54	57	2	2372227	Mallorca	Jaume Costa	1	0	0	52.7	91.2	0
+83	sin_identificar	407	213469	44.5	5.3	54	59	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+1	pase	181	156293	52.7	90.9	54	59	2	2372227	Mallorca	Vedat Muriqi	1	0	0	46.6	82	0
+1	pase	181	107594	47.7	78.7	55	0	2	2372227	Mallorca	Omar Mascarell	1	0	0	64.3	21.8	0
+61	toco_balon	181	170154	73.3	20.9	55	6	2	2372227	Mallorca	Pablo Maffeo	0	0	0	0	0	0
+4	falta_recibida	407	108438	21.9	80.5	55	7	2	2372227	Las Palmas	Sandro Ramírez	1	0	152	0	0	0
+4	falta_cometida	181	170154	78.1	19.5	55	7	2	2372227	Mallorca	Pablo Maffeo	0	0	152	0	0	0
+1	pase_fallado	407	472194	25	76.2	56	1	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	69.4	45.2	0
+1	pase	181	58792	26	62.3	56	5	2	2372227	Mallorca	Jaume Costa	1	0	0	27.4	32.2	0
+1	pase_fallado	181	170154	25.1	28.3	56	7	2	2372227	Mallorca	Pablo Maffeo	0	0	0	33.7	35.7	0
+44	duelo_aereo	407	449718	63.4	64.9	56	10	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+44	duelo_aereo	181	169007	36.6	35.1	56	10	2	2372227	Mallorca	Sergi Darder	0	0	0	0	0	0
+1	pase_fallado	407	449718	60.5	65.5	56	10	2	2372227	Las Palmas	Enzo Loiodice	0	0	0	61.4	65.8	0
+61	toco_balon	181	169007	33.7	35.7	56	10	2	2372227	Mallorca	Sergi Darder	1	0	0	0	0	0
+49	recuperacion_balon	181	227164	34.9	43.6	56	11	2	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+1	pase	181	227164	34.9	43.6	56	12	2	2372227	Mallorca	Manu Morlanes	1	0	0	64	79.9	0
+4	falta_recibida	181	225463	63.9	81.4	56	15	2	2372227	Mallorca	Amath Ndiaye	1	0	152	0	0	265
+4	falta_cometida	407	213469	36.1	18.6	56	15	2	2372227	Las Palmas	Álvaro Lemos	0	0	152	0	0	265
+1	pase_fallado	181	169007	60.1	81.1	57	5	2	2372227	Mallorca	Sergi Darder	0	0	0	85.2	57	0
+12	despeje	407	487703	14.2	43.1	57	7	2	2372227	Las Palmas	Álex Suárez	1	0	0	26.4	43.3	0
+1	pase_fallado	181	227164	72.5	59.3	57	9	2	2372227	Mallorca	Manu Morlanes	0	0	0	93.6	54.5	0
+52	portero_agarrra_pelota	407	472194	4.4	47.2	57	16	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	0	0	0
+1	pase	407	472194	8.8	47.2	57	21	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	23.8	43.3	0
+1	pase	407	484753	29.3	48.8	57	23	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	23.1	33.6	0
+1	pase	407	451565	23.1	33.3	57	25	2	2372227	Las Palmas	Saúl Coco	1	0	0	31.2	30.4	0
+1	pase	407	86398	31.2	30.4	57	27	2	2372227	Las Palmas	Jonathan Viera	1	0	0	10.3	46.1	0
+1	pase	407	472194	10.8	45.4	57	29	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	15.9	64.1	0
+1	pase	407	487703	18.9	62.5	57	32	2	2372227	Las Palmas	Álex Suárez	1	0	0	27.1	62.5	0
+1	pase	407	484753	23.2	63.7	57	34	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	27.8	86	0
+1	pase	407	167432	28.8	81.5	57	37	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	23	72.8	0
+1	pase	407	487703	23	72.8	57	39	2	2372227	Las Palmas	Álex Suárez	1	0	0	33.2	90.2	0
+1	pase	407	484753	50.7	92.7	57	44	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	60.1	94.2	0
+1	pase	407	108438	54.7	93.3	57	45	2	2372227	Las Palmas	Sandro Ramírez	1	0	0	43.8	95.2	0
+1	pase	407	484753	43.8	95.2	57	48	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	43.4	66.2	0
+1	pase	407	449718	45.5	59.8	57	50	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	43.7	36.5	0
+1	pase	407	451565	41.6	35.3	57	53	2	2372227	Las Palmas	Saúl Coco	1	0	0	48.1	34.5	0
+1	pase	407	86398	46.2	31.3	57	54	2	2372227	Las Palmas	Jonathan Viera	1	0	0	35.2	32.4	0
+1	pase	407	451565	33.4	33.6	57	56	2	2372227	Las Palmas	Saúl Coco	1	0	0	14.8	45.2	0
+1	pase	407	472194	14.3	45.2	58	6	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	60.9	18.3	0
+44	duelo_aereo	407	244363	60.6	19.8	58	8	2	2372227	Las Palmas	Marc Cardona	1	0	0	0	0	0
+44	duelo_aereo	181	105571	39.4	80.2	58	8	2	2372227	Mallorca	Antonio Raíllo	0	0	0	0	0	0
+1	pase_fallado	407	244363	60.6	18.3	58	9	2	2372227	Las Palmas	Marc Cardona	0	0	0	60.6	18.5	0
+61	toco_balon	181	105571	39.5	78.8	58	9	2	2372227	Mallorca	Antonio Raíllo	1	0	0	0	0	0
+1	pase	407	86398	57	17.2	58	10	2	2372227	Las Palmas	Jonathan Viera	1	0	0	46.1	5.8	0
+1	pase	407	213469	43.6	8.5	58	15	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	41.6	23.8	0
+1	pase	407	484753	44.3	26.1	58	18	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	56	18.5	0
+1	pase	407	449718	56.3	17.9	58	21	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	53.5	29.5	0
+1	pase	407	198221	53.5	29.5	58	22	2	2372227	Las Palmas	Javi Muñoz	1	0	0	53.9	22.8	0
+1	pase	407	449718	53.9	22.8	58	23	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	58	39.1	0
+1	pase	407	86398	59.3	37.4	58	25	2	2372227	Las Palmas	Jonathan Viera	1	0	0	61.7	58	0
+1	pase	407	167432	65	54.2	58	27	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	59.5	49.9	0
+1	pase_fallado	407	86398	63.7	63.9	58	30	2	2372227	Las Palmas	Jonathan Viera	0	0	0	73.9	84	0
+8	pase_cortado	181	170154	23.6	19.8	58	31	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+49	recuperacion_balon	181	170154	26.4	19.8	58	32	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+1	pase	181	170154	40.5	23.9	58	34	2	2372227	Mallorca	Pablo Maffeo	1	0	0	43.7	50.1	0
+1	pase	181	169007	45.1	53.9	58	38	2	2372227	Mallorca	Sergi Darder	1	0	0	61.3	95.7	0
+1	pase	181	225463	69.6	83.8	58	43	2	2372227	Mallorca	Amath Ndiaye	1	0	0	65.7	75.7	0
+1	pase	181	169007	62.5	77.5	58	47	2	2372227	Mallorca	Sergi Darder	1	0	0	73.6	92.4	0
+1	pase_fallado	181	58792	71.4	89.7	58	50	2	2372227	Mallorca	Jaume Costa	0	0	0	100.7	29.1	0
+5	balon_fuera	181	58792	100	24.2	58	53	2	2372227	Mallorca	Jaume Costa	0	0	346	0	0	0
+5	balon_fuera	407	86398	0	75.8	58	53	2	2372227	Las Palmas	Jonathan Viera	1	0	346	0	0	0
+18	cambio_jugador_fuera	181	107594	100	29.1	59	15	2	2372227	Mallorca	Omar Mascarell	1	0	0	0	0	0
+19	cambio_jugador_dentro	181	485385	100	29.1	59	15	2	2372227	Mallorca	Samú Costa	1	0	0	0	0	0
+18	cambio_jugador_fuera	181	225463	100	29.1	59	32	2	2372227	Mallorca	Amath Ndiaye	1	0	0	0	0	0
+19	cambio_jugador_dentro	181	185126	100	29.1	59	32	2	2372227	Mallorca	Cyle Larin	1	0	0	0	0	0
+1	pase	407	487703	4.8	57.7	60	6	2	2372227	Las Palmas	Álex Suárez	1	0	0	8.3	50.1	0
+1	pase_fallado	407	472194	8.5	49.5	60	8	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	42.4	47.8	0
+44	duelo_aereo	181	170116	53.8	55.4	60	11	2	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+44	duelo_aereo	407	86398	46.2	44.6	60	11	2	2372227	Las Palmas	Jonathan Viera	0	0	0	0	0	0
+1	pase	181	170116	56.3	52.4	60	11	2	2372227	Mallorca	Martin Valjent	1	0	0	69.8	68.2	0
+49	recuperacion_balon	181	185126	68.8	67.9	60	12	2	2372227	Mallorca	Cyle Larin	1	0	0	0	0	0
+1	pase	181	185126	68.8	67.9	60	13	2	2372227	Mallorca	Cyle Larin	1	0	0	67.3	56	0
+1	pase	181	485385	67.5	53.7	60	15	2	2372227	Mallorca	Samú Costa	1	0	0	85.1	26.5	0
+1	pase	181	80906	85.3	15.3	60	21	2	2372227	Mallorca	Dani Rodríguez	1	0	0	89.2	9.7	0
+1	pase	181	485385	87.7	11.3	60	23	2	2372227	Mallorca	Samú Costa	1	0	0	74.3	24.1	0
+61	toco_balon	181	227164	81.1	14.3	60	27	2	2372227	Mallorca	Manu Morlanes	0	0	0	0	0	0
+50	me_roban_balon	407	167432	25.5	76.1	60	28	2	2372227	Las Palmas	Daley Sinkgraven	0	0	0	0	0	0
+7	entrada	181	227164	74.5	23.9	60	28	2	2372227	Mallorca	Manu Morlanes	0	0	0	0	0	0
+61	toco_balon	407	167432	16.8	80.6	60	28	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+13	ocasion_fuera	181	80906	75.1	28	60	29	2	2372227	Mallorca	Dani Rodríguez	1	22	0	0	0	0
+5	balon_fuera	181	80906	100	56.5	60	31	2	2372227	Mallorca	Dani Rodríguez	0	0	346	0	0	0
+5	balon_fuera	407	167432	0	43.5	60	31	2	2372227	Las Palmas	Daley Sinkgraven	1	0	346	0	0	0
+1	pase	407	487703	4.7	56.4	61	4	2	2372227	Las Palmas	Álex Suárez	1	0	0	8.3	45.7	0
+1	pase_fallado	407	472194	8.4	45.5	61	9	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	59.9	39.8	0
+8	pase_cortado	181	105571	36.4	63.4	61	13	2	2372227	Mallorca	Antonio Raíllo	1	0	0	0	0	0
+49	recuperacion_balon	181	485385	53.3	57.5	61	14	2	2372227	Mallorca	Samú Costa	1	0	0	0	0	0
+1	pase	181	485385	51.8	54.8	61	15	2	2372227	Mallorca	Samú Costa	1	0	0	44.8	42.1	0
+1	pase	181	227164	57.4	22.8	61	21	2	2372227	Mallorca	Manu Morlanes	1	0	0	57.9	10.6	0
+1	pase	181	80906	57.9	8.9	61	22	2	2372227	Mallorca	Dani Rodríguez	1	0	0	54.9	29.8	0
+1	pase	181	485385	57.7	34.6	61	25	2	2372227	Mallorca	Samú Costa	1	0	0	52.1	60	0
+1	pase	181	105571	52.1	60	61	26	2	2372227	Mallorca	Antonio Raíllo	1	0	0	56.9	94.8	0
+1	pase	181	58792	58.9	96.3	61	31	2	2372227	Mallorca	Jaume Costa	1	0	0	53.9	84.8	0
+1	pase	181	485385	53.6	81.4	61	33	2	2372227	Mallorca	Samú Costa	1	0	0	58.3	72.4	0
+1	pase_fallado	181	169007	60.3	68.7	61	36	2	2372227	Mallorca	Sergi Darder	0	0	0	75.7	48.4	0
+8	pase_cortado	407	487703	25.2	46.8	61	36	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+1	pase	181	170116	43.2	6.8	61	44	2	2372227	Mallorca	Martin Valjent	1	0	0	20.4	33.9	0
+1	pase	181	104407	23.1	21.9	61	48	2	2372227	Mallorca	Predrag Rajkovic	1	0	0	80.2	8.1	0
+1	pase_fallado	181	170154	96.8	25.8	61	55	2	2372227	Mallorca	Pablo Maffeo	0	0	0	91.7	38.2	0
+12	despeje	407	487703	8.4	61.2	61	56	2	2372227	Las Palmas	Álex Suárez	1	0	0	13.4	86.6	0
+49	recuperacion_balon	407	108438	17.8	89.4	61	59	2	2372227	Las Palmas	Sandro Ramírez	1	0	0	0	0	0
+4	falta_recibida	407	108438	22.8	90.8	62	1	2	2372227	Las Palmas	Sandro Ramírez	1	0	152	0	0	0
+4	falta_cometida	181	80906	77.2	9.2	62	1	2	2372227	Mallorca	Dani Rodríguez	0	0	152	0	0	0
+1	pase_fallado	407	167432	24.6	91.5	62	34	2	2372227	Las Palmas	Daley Sinkgraven	0	0	0	45.3	90.4	0
+49	recuperacion_balon	181	80906	75.1	5.5	62	37	2	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+1	pase	181	80906	74.5	4.1	62	43	2	2372227	Mallorca	Dani Rodríguez	1	0	0	73.6	31.8	0
+2	pase_fuera_juego	181	227164	74.1	34.5	62	45	2	2372227	Mallorca	Manu Morlanes	1	0	0	80.5	42.9	0
+55	sin_identificar	407	213469	22.5	40.6	62	45	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+1	pase	407	487703	28.3	57.5	63	7	2	2372227	Las Palmas	Álex Suárez	1	0	0	29.4	50	0
+1	pase	407	484753	29.4	49.8	63	9	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	42.1	72.8	0
+4	falta_recibida	407	487703	48.2	73.6	63	14	2	2372227	Las Palmas	Álex Suárez	1	0	152	0	0	265
+4	falta_cometida	181	170116	51.8	26.4	63	14	2	2372227	Mallorca	Martin Valjent	0	0	152	0	0	265
+18	cambio_jugador_fuera	407	167432	44	71.5	63	50	2	2372227	Las Palmas	Daley Sinkgraven	1	0	0	0	0	0
+19	cambio_jugador_dentro	407	484693	44	71.5	63	50	2	2372227	Las Palmas	Sergi Cardona	1	0	0	0	0	0
+18	cambio_jugador_fuera	407	244363	44	71.5	63	52	2	2372227	Las Palmas	Marc Cardona	1	0	0	0	0	0
+19	cambio_jugador_dentro	407	170864	44	71.5	63	52	2	2372227	Las Palmas	Munir El Haddadi	1	0	0	0	0	0
+1	pase	407	487703	34.9	69.6	64	23	2	2372227	Las Palmas	Álex Suárez	1	0	0	59.6	87.2	0
+1	pase_fallado	407	108438	59.5	87.2	64	23	2	2372227	Las Palmas	Sandro Ramírez	0	0	0	71.8	89.2	0
+61	toco_balon	407	484693	75.3	96.8	64	23	2	2372227	Las Palmas	Sergi Cardona	0	0	0	0	0	0
+49	recuperacion_balon	181	170116	19.1	14.1	64	26	2	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+1	pase	181	170116	22.4	17.4	64	26	2	2372227	Mallorca	Martin Valjent	1	0	0	6.7	43.9	0
+1	pase_fallado	181	104407	7.3	43.3	64	28	2	2372227	Mallorca	Predrag Rajkovic	0	0	0	54.4	10.8	0
+61	toco_balon	407	484753	45.6	88.1	64	32	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+49	recuperacion_balon	407	108438	55.8	96.3	64	33	2	2372227	Las Palmas	Sandro Ramírez	1	0	0	0	0	0
+50	me_roban_balon	407	108438	56.2	93.1	64	34	2	2372227	Las Palmas	Sandro Ramírez	0	0	0	0	0	0
+7	entrada	181	80906	43.8	6.9	64	35	2	2372227	Mallorca	Dani Rodríguez	0	0	0	0	0	0
+61	toco_balon	407	108438	58.3	98.4	64	35	2	2372227	Las Palmas	Sandro Ramírez	1	0	0	0	0	0
+49	recuperacion_balon	181	80906	35.7	3.8	64	37	2	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+1	pase	181	80906	35.7	3.8	64	38	2	2372227	Mallorca	Dani Rodríguez	1	0	0	55.3	16.4	0
+4	falta_recibida	181	185126	55	16	64	39	2	2372227	Mallorca	Cyle Larin	1	0	152	0	0	265
+4	falta_cometida	407	487703	45	84	64	39	2	2372227	Las Palmas	Álex Suárez	0	0	152	0	0	265
+1	pase	181	80906	52.3	19.2	64	48	2	2372227	Mallorca	Dani Rodríguez	1	0	0	45.9	27.4	0
+1	pase	181	227164	45.4	27.6	64	50	2	2372227	Mallorca	Manu Morlanes	1	0	0	47	45.4	0
+1	pase	181	485385	46.6	54.6	64	52	2	2372227	Mallorca	Samú Costa	1	0	0	39.2	68.4	0
+1	pase	181	105571	38.6	70.2	64	55	2	2372227	Mallorca	Antonio Raíllo	1	0	0	54.9	95.3	0
+1	pase	181	58792	67.5	91.4	65	1	2	2372227	Mallorca	Jaume Costa	1	0	0	60.3	82	0
+1	pase	181	485385	60.1	80.9	65	4	2	2372227	Mallorca	Samú Costa	1	0	0	72.9	96.5	0
+1	pase	181	58792	76.1	96.3	65	8	2	2372227	Mallorca	Jaume Costa	1	0	0	66.5	86.6	0
+1	pase	181	485385	60.7	75.4	65	11	2	2372227	Mallorca	Samú Costa	1	0	0	51.9	46.3	0
+1	pase_fallado	181	170116	57.8	23.6	65	17	2	2372227	Mallorca	Martin Valjent	0	0	0	71.6	28.5	0
+8	pase_cortado	407	487703	23.2	74.2	65	18	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+4	falta_recibida	181	156293	72.9	25.8	65	19	2	2372227	Mallorca	Vedat Muriqi	1	0	152	0	0	265
+4	falta_cometida	407	484693	27.1	74.2	65	19	2	2372227	Las Palmas	Sergi Cardona	0	0	152	0	0	265
+1	pase_fallado	181	169007	73.9	23.5	66	15	2	2372227	Mallorca	Sergi Darder	0	0	0	101.1	63.7	0
+5	balon_fuera	181	169007	100	44.4	66	18	2	2372227	Mallorca	Sergi Darder	0	0	346	0	0	0
+5	balon_fuera	407	108438	0	55.6	66	18	2	2372227	Las Palmas	Sandro Ramírez	1	0	346	0	0	0
+1	pase	407	487703	4.8	56.7	66	45	2	2372227	Las Palmas	Álex Suárez	1	0	0	4.8	49.7	0
+1	pase	407	472194	9.7	41.8	66	48	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	53.5	11	0
+45	regate_recibido	181	485385	45.1	85.2	66	53	2	2372227	Mallorca	Samú Costa	0	0	0	0	0	0
+3	regate_conseguido	407	170864	54.9	14.8	66	53	2	2372227	Las Palmas	Munir El Haddadi	1	0	0	0	0	0
+1	pase	407	170864	54.7	28.1	66	55	2	2372227	Las Palmas	Munir El Haddadi	1	0	0	64	33.3	0
+1	pase	407	86398	63.4	32.9	66	57	2	2372227	Las Palmas	Jonathan Viera	1	0	0	75.3	7.4	0
+1	pase	407	198221	75.2	8.7	67	1	2	2372227	Las Palmas	Javi Muñoz	1	0	0	68.8	35.4	0
+1	pase	407	86398	68.9	37.5	67	3	2	2372227	Las Palmas	Jonathan Viera	1	0	0	68.9	68.2	0
+1	pase	407	484693	67.2	71.4	67	6	2	2372227	Las Palmas	Sergi Cardona	1	0	0	75	86.9	0
+1	pase	407	108438	75	86	67	8	2	2372227	Las Palmas	Sandro Ramírez	1	0	0	96.4	75.5	0
+1	pase_fallado	407	449718	96.4	75.5	67	10	2	2372227	Las Palmas	Enzo Loiodice	0	0	0	95.7	72.8	0
+74	bloqueo_pase	181	170116	4.2	24.6	67	10	2	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+6	corner	181	170116	4.2	25.9	67	11	2	2372227	Mallorca	Martin Valjent	0	0	0	0	0	0
+6	corner	407	449718	95.8	74.1	67	11	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+1	pase	407	86398	99.5	99.5	67	49	2	2372227	Las Palmas	Jonathan Viera	1	0	0	83.7	88.3	0
+1	pase	407	484753	83.6	85.3	67	50	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	90.3	91.3	0
+1	pase	407	86398	88	90.4	67	52	2	2372227	Las Palmas	Jonathan Viera	1	0	0	78.8	81.9	0
+15	disparo_parado	407	484753	76.5	75.3	67	55	2	2372227	Las Palmas	Kirian Rodríguez	1	25	0	0	0	0
+44	duelo_aereo	181	80906	11	43	67	56	2	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+44	duelo_aereo	407	487703	89	57	67	56	2	2372227	Las Palmas	Álex Suárez	0	0	0	0	0	0
+10	parada	181	80906	7.7	42.5	67	56	2	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+61	toco_balon	407	487703	85.8	54.1	67	56	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+49	recuperacion_balon	181	170154	8.1	65.7	67	59	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+1	pase_fallado	181	170154	7.3	66	67	59	2	2372227	Mallorca	Pablo Maffeo	0	0	0	61.1	101.4	0
+5	balon_fuera	181	58792	63.3	100	68	4	2	2372227	Mallorca	Jaume Costa	0	0	347	0	0	0
+5	balon_fuera	407	213469	36.7	0	68	4	2	2372227	Las Palmas	Álvaro Lemos	1	0	347	0	0	0
+1	pase	407	213469	34	0	68	23	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	11.5	39.3	0
+1	pase_fallado	407	472194	10.8	45.6	68	28	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	53.4	56.3	0
+1	pase_fallado	181	170116	44.7	46.1	68	31	2	2372227	Mallorca	Martin Valjent	0	0	0	62	41.6	0
+1	pase_fallado	407	487703	35.5	54.8	68	32	2	2372227	Las Palmas	Álex Suárez	0	0	0	41.7	65.3	0
+44	duelo_aereo	407	449718	43.4	65.1	68	34	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+44	duelo_aereo	181	227164	56.6	34.9	68	34	2	2372227	Mallorca	Manu Morlanes	0	0	0	0	0	0
+1	pase_fallado	407	449718	43.7	61.2	68	34	2	2372227	Las Palmas	Enzo Loiodice	0	0	0	42.4	60.2	0
+61	toco_balon	181	227164	56.9	34.8	68	35	2	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+1	pase_fallado	407	484753	34.8	58.7	68	35	2	2372227	Las Palmas	Kirian Rodríguez	0	0	0	21.7	78.3	0
+49	recuperacion_balon	181	185126	76.3	24.1	68	37	2	2372227	Mallorca	Cyle Larin	1	0	0	0	0	0
+1	pase_fallado	181	185126	92.5	24.3	68	40	2	2372227	Mallorca	Cyle Larin	0	0	0	92.7	38.2	0
+12	despeje	407	487703	6.2	63.9	68	40	2	2372227	Las Palmas	Álex Suárez	1	0	0	-0.4	67.1	0
+6	corner	181	185126	97.1	34.5	68	41	2	2372227	Mallorca	Cyle Larin	1	0	0	0	0	0
+6	corner	407	487703	2.9	65.5	68	41	2	2372227	Las Palmas	Álex Suárez	0	0	0	0	0	0
+1	pase	181	169007	99.1	0.4	69	7	2	2372227	Mallorca	Sergi Darder	1	0	0	92.7	47.8	0
+44	duelo_aereo	181	105571	91.4	50.5	69	9	2	2372227	Mallorca	Antonio Raíllo	1	0	0	0	0	0
+44	duelo_aereo	407	487703	8.6	49.5	69	9	2	2372227	Las Palmas	Álex Suárez	0	0	0	0	0	0
+16	gol	181	105571	91.7	51.8	69	9	2	2372227	Mallorca	Antonio Raíllo	1	25	0	0	0	0
+1	pase	407	449718	50.1	49.8	70	8	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	42.7	62.6	0
+4	falta_recibida	407	170864	60.5	70	70	11	2	2372227	Las Palmas	Munir El Haddadi	1	0	152	0	0	265
+4	falta_cometida	181	485385	39.5	30	70	11	2	2372227	Mallorca	Samú Costa	0	0	152	0	0	265
+1	pase	407	484753	53.8	64.6	70	24	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	62.7	66	0
+3	regate_fallado	407	86398	66.3	64.3	70	26	2	2372227	Las Palmas	Jonathan Viera	0	0	0	0	0	0
+3	regate_fallado	407	86398	66	64.4	70	27	2	2372227	Las Palmas	Jonathan Viera	0	0	0	0	0	0
+1	pase	181	485385	28.6	33.6	70	27	2	2372227	Mallorca	Samú Costa	1	0	0	21.1	34.5	0
+49	recuperacion_balon	181	170116	24.4	33	70	28	2	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+1	pase	181	170116	24.4	33	70	28	2	2372227	Mallorca	Martin Valjent	1	0	0	31.7	32.8	0
+1	pase	181	80906	31.7	32.8	70	29	2	2372227	Mallorca	Dani Rodríguez	1	0	0	34.4	62.3	0
+1	pase	181	169007	34.4	62.3	70	32	2	2372227	Mallorca	Sergi Darder	1	0	0	42.8	85.7	0
+83	sin_identificar	407	198221	30.2	17.4	70	37	2	2372227	Las Palmas	Javi Muñoz	0	0	0	0	0	0
+1	pase	181	58792	67.5	76	70	42	2	2372227	Mallorca	Jaume Costa	1	0	0	61.3	72.3	0
+1	pase	181	485385	60.7	72.3	70	43	2	2372227	Mallorca	Samú Costa	1	0	0	41.8	82.6	0
+1	pase_fallado	181	105571	41.8	81.7	70	45	2	2372227	Mallorca	Antonio Raíllo	0	0	0	58.7	82.6	0
+49	recuperacion_balon	407	198221	44.6	9.2	70	46	2	2372227	Las Palmas	Javi Muñoz	1	0	0	0	0	0
+1	pase	407	198221	51.7	6.2	70	49	2	2372227	Las Palmas	Javi Muñoz	1	0	0	57.1	2.9	0
+4	falta_recibida	407	170864	55.9	4.8	70	52	2	2372227	Las Palmas	Munir El Haddadi	1	0	152	0	0	265
+4	falta_cometida	181	485385	44.1	95.2	70	52	2	2372227	Mallorca	Samú Costa	0	0	152	0	0	265
+1	pase	407	213469	53	4.6	71	16	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	52.7	11.5	0
+1	pase	407	86398	46.3	10.8	71	19	2	2372227	Las Palmas	Jonathan Viera	1	0	0	36	23.5	0
+1	pase	407	451565	36.9	27	71	23	2	2372227	Las Palmas	Saúl Coco	1	0	0	31.5	53.9	0
+1	pase	407	487703	30.8	56.7	71	28	2	2372227	Las Palmas	Álex Suárez	1	0	0	38.5	50.1	0
+1	pase	407	449718	38.7	51.3	71	29	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	31.2	59.4	0
+1	pase	407	487703	34.5	61	71	36	2	2372227	Las Palmas	Álex Suárez	1	0	0	49.1	3.2	0
+1	pase_fallado	407	213469	54.5	1.9	71	41	2	2372227	Las Palmas	Álvaro Lemos	0	0	0	55.5	2.8	0
+74	bloqueo_pase	181	169007	44.4	98.1	71	42	2	2372227	Mallorca	Sergi Darder	1	0	0	0	0	0
+5	balon_fuera	181	169007	41	100	71	42	2	2372227	Mallorca	Sergi Darder	0	0	347	0	0	0
+5	balon_fuera	407	213469	59	0	71	42	2	2372227	Las Palmas	Álvaro Lemos	1	0	347	0	0	0
+1	pase	407	213469	54.7	0	71	47	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	60.3	22.6	0
+1	pase_fallado	407	86398	62.7	24.7	71	49	2	2372227	Las Palmas	Jonathan Viera	0	0	0	69.2	27.2	0
+49	recuperacion_balon	181	105571	24.8	65.8	71	50	2	2372227	Mallorca	Antonio Raíllo	1	0	0	0	0	0
+1	pase_fallado	181	105571	24.8	65.8	71	50	2	2372227	Mallorca	Antonio Raíllo	0	0	0	54.9	56.3	0
+1	pase	407	487703	44.6	42.7	71	52	2	2372227	Las Palmas	Álex Suárez	1	0	0	57.3	18.8	0
+44	duelo_aereo	407	213469	60.1	17.4	71	54	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+44	duelo_aereo	181	169007	39.9	82.6	71	54	2	2372227	Mallorca	Sergi Darder	0	0	0	0	0	0
+1	pase	407	213469	58	16.5	71	55	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	68.3	15.1	0
+1	pase_fallado	407	170864	68.3	15.1	71	56	2	2372227	Las Palmas	Munir El Haddadi	0	0	0	66.8	21.3	0
+1	pase	181	105571	26.6	74.5	71	57	2	2372227	Mallorca	Antonio Raíllo	1	0	0	32.3	72.7	0
+1	pase	181	485385	31.9	72.4	71	58	2	2372227	Mallorca	Samú Costa	1	0	0	23.6	61.2	0
+1	pase	181	170116	11.6	52.8	72	2	2	2372227	Mallorca	Martin Valjent	1	0	0	3.6	31	0
+1	pase_fallado	181	104407	4.1	31.5	72	4	2	2372227	Mallorca	Predrag Rajkovic	0	0	0	61.5	34.6	0
+1	pase	407	487703	32.2	68.3	72	9	2	2372227	Las Palmas	Álex Suárez	1	0	0	38.6	84.5	0
+4	falta_recibida	407	484693	40	81.5	72	11	2	2372227	Las Palmas	Sergi Cardona	1	0	152	0	0	0
+4	falta_cometida	181	156293	60	18.5	72	11	2	2372227	Mallorca	Vedat Muriqi	0	0	152	0	0	0
+1	pase	407	487703	34.2	95.9	72	32	2	2372227	Las Palmas	Álex Suárez	1	0	0	29.6	83.8	0
+1	pase	407	484753	32.3	63.7	72	42	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	34.5	84.5	0
+1	pase	407	487703	40.2	88.8	72	47	2	2372227	Las Palmas	Álex Suárez	1	0	0	55	87.8	0
+1	pase_fallado	407	108438	53.7	90.9	72	50	2	2372227	Las Palmas	Sandro Ramírez	0	0	0	55.7	101.4	0
+5	balon_fuera	181	170154	37	0	72	51	2	2372227	Mallorca	Pablo Maffeo	1	0	347	0	0	0
+5	balon_fuera	407	108438	63	100	72	51	2	2372227	Las Palmas	Sandro Ramírez	0	0	347	0	0	0
+1	pase	181	170154	53.4	0	73	16	2	2372227	Mallorca	Pablo Maffeo	1	0	0	32	5.2	0
+1	pase	181	170116	33.6	15.8	73	20	2	2372227	Mallorca	Martin Valjent	1	0	0	25.6	43.6	0
+1	pase	181	105571	28.6	46.6	73	24	2	2372227	Mallorca	Antonio Raíllo	1	0	0	9.8	48	0
+1	pase	181	104407	18.1	38.2	73	30	2	2372227	Mallorca	Predrag Rajkovic	1	0	0	59.1	30.1	0
+4	falta_recibida	407	449718	40.8	71.1	73	32	2	2372227	Las Palmas	Enzo Loiodice	1	0	152	0	0	0
+4	falta_cometida	181	80906	59.2	28.9	73	32	2	2372227	Mallorca	Dani Rodríguez	0	0	152	0	0	0
+1	pase	407	484753	35.3	66.9	73	45	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	42	70.8	0
+1	pase	407	449718	42	70.8	73	47	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	35	79.9	0
+1	pase	407	487703	35	79.9	73	49	2	2372227	Las Palmas	Álex Suárez	1	0	0	38.9	83.5	0
+1	pase	407	449718	41.6	84.7	73	51	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	42.6	94.7	0
+1	pase	407	484693	42.6	94.7	73	53	2	2372227	Las Palmas	Sergi Cardona	1	0	0	57	95.4	0
+61	toco_balon	407	108438	57.6	95.4	73	54	2	2372227	Las Palmas	Sandro Ramírez	0	0	0	0	0	0
+5	balon_fuera	181	170154	36.9	0	73	55	2	2372227	Mallorca	Pablo Maffeo	1	0	347	0	0	0
+5	balon_fuera	407	108438	63.1	100	73	55	2	2372227	Las Palmas	Sandro Ramírez	0	0	347	0	0	0
+1	pase_fallado	181	170154	33.3	0	74	0	2	2372227	Mallorca	Pablo Maffeo	0	0	0	60.9	9.8	0
+61	toco_balon	407	487703	29.8	81.5	74	5	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+12	despeje	407	451565	6.7	78.5	74	8	2	2372227	Las Palmas	Saúl Coco	1	0	0	6.7	79.6	0
+61	toco_balon	181	185126	93.6	20.9	74	8	2	2372227	Mallorca	Cyle Larin	1	0	0	0	0	0
+5	balon_fuera	181	185126	100	26	74	10	2	2372227	Mallorca	Cyle Larin	0	0	346	0	0	0
+5	balon_fuera	407	451565	0	74	74	10	2	2372227	Las Palmas	Saúl Coco	1	0	346	0	0	0
+1	pase_fallado	407	472194	4.1	50.4	74	35	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	60.6	69.2	0
+4	falta_recibida	181	170154	32.8	29	74	39	2	2372227	Mallorca	Pablo Maffeo	1	0	152	0	0	0
+4	falta_cometida	407	108438	67.2	71	74	39	2	2372227	Las Palmas	Sandro Ramírez	0	0	152	0	0	0
+1	pase	181	170116	32.7	34.2	74	58	2	2372227	Mallorca	Martin Valjent	1	0	0	37.8	27.6	0
+1	pase	181	227164	37.8	27.6	74	59	2	2372227	Mallorca	Manu Morlanes	1	0	0	31.5	37.4	0
+1	pase	181	170116	30.8	38.6	75	0	2	2372227	Mallorca	Martin Valjent	1	0	0	37.2	43.9	0
+1	pase	181	485385	37.2	43.9	75	1	2	2372227	Mallorca	Samú Costa	1	0	0	29.5	47.5	0
+1	pase	181	170116	27.7	49.7	75	4	2	2372227	Mallorca	Martin Valjent	1	0	0	8.5	36.9	0
+1	pase	181	104407	9.1	36.9	75	6	2	2372227	Mallorca	Predrag Rajkovic	1	0	0	58.4	38	0
+44	duelo_aereo	181	156293	62	40.4	75	9	2	2372227	Mallorca	Vedat Muriqi	1	0	0	0	0	0
+44	duelo_aereo	407	487703	38	59.6	75	9	2	2372227	Las Palmas	Álex Suárez	0	0	0	0	0	0
+1	pase_fallado	181	156293	58.4	38	75	9	2	2372227	Mallorca	Vedat Muriqi	0	0	0	64.8	25.6	0
+49	recuperacion_balon	407	484693	33.9	84.4	75	11	2	2372227	Las Palmas	Sergi Cardona	1	0	0	0	0	0
+1	pase_fallado	407	484693	33.9	84.4	75	11	2	2372227	Las Palmas	Sergi Cardona	0	0	0	70.4	102	0
+5	balon_fuera	181	156293	34.2	0	75	13	2	2372227	Mallorca	Vedat Muriqi	1	0	347	0	0	0
+5	balon_fuera	407	484693	65.8	100	75	13	2	2372227	Las Palmas	Sergi Cardona	0	0	347	0	0	0
+1	pase_fallado	181	170154	38.8	0	77	18	2	2372227	Mallorca	Pablo Maffeo	0	0	0	61.4	4.9	0
+44	duelo_aereo	407	487703	34.3	95.5	77	19	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+44	duelo_aereo	181	185126	65.7	4.5	77	19	2	2372227	Mallorca	Cyle Larin	0	0	0	0	0	0
+12	despeje	407	487703	31.9	95	77	19	2	2372227	Las Palmas	Álex Suárez	1	0	0	33.9	101.6	0
+5	balon_fuera	181	170154	64.4	0	77	21	2	2372227	Mallorca	Pablo Maffeo	1	0	347	0	0	0
+5	balon_fuera	407	487703	35.6	100	77	21	2	2372227	Las Palmas	Álex Suárez	0	0	347	0	0	0
+1	pase_fallado	181	170154	62.2	0	77	43	2	2372227	Mallorca	Pablo Maffeo	0	0	0	79.1	32.7	0
+1	pase	407	449718	21.5	64.2	77	45	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	29.2	69.4	0
+49	recuperacion_balon	407	86398	29.2	69.4	77	47	2	2372227	Las Palmas	Jonathan Viera	1	0	0	0	0	0
+83	sin_identificar	181	485385	67.1	35.5	77	49	2	2372227	Mallorca	Samú Costa	1	0	0	0	0	0
+61	toco_balon	407	86398	28.2	49.5	77	49	2	2372227	Las Palmas	Jonathan Viera	1	0	0	0	0	0
+4	falta_recibida	407	484753	27	63.5	77	51	2	2372227	Las Palmas	Kirian Rodríguez	1	0	152	0	0	265
+4	falta_cometida	181	485385	73	36.5	77	51	2	2372227	Mallorca	Samú Costa	0	0	152	0	0	265
+1	pase	407	484753	31.2	55.2	78	1	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	30.9	32.4	0
+1	pase	407	451565	29.9	31.3	78	3	2	2372227	Las Palmas	Saúl Coco	1	0	0	35.2	12.4	0
+1	pase	407	213469	33.5	9.8	78	6	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	34.9	19.5	0
+1	pase	407	484753	36.1	19.7	78	8	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	52.9	23.5	0
+1	pase	407	198221	52.8	25.6	78	9	2	2372227	Las Palmas	Javi Muñoz	1	0	0	55.6	46.6	0
+1	pase	407	86398	62.5	43.6	78	12	2	2372227	Las Palmas	Jonathan Viera	1	0	0	73.3	69.9	0
+1	pase	407	108438	75.7	74.8	78	16	2	2372227	Las Palmas	Sandro Ramírez	1	0	0	91.9	85.4	0
+1	pase_fallado	407	484693	91.9	85.4	78	18	2	2372227	Las Palmas	Sergi Cardona	0	0	0	90.6	78	0
+61	toco_balon	181	170154	5.3	24.9	78	18	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+13	ocasion_fuera	407	108438	87.6	62.9	78	20	2	2372227	Las Palmas	Sandro Ramírez	1	22	0	0	0	0
+5	balon_fuera	181	170154	0	35.7	78	21	2	2372227	Mallorca	Pablo Maffeo	1	0	346	0	0	0
+5	balon_fuera	407	108438	100	64.3	78	21	2	2372227	Las Palmas	Sandro Ramírez	0	0	346	0	0	0
+1	pase	181	104407	4.5	48.5	78	44	2	2372227	Mallorca	Predrag Rajkovic	1	0	0	8.3	33.3	0
+1	pase	181	170116	9.7	32.8	78	47	2	2372227	Mallorca	Martin Valjent	1	0	0	3.7	48.7	0
+1	pase	181	104407	4.2	46.4	78	50	2	2372227	Mallorca	Predrag Rajkovic	1	0	0	13	14.6	0
+1	pase	181	170116	14.9	13.5	78	54	2	2372227	Mallorca	Martin Valjent	1	0	0	59.8	29.1	0
+44	duelo_aereo	181	185126	63	27.4	78	57	2	2372227	Mallorca	Cyle Larin	1	0	0	0	0	0
+44	duelo_aereo	407	484753	37	72.6	78	57	2	2372227	Las Palmas	Kirian Rodríguez	0	0	0	0	0	0
+61	toco_balon	181	185126	59.5	30.4	78	58	2	2372227	Mallorca	Cyle Larin	0	0	0	0	0	0
+1	pase_fallado	407	484753	32.3	68.3	78	58	2	2372227	Las Palmas	Kirian Rodríguez	0	0	0	37.4	67.8	0
+4	falta_recibida	407	449718	41.5	71.4	78	59	2	2372227	Las Palmas	Enzo Loiodice	1	0	152	0	0	264
+4	falta_cometida	181	227164	58.5	28.6	78	59	2	2372227	Mallorca	Manu Morlanes	0	0	152	0	0	264
+1	pase	407	487703	31.8	62.3	79	24	2	2372227	Las Palmas	Álex Suárez	1	0	0	33.2	65.5	0
+1	pase	407	484753	37.4	71.7	79	27	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	43.5	64.2	0
+1	pase	407	449718	46	74.8	79	32	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	47.3	93.8	0
+1	pase	407	86398	47.5	93.8	79	34	2	2372227	Las Palmas	Jonathan Viera	1	0	0	35.6	86.5	0
+1	pase	407	484693	37.9	84.9	79	36	2	2372227	Las Palmas	Sergi Cardona	1	0	0	32.3	70.3	0
+1	pase	407	487703	27.6	66.7	79	39	2	2372227	Las Palmas	Álex Suárez	1	0	0	36.3	68.7	0
+1	pase	407	449718	37.5	69.2	79	40	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	28.4	70.1	0
+1	pase	407	487703	28.3	70.1	79	42	2	2372227	Las Palmas	Álex Suárez	1	0	0	34.2	80.8	0
+1	pase	407	484693	35.4	85.8	79	45	2	2372227	Las Palmas	Sergi Cardona	1	0	0	29.1	70.5	0
+1	pase	407	487703	29.1	70.5	79	46	2	2372227	Las Palmas	Álex Suárez	1	0	0	35.2	69.8	0
+1	pase	407	86398	31.5	68.5	79	49	2	2372227	Las Palmas	Jonathan Viera	1	0	0	36.8	57.1	0
+1	pase	407	484753	42.1	70.1	79	51	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	35.4	88.6	0
+1	pase	407	484693	36	79.4	79	53	2	2372227	Las Palmas	Sergi Cardona	1	0	0	28.2	53	0
+1	pase	407	487703	28.2	53	79	56	2	2372227	Las Palmas	Álex Suárez	1	0	0	33	58.9	0
+1	pase	407	86398	36.3	61.6	79	59	2	2372227	Las Palmas	Jonathan Viera	1	0	0	41.6	91	0
+1	pase	407	484753	43.5	91.1	80	3	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	54.2	81	0
+1	pase	407	86398	54.2	81	80	4	2	2372227	Las Palmas	Jonathan Viera	1	0	0	41	90.8	0
+1	pase	407	484753	43	76.2	80	9	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	54.3	68.7	0
+1	pase	407	449718	52.3	69.7	80	11	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	68.5	67.2	0
+1	pase	407	484693	63.6	57.1	80	14	2	2372227	Las Palmas	Sergi Cardona	1	0	0	70.7	43.6	0
+1	pase	407	170864	73.1	26.2	80	16	2	2372227	Las Palmas	Munir El Haddadi	1	0	0	93.6	8.5	0
+1	pase	407	213469	92.6	7.6	80	21	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	76.8	9.6	0
+1	pase	407	170864	66.8	13.7	80	25	2	2372227	Las Palmas	Munir El Haddadi	1	0	0	59.5	24.5	0
+1	pase	407	451565	59.5	24.7	80	28	2	2372227	Las Palmas	Saúl Coco	1	0	0	73	6.4	0
+1	pase	407	213469	75.7	7.6	80	31	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	70.8	28.8	0
+1	pase_fallado	407	86398	69.8	28.8	80	34	2	2372227	Las Palmas	Jonathan Viera	0	0	0	95	41.1	0
+52	portero_agarrra_pelota	181	104407	2	55.7	80	36	2	2372227	Mallorca	Predrag Rajkovic	0	0	0	0	0	0
+1	pase_fallado	181	104407	10.1	49.6	80	40	2	2372227	Mallorca	Predrag Rajkovic	0	0	0	58.9	7.9	0
+4	falta_recibida	407	484693	29.6	95.1	80	46	2	2372227	Las Palmas	Sergi Cardona	1	0	152	0	0	0
+4	falta_cometida	181	170154	70.4	4.9	80	46	2	2372227	Mallorca	Pablo Maffeo	0	0	152	0	0	0
+1	pase	407	487703	21.9	89.4	81	30	2	2372227	Las Palmas	Álex Suárez	1	0	0	34.2	89.4	0
+1	pase	407	86398	34.2	89.4	81	31	2	2372227	Las Palmas	Jonathan Viera	1	0	0	25	89	0
+1	pase_fallado	407	487703	22.6	87.9	81	33	2	2372227	Las Palmas	Álex Suárez	0	0	0	63.4	80.1	0
+49	recuperacion_balon	181	170154	38.1	21.9	81	36	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+1	pase	181	170154	38.1	21.9	81	36	2	2372227	Mallorca	Pablo Maffeo	1	0	0	44.9	23.1	0
+1	pase	181	485385	44.9	23.1	81	37	2	2372227	Mallorca	Samú Costa	1	0	0	31.5	32.5	0
+1	pase	181	105571	29.7	41.5	81	39	2	2372227	Mallorca	Antonio Raíllo	1	0	0	10.5	47.3	0
+1	pase_fallado	181	104407	10.5	47.3	81	41	2	2372227	Mallorca	Predrag Rajkovic	0	0	0	54	32.5	0
+61	toco_balon	407	484753	39.9	65.8	81	45	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+49	recuperacion_balon	407	484693	28.4	85.8	81	48	2	2372227	Las Palmas	Sergi Cardona	1	0	0	0	0	0
+1	pase_fallado	407	484693	21.4	85.1	81	49	2	2372227	Las Palmas	Sergi Cardona	0	0	0	23.2	87.2	0
+74	bloqueo_pase	181	80906	78.2	12.4	81	49	2	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+5	balon_fuera	181	80906	72.7	0	81	50	2	2372227	Mallorca	Dani Rodríguez	0	0	347	0	0	0
+5	balon_fuera	407	484693	27.3	100	81	50	2	2372227	Las Palmas	Sergi Cardona	1	0	347	0	0	0
+1	pase	407	484693	27.2	100	82	6	2	2372227	Las Palmas	Sergi Cardona	1	0	0	44.8	93.1	0
+1	pase_fallado	407	108438	44.8	93.1	82	8	2	2372227	Las Palmas	Sandro Ramírez	0	0	0	57.1	95.1	0
+8	pase_cortado	181	227164	42.6	8.5	82	9	2	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+49	recuperacion_balon	181	227164	37.8	15.8	82	11	2	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+1	pase	181	227164	34.1	18.5	82	11	2	2372227	Mallorca	Manu Morlanes	1	0	0	20.4	31.5	0
+1	pase_fallado	181	104407	20.4	31.5	82	13	2	2372227	Mallorca	Predrag Rajkovic	0	0	0	90.3	35.2	0
+52	portero_agarrra_pelota	407	472194	9.7	62	82	19	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	0	0	0
+1	pase_fallado	407	472194	15.1	55.9	82	23	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	40.6	65.8	0
+8	pase_cortado	181	80906	54.5	33	82	25	2	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+49	recuperacion_balon	181	227164	44	33	82	27	2	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+1	pase	181	227164	48.6	40.2	82	28	2	2372227	Mallorca	Manu Morlanes	1	0	0	55.8	56.3	0
+1	pase	181	169007	58.4	56.1	82	29	2	2372227	Mallorca	Sergi Darder	1	0	0	63.1	45	0
+1	pase	181	156293	68	26.1	82	33	2	2372227	Mallorca	Vedat Muriqi	1	0	0	72.5	32.8	0
+61	toco_balon	181	169007	72.4	33	82	34	2	2372227	Mallorca	Sergi Darder	0	0	0	0	0	0
+49	recuperacion_balon	407	487703	23.5	60	82	34	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+1	pase	407	487703	23.5	60.4	82	35	2	2372227	Las Palmas	Álex Suárez	1	0	0	33.2	68.6	0
+1	pase	407	86398	33.7	65	82	39	2	2372227	Las Palmas	Jonathan Viera	1	0	0	32.7	53.4	0
+83	sin_identificar	181	58792	59.1	37.3	82	41	2	2372227	Mallorca	Jaume Costa	0	0	0	0	0	0
+4	falta_recibida	407	484753	37.3	60.6	82	42	2	2372227	Las Palmas	Kirian Rodríguez	1	0	152	0	0	265
+4	falta_cometida	181	58792	62.7	39.4	82	42	2	2372227	Mallorca	Jaume Costa	0	0	152	0	0	265
+1	pase	407	86398	38.3	66.6	82	51	2	2372227	Las Palmas	Jonathan Viera	1	0	0	28.5	72.8	0
+1	pase	407	484753	43	71.5	82	55	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	64.1	65.1	0
+1	pase	407	198221	59	64.8	83	0	2	2372227	Las Palmas	Javi Muñoz	1	0	0	64.6	30.1	0
+1	pase	407	213469	65.2	29	83	2	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	74.4	4.8	0
+1	pase	407	170864	75.4	14.7	83	6	2	2372227	Las Palmas	Munir El Haddadi	1	0	0	74.2	39.5	0
+83	sin_identificar	181	156293	25.7	56.6	83	8	2	2372227	Mallorca	Vedat Muriqi	0	0	0	0	0	0
+50	me_roban_balon	407	86398	74.2	40.7	83	8	2	2372227	Las Palmas	Jonathan Viera	0	0	0	0	0	0
+7	entrada	181	485385	25.8	59.3	83	8	2	2372227	Mallorca	Samú Costa	1	0	0	0	0	0
+49	recuperacion_balon	181	485385	25.2	53	83	9	2	2372227	Mallorca	Samú Costa	1	0	0	0	0	0
+4	falta_recibida	181	485385	27.4	51.3	83	10	2	2372227	Mallorca	Samú Costa	1	0	152	0	0	265
+4	falta_cometida	407	449718	72.6	48.7	83	10	2	2372227	Las Palmas	Enzo Loiodice	0	0	152	0	0	265
+17	tarjeta	407	213469	69.3	28.1	83	21	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+17	tarjeta	407	449718	60.9	37.7	83	51	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+1	pase	181	104407	30.2	55.5	84	28	2	2372227	Mallorca	Predrag Rajkovic	1	0	0	63.6	76.9	0
+44	duelo_aereo	181	485385	67.2	82.4	84	31	2	2372227	Mallorca	Samú Costa	1	0	0	0	0	0
+44	duelo_aereo	407	198221	32.8	17.6	84	31	2	2372227	Las Palmas	Javi Muñoz	0	0	0	0	0	0
+1	pase_fallado	181	485385	63.6	76.9	84	31	2	2372227	Mallorca	Samú Costa	0	0	0	77.4	83.8	0
+49	recuperacion_balon	407	213469	23.3	7.4	84	34	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+1	pase_fallado	407	213469	23.3	7.4	84	34	2	2372227	Las Palmas	Álvaro Lemos	0	0	0	63.1	38.6	0
+2	pase_fuera_juego	181	170116	36	47.8	84	38	2	2372227	Mallorca	Martin Valjent	1	0	0	68.7	36.1	0
+55	sin_identificar	407	487703	37.5	63.9	84	38	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+18	cambio_jugador_fuera	181	227164	60.6	27.7	84	57	2	2372227	Mallorca	Manu Morlanes	1	0	0	0	0	0
+19	cambio_jugador_dentro	181	536561	60.6	27.7	84	57	2	2372227	Mallorca	Javi Llabrés	1	0	0	0	0	0
+18	cambio_jugador_fuera	407	484753	37.5	63.9	85	0	2	2372227	Las Palmas	Kirian Rodríguez	1	0	0	0	0	0
+19	cambio_jugador_dentro	407	183778	37.5	63.9	85	0	2	2372227	Las Palmas	Omenuke Mfulu	1	0	0	0	0	0
+1	pase	407	487703	31.2	70.3	85	26	2	2372227	Las Palmas	Álex Suárez	1	0	0	36.1	68.5	0
+50	me_roban_balon	407	86398	34.4	67.8	85	28	2	2372227	Las Palmas	Jonathan Viera	0	0	0	0	0	0
+7	entrada	181	169007	65.6	32.2	85	29	2	2372227	Mallorca	Sergi Darder	1	0	0	0	0	0
+49	recuperacion_balon	181	185126	72.1	38.8	85	29	2	2372227	Mallorca	Cyle Larin	1	0	0	0	0	0
+1	pase	181	185126	72.1	38.8	85	30	2	2372227	Mallorca	Cyle Larin	1	0	0	76.1	62.7	0
+13	ocasion_fuera	181	156293	81.9	62.5	85	32	2	2372227	Mallorca	Vedat Muriqi	1	22	0	0	0	0
+5	balon_fuera	181	156293	100	60	85	33	2	2372227	Mallorca	Vedat Muriqi	0	0	346	0	0	0
+5	balon_fuera	407	86398	0	40	85	33	2	2372227	Las Palmas	Jonathan Viera	1	0	346	0	0	0
+1	pase	407	472194	3.1	53.4	85	59	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	58.4	89.4	0
+4	falta_recibida	407	108438	57.7	92.1	86	3	2	2372227	Las Palmas	Sandro Ramírez	1	0	152	0	0	265
+4	falta_cometida	181	170116	42.3	7.9	86	3	2	2372227	Mallorca	Martin Valjent	0	0	152	0	0	265
+1	pase	407	484693	60	91.5	86	23	2	2372227	Las Palmas	Sergi Cardona	1	0	0	66.1	82.1	0
+1	pase	407	449718	74.8	82.1	86	25	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	88.7	87.9	0
+3	regate_fallado	407	108438	86.1	86.8	86	28	2	2372227	Las Palmas	Sandro Ramírez	0	0	0	0	0	0
+7	entrada	181	170116	13.9	13.2	86	28	2	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+6	corner	181	170116	13.9	13.2	86	31	2	2372227	Mallorca	Martin Valjent	0	0	0	0	0	0
+6	corner	407	108438	86.1	86.8	86	31	2	2372227	Las Palmas	Sandro Ramírez	1	0	0	0	0	0
+1	pase	407	86398	99.5	99.5	86	52	2	2372227	Las Palmas	Jonathan Viera	1	0	0	95.3	78.1	0
+1	pase	407	449718	92.8	80.1	86	54	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	84	90.6	0
+1	pase_fallado	407	86398	88.6	86.6	86	58	2	2372227	Las Palmas	Jonathan Viera	0	0	0	84.2	75.4	0
+8	pase_cortado	181	536561	14.7	25.2	86	59	2	2372227	Mallorca	Javi Llabrés	1	0	0	0	0	0
+1	pase_fallado	407	484693	71.5	84.7	87	1	2	2372227	Las Palmas	Sergi Cardona	0	0	0	77.4	82.4	0
+12	despeje	181	536561	21.4	18.8	87	1	2	2372227	Mallorca	Javi Llabrés	1	0	0	0	0	0
+5	balon_fuera	181	536561	14.6	0	87	3	2	2372227	Mallorca	Javi Llabrés	0	0	347	0	0	0
+5	balon_fuera	407	484693	85.4	100	87	3	2	2372227	Las Palmas	Sergi Cardona	1	0	347	0	0	0
+1	pase	407	484693	85.7	100	87	8	2	2372227	Las Palmas	Sergi Cardona	1	0	0	84	88.1	0
+1	pase	407	449718	83.9	88.1	87	9	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	81	95.8	0
+1	pase	407	484693	81	95.8	87	10	2	2372227	Las Palmas	Sergi Cardona	1	0	0	68.6	81.3	0
+1	pase	407	183778	67.8	80.1	87	12	2	2372227	Las Palmas	Omenuke Mfulu	1	0	0	64.6	50.4	0
+1	pase	407	451565	65	46.1	87	15	2	2372227	Las Palmas	Saúl Coco	1	0	0	65.3	23.3	0
+1	pase	407	213469	63.7	14.9	87	18	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	73.8	24.7	0
+1	pase_fallado	407	108438	73.8	24.7	87	19	2	2372227	Las Palmas	Sandro Ramírez	0	0	0	74.8	30.6	0
+8	pase_cortado	181	105571	22.5	69	87	20	2	2372227	Mallorca	Antonio Raíllo	1	0	0	0	0	0
+1	pase	407	472194	31.1	17.8	87	26	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	38.5	11.7	0
+1	pase	407	451565	38.8	23.5	87	31	2	2372227	Las Palmas	Saúl Coco	1	0	0	35.6	56.8	0
+1	pase	407	487703	36.9	60.9	87	35	2	2372227	Las Palmas	Álex Suárez	1	0	0	40.9	72.6	0
+1	pase	407	484693	40.1	73.2	87	37	2	2372227	Las Palmas	Sergi Cardona	1	0	0	43	91.7	0
+45	regate_recibido	181	170154	55.6	12.6	87	39	2	2372227	Mallorca	Pablo Maffeo	0	0	0	0	0	0
+3	regate_conseguido	407	86398	44.4	87.4	87	39	2	2372227	Las Palmas	Jonathan Viera	1	0	0	0	0	0
+4	falta_recibida	407	86398	46	77.9	87	44	2	2372227	Las Palmas	Jonathan Viera	1	0	152	0	0	0
+4	falta_cometida	181	170154	54	22.1	87	44	2	2372227	Mallorca	Pablo Maffeo	0	0	152	0	0	0
+1	pase	407	487703	48.2	73.3	88	1	2	2372227	Las Palmas	Álex Suárez	1	0	0	64.8	92.2	0
+1	pase	407	484693	64.2	92.7	88	3	2	2372227	Las Palmas	Sergi Cardona	1	0	0	80.6	82.2	0
+61	toco_balon	407	170864	80.6	82.2	88	4	2	2372227	Las Palmas	Munir El Haddadi	0	0	0	0	0	0
+1	pase	181	105571	15.9	16.2	88	6	2	2372227	Mallorca	Antonio Raíllo	1	0	0	20.5	4.7	0
+1	pase	181	170154	20.5	4.7	88	7	2	2372227	Mallorca	Pablo Maffeo	1	0	0	29.2	5.2	0
+49	recuperacion_balon	181	169007	29.7	5.6	88	10	2	2372227	Mallorca	Sergi Darder	1	0	0	0	0	0
+1	pase	181	169007	29.7	5.6	88	11	2	2372227	Mallorca	Sergi Darder	1	0	0	41	21.8	0
+1	pase	181	156293	41	21.8	88	12	2	2372227	Mallorca	Vedat Muriqi	1	0	0	41.9	29.7	0
+1	pase	181	536561	55.6	33	88	16	2	2372227	Mallorca	Javi Llabrés	1	0	0	55.1	23.7	0
+1	pase	181	169007	55.1	23.7	88	17	2	2372227	Mallorca	Sergi Darder	1	0	0	69.2	73.5	0
+1	pase_fallado	181	58792	74.9	84.5	88	21	2	2372227	Mallorca	Jaume Costa	0	0	0	90.5	57.9	0
+12	despeje	407	451565	7.2	41.5	88	22	2	2372227	Las Palmas	Saúl Coco	1	0	0	-1.1	21.9	0
+6	corner	181	58792	94.6	63.4	88	24	2	2372227	Mallorca	Jaume Costa	1	0	0	0	0	0
+6	corner	407	451565	5.4	36.6	88	24	2	2372227	Las Palmas	Saúl Coco	0	0	0	0	0	0
+1	pase	181	169007	99.9	99.5	88	59	2	2372227	Mallorca	Sergi Darder	1	0	0	92.5	60	0
+13	ocasion_fuera	181	156293	92.1	56.9	89	0	2	2372227	Mallorca	Vedat Muriqi	1	25	0	0	0	0
+61	toco_balon	407	449718	5	55.9	89	1	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+61	toco_balon	181	170116	94.9	46.4	89	1	2	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+12	despeje	407	213469	6.4	53.7	89	2	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	6.3	39.1	0
+12	despeje	407	487703	4.8	36.9	89	3	2	2372227	Las Palmas	Álex Suárez	1	0	0	14.8	27.2	0
+49	recuperacion_balon	407	108438	14.8	24.6	89	5	2	2372227	Las Palmas	Sandro Ramírez	1	0	0	0	0	0
+1	pase	407	108438	14	23.9	89	5	2	2372227	Las Palmas	Sandro Ramírez	1	0	0	28.1	18.2	0
+50	me_roban_balon	407	170864	41.8	8.1	89	9	2	2372227	Las Palmas	Munir El Haddadi	0	0	0	0	0	0
+7	entrada	181	80906	58.2	91.9	89	10	2	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+5	balon_fuera	181	80906	57.4	100	89	11	2	2372227	Mallorca	Dani Rodríguez	0	0	347	0	0	0
+5	balon_fuera	407	170864	42.6	0	89	11	2	2372227	Las Palmas	Munir El Haddadi	1	0	347	0	0	0
+1	pase	407	213469	42.9	0	89	38	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	39.3	9.8	0
+1	pase	407	183778	39.9	12.2	89	40	2	2372227	Las Palmas	Omenuke Mfulu	1	0	0	33.7	24.9	0
+1	pase	407	451565	31.1	28.5	89	42	2	2372227	Las Palmas	Saúl Coco	1	0	0	32.3	42.3	0
+1	pase	407	487703	35.2	47	89	45	2	2372227	Las Palmas	Álex Suárez	1	0	0	35.8	27.4	0
+1	pase	407	183778	37.5	22.6	89	48	2	2372227	Las Palmas	Omenuke Mfulu	1	0	0	53.5	4.4	0
+1	pase	407	213469	45.5	7.1	89	51	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	33.9	30.2	0
+1	pase	407	451565	31.1	44.3	89	54	2	2372227	Las Palmas	Saúl Coco	1	0	0	38.3	79.4	0
+1	pase	407	487703	38	78.5	89	58	2	2372227	Las Palmas	Álex Suárez	1	0	0	44.5	94	0
+4	falta_recibida	407	484693	45.6	93.9	90	0	2	2372227	Las Palmas	Sergi Cardona	1	0	152	0	0	0
+4	falta_cometida	181	170154	54.4	6.1	90	0	2	2372227	Mallorca	Pablo Maffeo	0	0	152	0	0	0
+1	pase	407	484693	45.5	94.9	90	9	2	2372227	Las Palmas	Sergi Cardona	1	0	0	35.9	95.1	0
+1	pase	407	487703	38.8	94	90	12	2	2372227	Las Palmas	Álex Suárez	1	0	0	42	84.7	0
+1	pase	407	183778	41	79.6	90	15	2	2372227	Las Palmas	Omenuke Mfulu	1	0	0	36	60	0
+1	pase_fallado	407	451565	46.1	52.7	90	21	2	2372227	Las Palmas	Saúl Coco	0	0	0	65.1	49.3	0
+8	pase_cortado	181	170116	31.3	52.2	90	22	2	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+5	balon_fuera	407	451565	34.6	0	90	27	2	2372227	Las Palmas	Saúl Coco	1	0	347	0	0	0
+1	pase	407	213469	32.8	0	90	44	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	38.8	27.9	0
+1	pase_fallado	407	198221	37.3	29.3	90	46	2	2372227	Las Palmas	Javi Muñoz	0	0	0	53.3	51.3	0
+49	recuperacion_balon	181	170154	44.5	46.1	90	48	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+1	pase	181	170154	44.5	46.1	90	48	2	2372227	Mallorca	Pablo Maffeo	1	0	0	59.9	62.4	0
+1	pase	181	485385	59.9	62.4	90	51	2	2372227	Mallorca	Samú Costa	1	0	0	69.5	60.5	0
+15	disparo_parado	181	185126	70.8	59.2	90	55	2	2372227	Mallorca	Cyle Larin	1	22	0	0	0	0
+10	parada	407	487703	25.5	41.7	90	55	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+61	toco_balon	407	449718	26.5	47.5	90	55	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	0	0	0
+1	pase_fallado	407	484693	25.9	64.5	90	56	2	2372227	Las Palmas	Sergi Cardona	0	0	0	60.4	48.5	0
+1	pase	181	105571	35.7	50.7	91	1	2	2372227	Mallorca	Antonio Raíllo	1	0	0	61	43.4	0
+44	duelo_aereo	181	485385	64.1	45.9	91	3	2	2372227	Mallorca	Samú Costa	1	0	0	0	0	0
+44	duelo_aereo	407	183778	35.9	54.1	91	3	2	2372227	Las Palmas	Omenuke Mfulu	0	0	0	0	0	0
+1	pase	181	485385	60.9	43.4	91	3	2	2372227	Mallorca	Samú Costa	1	0	0	66.3	47.3	0
+83	sin_identificar	407	451565	32.4	61.8	91	5	2	2372227	Las Palmas	Saúl Coco	0	0	0	0	0	0
+50	me_roban_balon	181	185126	70.4	43.9	91	8	2	2372227	Mallorca	Cyle Larin	0	0	0	0	0	0
+7	entrada	407	487703	29.6	56.1	91	8	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+49	recuperacion_balon	407	487703	28.4	61.8	91	8	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+61	toco_balon	407	487703	48.6	96.3	91	13	2	2372227	Las Palmas	Álex Suárez	0	0	0	0	0	0
+5	balon_fuera	181	485385	39.8	0	91	14	2	2372227	Mallorca	Samú Costa	1	0	347	0	0	0
+5	balon_fuera	407	487703	60.2	100	91	14	2	2372227	Las Palmas	Álex Suárez	0	0	347	0	0	0
+1	pase_fallado	181	170154	40.6	0	91	19	2	2372227	Mallorca	Pablo Maffeo	0	0	0	74	13.1	0
+44	duelo_aereo	407	183778	19.6	87.4	91	22	2	2372227	Las Palmas	Omenuke Mfulu	1	0	0	0	0	0
+44	duelo_aereo	181	156293	80.4	12.6	91	22	2	2372227	Mallorca	Vedat Muriqi	0	0	0	0	0	0
+12	despeje	407	183778	12.8	86.6	91	22	2	2372227	Las Palmas	Omenuke Mfulu	1	0	0	-1.4	90.5	0
+6	corner	181	170154	88.2	9.2	91	25	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+6	corner	407	183778	11.8	90.8	91	25	2	2372227	Las Palmas	Omenuke Mfulu	0	0	0	0	0	0
+1	pase	181	169007	99.5	0.5	91	54	2	2372227	Mallorca	Sergi Darder	1	0	0	87.8	61.1	0
+1	pase_fallado	181	105571	88.5	60.9	91	56	2	2372227	Mallorca	Antonio Raíllo	0	0	0	95.1	66.6	0
+61	toco_balon	407	183778	6	32.2	91	58	2	2372227	Las Palmas	Omenuke Mfulu	0	0	0	0	0	0
+6	corner	181	105571	95	68	92	0	2	2372227	Mallorca	Antonio Raíllo	1	0	0	0	0	0
+6	corner	407	183778	5	32	92	0	2	2372227	Las Palmas	Omenuke Mfulu	0	0	0	0	0	0
+1	pase	181	169007	99.5	99.5	92	23	2	2372227	Mallorca	Sergi Darder	1	0	0	95.1	52.8	0
+44	duelo_aereo	181	156293	94	54	92	25	2	2372227	Mallorca	Vedat Muriqi	1	0	0	0	0	0
+44	duelo_aereo	407	451565	6	46	92	25	2	2372227	Las Palmas	Saúl Coco	0	0	0	0	0	0
+13	ocasion_fuera	181	156293	95	52.8	92	25	2	2372227	Mallorca	Vedat Muriqi	1	25	0	0	0	0
+5	balon_fuera	181	156293	100	37.8	92	26	2	2372227	Mallorca	Vedat Muriqi	0	0	346	0	0	0
+5	balon_fuera	407	487703	0	62.2	92	26	2	2372227	Las Palmas	Álex Suárez	1	0	346	0	0	0
+1	pase	407	472194	4.8	51.5	92	52	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	26.8	90.5	0
+1	pase	407	484693	27.1	91.7	92	56	2	2372227	Las Palmas	Sergi Cardona	1	0	0	43.1	95.9	0
+1	pase	407	170864	47.1	94.9	92	58	2	2372227	Las Palmas	Munir El Haddadi	1	0	0	46.2	90.2	0
+1	pase	407	449718	52.1	91.5	93	1	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	52.5	95.2	0
+1	pase	407	170864	52.4	95.2	93	2	2	2372227	Las Palmas	Munir El Haddadi	1	0	0	42.9	93.8	0
+1	pase	407	484693	42.5	92.9	93	4	2	2372227	Las Palmas	Sergi Cardona	1	0	0	34.4	76.2	0
+1	pase	407	487703	33.5	68.2	93	7	2	2372227	Las Palmas	Álex Suárez	1	0	0	38.8	39.3	0
+1	pase	407	451565	56.2	52.7	93	13	2	2372227	Las Palmas	Saúl Coco	1	0	0	63	60.3	0
+50	me_roban_balon	407	170864	66.8	65	93	16	2	2372227	Las Palmas	Munir El Haddadi	0	0	0	0	0	0
+7	entrada	181	156293	33.2	35	93	16	2	2372227	Mallorca	Vedat Muriqi	1	0	0	0	0	0
+49	recuperacion_balon	181	80906	33.2	29.4	93	17	2	2372227	Mallorca	Dani Rodríguez	1	0	0	0	0	0
+1	pase	181	80906	33.2	29.4	93	17	2	2372227	Mallorca	Dani Rodríguez	1	0	0	25.9	38.5	0
+1	pase	181	485385	26	35.1	93	19	2	2372227	Mallorca	Samú Costa	1	0	0	24.7	52.2	0
+1	pase	181	105571	26.6	57.9	93	21	2	2372227	Mallorca	Antonio Raíllo	1	0	0	10	46.1	0
+1	pase	181	104407	10	46.1	93	23	2	2372227	Mallorca	Predrag Rajkovic	1	0	0	27.6	98.4	0
+1	pase	181	58792	33	97.2	93	29	2	2372227	Mallorca	Jaume Costa	1	0	0	30.1	86.9	0
+1	pase	181	485385	34.2	84.4	93	34	2	2372227	Mallorca	Samú Costa	1	0	0	56.7	58.8	0
+83	sin_identificar	407	449718	41.6	47.9	93	37	2	2372227	Las Palmas	Enzo Loiodice	0	0	0	0	0	0
+4	falta_recibida	181	156293	58.7	49.2	93	38	2	2372227	Mallorca	Vedat Muriqi	1	0	241	0	0	0
+4	falta_cometida	407	170864	41.3	50.8	93	38	2	2372227	Las Palmas	Munir El Haddadi	0	0	241	0	0	0
+1	pase_fallado	181	169007	55.8	48.7	94	3	2	2372227	Mallorca	Sergi Darder	0	0	0	72.6	73.3	0
+44	duelo_aereo	407	213469	18.6	27.4	94	4	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+44	duelo_aereo	181	105571	81.4	72.6	94	4	2	2372227	Mallorca	Antonio Raíllo	0	0	0	0	0	0
+8	pase_cortado	407	213469	20.5	22.1	94	4	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+5	balon_fuera	181	105571	74.6	100	94	8	2	2372227	Mallorca	Antonio Raíllo	1	0	347	0	0	0
+5	balon_fuera	407	213469	25.4	0	94	8	2	2372227	Las Palmas	Álvaro Lemos	0	0	347	0	0	0
+1	pase_fallado	181	58792	82.8	100	94	24	2	2372227	Mallorca	Jaume Costa	0	0	0	84.5	67.8	0
+44	duelo_aereo	407	213469	12.7	30.2	94	26	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	0	0	0
+44	duelo_aereo	181	105571	87.3	69.8	94	26	2	2372227	Mallorca	Antonio Raíllo	0	0	0	0	0	0
+12	despeje	407	213469	10.3	27.4	94	27	2	2372227	Las Palmas	Álvaro Lemos	1	0	0	26.2	45.5	0
+1	pase	407	86398	23.7	30.2	94	28	2	2372227	Las Palmas	Jonathan Viera	1	0	0	21.6	40.4	0
+1	pase_fallado	407	198221	21.9	39.1	94	29	2	2372227	Las Palmas	Javi Muñoz	0	0	0	29.6	34.2	0
+1	pase_fallado	181	536561	66.4	67	94	30	2	2372227	Mallorca	Javi Llabrés	0	0	0	67.1	43.4	0
+1	pase_fallado	181	80906	64.2	37.1	94	33	2	2372227	Mallorca	Dani Rodríguez	0	0	0	69.5	58.5	0
+1	pase_fallado	407	198221	27.3	44.1	94	34	2	2372227	Las Palmas	Javi Muñoz	0	0	0	50.9	49.5	0
+1	pase	181	105571	55.1	46.7	94	36	2	2372227	Mallorca	Antonio Raíllo	1	0	0	57	26.8	0
+1	pase_fallado	181	170154	56.5	27.9	94	37	2	2372227	Mallorca	Pablo Maffeo	0	0	0	60.7	56.9	0
+1	pase_fallado	181	169007	60.7	56.9	94	39	2	2372227	Mallorca	Sergi Darder	0	0	0	68.7	56.9	0
+44	duelo_aereo	407	451565	25.2	38	94	41	2	2372227	Las Palmas	Saúl Coco	1	0	0	0	0	0
+44	duelo_aereo	181	185126	74.8	62	94	41	2	2372227	Mallorca	Cyle Larin	0	0	0	0	0	0
+61	toco_balon	407	451565	24.3	41	94	41	2	2372227	Las Palmas	Saúl Coco	1	0	0	0	0	0
+2	pase_fuera_juego	181	185126	72.8	60.8	94	41	2	2372227	Mallorca	Cyle Larin	1	0	0	85.7	60.6	0
+55	sin_identificar	407	487703	18.4	48.4	94	41	2	2372227	Las Palmas	Álex Suárez	1	0	0	0	0	0
+1	pase_fallado	407	472194	18.9	45.2	95	17	2	2372227	Las Palmas	Álvaro Vallés	0	0	0	68.1	78.9	0
+44	duelo_aereo	181	170116	28.8	19.7	95	21	2	2372227	Mallorca	Martin Valjent	1	0	0	0	0	0
+44	duelo_aereo	407	170864	71.2	80.3	95	21	2	2372227	Las Palmas	Munir El Haddadi	0	0	0	0	0	0
+1	pase	181	170116	25.4	23.9	95	21	2	2372227	Mallorca	Martin Valjent	1	0	0	42.6	17.4	0
+61	toco_balon	181	156293	41.4	29.4	95	23	2	2372227	Mallorca	Vedat Muriqi	1	0	0	0	0	0
+1	pase	407	183778	56.3	64.1	95	24	2	2372227	Las Palmas	Omenuke Mfulu	1	0	0	62.6	83.5	0
+3	regate_fallado	407	170864	68	92.2	95	28	2	2372227	Las Palmas	Munir El Haddadi	0	0	0	0	0	0
+7	entrada	181	170154	32	7.8	95	28	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+1	pase	407	449718	66.1	89.6	95	30	2	2372227	Las Palmas	Enzo Loiodice	1	0	0	58.2	96.5	0
+1	pase	407	484693	58.9	90.6	95	31	2	2372227	Las Palmas	Sergi Cardona	1	0	0	62.2	91.5	0
+1	pase	407	170864	63.4	94.2	95	31	2	2372227	Las Palmas	Munir El Haddadi	1	0	0	63.2	90.1	0
+50	me_roban_balon	407	449718	64.8	90	95	32	2	2372227	Las Palmas	Enzo Loiodice	0	0	0	0	0	0
+7	entrada	181	170154	35.2	10	95	32	2	2372227	Mallorca	Pablo Maffeo	0	0	0	0	0	0
+49	recuperacion_balon	181	170154	36	15.8	95	34	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+3	regate_fallado	181	170154	45.4	29.2	95	35	2	2372227	Mallorca	Pablo Maffeo	0	0	0	0	0	0
+7	entrada	407	198221	54.6	70.8	95	35	2	2372227	Las Palmas	Javi Muñoz	0	0	0	0	0	0
+50	me_roban_balon	181	170154	72.5	55.6	95	40	2	2372227	Mallorca	Pablo Maffeo	0	0	0	0	0	0
+7	entrada	407	183778	27.5	44.4	95	40	2	2372227	Las Palmas	Omenuke Mfulu	1	0	0	0	0	0
+6	corner	181	170154	72.5	55.6	95	44	2	2372227	Mallorca	Pablo Maffeo	1	0	0	0	0	0
+6	corner	407	183778	27.5	44.4	95	44	2	2372227	Las Palmas	Omenuke Mfulu	0	0	0	0	0	0
+1	pase	181	169007	99.5	99.5	96	21	2	2372227	Mallorca	Sergi Darder	1	0	0	96.3	27.1	0
+1	pase_fallado	181	105571	97.3	19.8	96	25	2	2372227	Mallorca	Antonio Raíllo	0	0	0	99.3	50.7	0
+11	sin_identificar	407	472194	1.1	48.9	96	26	2	2372227	Las Palmas	Álvaro Vallés	1	0	0	0	0	0

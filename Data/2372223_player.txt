@@ -1,0 +1,45 @@
+id	first_name	last_name	known_name	team_id	shirt	posicion	titular	minutos
+212769	Unai Simón	Unai Simón	Unai Simón	174	1	Goalkeeper	Start	90
+197314	Íñigo Lekue	Íñigo Lekue	Íñigo Lekue	174	15	Defender	Start	71
+437554	Dani Vivian	Dani Vivian	Dani Vivian	174	3	Defender	Start	90
+440593	Aitor Paredes	Aitor Paredes	Aitor Paredes	174	4	Defender	Start	90
+59062	Óscar De Marcos	Óscar De Marcos	Óscar De Marcos	174	18	Defender	Start	90
+76012	Iker Muniain	Iker Muniain	Iker Muniain	174	10	Midfielder	Start	45
+523654	Nico Williams	Nico Williams	Nico Williams	174	11	Midfielder	Start	45
+96736	Íñigo Ruíz de Galarreta	Íñigo Ruíz de Galarreta	Íñigo Ruíz de Galarreta	174	16	Midfielder	Start	90
+619506	Unai Gómez	Unai Gómez	Unai Gómez	174	30	Midfielder	Start	45
+197326	Mikel Vesga	Mikel Vesga	Mikel Vesga	174	6	Midfielder	Start	64
+197334	Iñaki Williams	Iñaki Williams	Iñaki Williams	174	9	Striker	Start	90
+59846	Ander Herrera	Ander Herrera	Ander Herrera	174	21	Substitute	Sub	26
+470511	Imanol García de Albéniz	Imanol García de Albéniz	Imanol García de Albéniz	174	19	Substitute	Sub	19
+546282	Javier Martón	Javier Martón	Javier Martón	174	24	Substitute	Sub	0
+195385	Alex Berenguer	Alex Berenguer	Alex Berenguer	174	7	Substitute	Sub	45
+589574	Malcom Adu	Malcom Adu	Malcom Adu	174	29	Substitute	Sub	0
+212770	Asier Villalibre	Asier Villalibre	Asier Villalibre	174	20	Substitute	Sub	0
+220182	Gorka Guruzeta	Gorka Guruzeta	Gorka Guruzeta	174	12	Substitute	Sub	45
+242831	Peru Nolaskoain	Peru Nolaskoain	Peru Nolaskoain	174	23	Substitute	Sub	0
+439772	Oihan Sancet	Oihan Sancet	Oihan Sancet	174	8	Substitute	Sub	45
+18498	Raúl García	Raúl García	Raúl García	174	22	Substitute	Sub	0
+470506	Beñat Prados	Beñat Prados	Beñat Prados	174	33	Substitute	Sub	0
+470508	Julen Agirrezabala	Julen Agirrezabala	Julen Agirrezabala	174	13	Substitute	Sub	0
+224965	Andriy Lunin	Andriy Lunin	Andriy Lunin	186	13	Goalkeeper	Start	90
+50188	David Alaba	David Alaba	David Alaba	186	4	Defender	Start	90
+88483	Dani Carvajal	Dani Carvajal	Dani Carvajal	186	2	Defender	Start	90
+218449	Éder Militão	Éder Militão	Éder Militão	186	3	Defender	Start	50
+227166	Fran García	Fran García	Fran García	186	20	Defender	Start	90
+475561	Eduardo Camavinga	Eduardo Camavinga	Eduardo Camavinga	186	12	Midfielder	Start	71
+219292	Aurélien Tchouaméni	Aurélien Tchouaméni	Aurélien Tchouaméni	186	18	Midfielder	Start	90
+223255	Federico Valverde	Federico Valverde	Federico Valverde	186	15	Midfielder	Start	90
+244855	Jude Bellingham	Jude Bellingham	Jude Bellingham	186	5	Midfielder	Start	90
+246333	Vinícius Júnior	Vinícius Júnior	Vinícius Júnior	186	7	Striker	Start	80
+440077	Rodrygo	Rodrygo	Rodrygo	186	11	Striker	Start	80
+61316	Joselu	Joselu	Joselu	186	14	Substitute	Sub	10
+493337	Lucas Cañizares	Lucas Cañizares	Lucas Cañizares	186	31	Substitute	Sub	0
+88477	Nacho	Nacho	Nacho	186	6	Substitute	Sub	0
+592988	Francisco González	Francisco González	Francisco González	186	30	Substitute	Sub	0
+102380	Antonio Rüdiger	Antonio Rüdiger	Antonio Rüdiger	186	22	Substitute	Sub	40
+107593	Lucas Vázquez	Lucas Vázquez	Lucas Vázquez	186	17	Substitute	Sub	0
+201172	Álvaro Odriozola	Álvaro Odriozola	Álvaro Odriozola	186	16	Substitute	Sub	0
+216183	Brahim Díaz	Brahim Díaz	Brahim Díaz	186	21	Substitute	Sub	0
+37055	Luka Modric	Luka Modric	Luka Modric	186	10	Substitute	Sub	10
+44989	Toni Kroos	Toni Kroos	Toni Kroos	186	8	Substitute	Sub	19

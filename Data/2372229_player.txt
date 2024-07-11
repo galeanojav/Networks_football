@@ -1,0 +1,42 @@
+id	first_name	last_name	known_name	team_id	shirt	posicion	titular	minutos
+508479	Filip Jörgensen	Filip Jörgensen	Filip Jörgensen	449	13	Goalkeeper	Start	90
+100059	Alberto Moreno	Alberto Moreno	Alberto Moreno	449	18	Defender	Start	24
+234908	Juan Foyth	Juan Foyth	Juan Foyth	449	8	Defender	Start	90
+246301	Jorge Cuenca	Jorge Cuenca	Jorge Cuenca	449	5	Defender	Start	90
+86813	Aïssa Mandi	Aïssa Mandi	Aïssa Mandi	449	23	Defender	Start	90
+230071	Santi Comesaña	Santi Comesaña	Santi Comesaña	449	4	Midfielder	Start	57
+51952	Dani Parejo	Dani Parejo	Dani Parejo	449	10	Midfielder	Start	90
+519373	Ramón Terrats	Ramón Terrats	Ramón Terrats	449	20	Midfielder	Start	83
+93721	Gerard Moreno	Gerard Moreno	Gerard Moreno	449	7	Striker	Start	84
+143877	Alexander Sørloth	Alexander Sørloth	Alexander Sørloth	449	11	Striker	Start	90
+248501	Álex Baena	Álex Baena	Álex Baena	449	16	Striker	Start	90
+98961	Manu Trigueros	Manu Trigueros	Manu Trigueros	449	14	Substitute	Sub	0
+165375	José Luís Morales	José Luís Morales	José Luís Morales	449	15	Substitute	Sub	7
+204814	Ben Brereton Díaz	Ben Brereton Díaz	Ben Brereton Díaz	449	9	Substitute	Sub	0
+208380	Alfonso Pedraza	Alfonso Pedraza	Alfonso Pedraza	449	24	Substitute	Sub	66
+215979	Matteo Gabbia	Matteo Gabbia	Matteo Gabbia	449	2	Substitute	Sub	0
+8432	Pepe Reina	Pepe Reina	Pepe Reina	449	1	Substitute	Sub	0
+18003	Raúl Albiol	Raúl Albiol	Raúl Albiol	449	3	Substitute	Sub	0
+38439	Étienne Capoue	Étienne Capoue	Étienne Capoue	449	6	Substitute	Sub	33
+54484	Kiko Femenía	Kiko Femenía	Kiko Femenía	449	17	Substitute	Sub	0
+89572	Denis Suárez	Denis Suárez	Denis Suárez	449	22	Substitute	Sub	6
+124097	Rui Silva	Rui Silva	Rui Silva	185	13	Goalkeeper	Start	90
+121220	Germán Pezzella	Germán Pezzella	Germán Pezzella	185	6	Defender	Start	90
+164474	Youssouf Sabaly	Youssouf Sabaly	Youssouf Sabaly	185	23	Defender	Start	90
+215510	Luiz Felipe	Luiz Felipe	Luiz Felipe	185	19	Defender	Start	90
+475344	Abner	Abner	Abner	185	20	Defender	Start	90
+80209	Isco	Isco	Isco	185	22	Midfielder	Start	71
+509290	Luiz Henrique	Luiz Henrique	Luiz Henrique	185	11	Midfielder	Start	71
+168580	Ayoze Pérez	Ayoze Pérez	Ayoze Pérez	185	10	Midfielder	Start	84
+197024	Guido Rodríguez	Guido Rodríguez	Guido Rodríguez	185	5	Midfielder	Start	89
+234370	Marc Roca	Marc Roca	Marc Roca	185	21	Midfielder	Start	90
+202044	Borja Iglesias	Borja Iglesias	Borja Iglesias	185	9	Striker	Start	45
+73314	Willian José	Willian José	Willian José	185	12	Substitute	Sub	45
+491430	Rodri	Rodri	Rodri	185	17	Substitute	Sub	19
+515621	Chadi Riad	Chadi Riad	Chadi Riad	185	28	Substitute	Sub	0
+433530	Juan Miranda	Juan Miranda	Juan Miranda	185	3	Substitute	Sub	0
+441303	Aitor Ruibal	Aitor Ruibal	Aitor Ruibal	185	24	Substitute	Sub	19
+447091	Fran Vieites	Fran Vieites	Fran Vieites	185	30	Substitute	Sub	0
+451281	Juan Cruz	Juan Cruz	Juan Cruz	185	16	Substitute	Sub	0
+475177	Paul Akouokou	Paul Akouokou	Paul Akouokou	185	4	Substitute	Sub	1
+37064	Andrés Guardado	Andrés Guardado	Andrés Guardado	185	18	Substitute	Sub	6

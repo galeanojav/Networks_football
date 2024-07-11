@@ -1,0 +1,22 @@
+match_id	period	min	sec	xG	finalizacion	balon_jugado(22)_ABP(0)	tipo_jugada	gol_propia_meta(28)	x1	y1	z1	x2	y2	z2	team_id	team_name	player_id	player_name	dorsal	titular	posicion	team_receives_id	team_receives_name	goalkeeper_receives_id	goalkeeper_receives_name	xGOT
+372223-	1	13	31	0.00424442	13	0	25	0	74.1	68.2	0	100	50.3	65.3	186	Real Madrid	223255	Federico Valverde	15	Start	Midfielder	174	Athletic Club	212769	Unai Simón	0
+372223-	1	23	44	0.0352215	15	0	26	0	77.2	84.7	0	100	49.5	3.8	186	Real Madrid	50188	David Alaba	4	Start	Defender	174	Athletic Club	212769	Unai Simón	0.03
+372223-	1	27	30	0.0660349	16	22	29	0	91	32	0	100	47.8	5.7	186	Real Madrid	440077	Rodrygo	11	Start	Striker	174	Athletic Club	212769	Unai Simón	0.0734
+372223-	1	33	17	0.097948	15	0	29	0	96.7	41.2	0	100	46.8	8.2	186	Real Madrid	50188	David Alaba	4	Start	Defender	174	Athletic Club	212769	Unai Simón	0.1416
+372223-	1	33	19	0.0697076	15	0	25	0	96.3	39.6	0	100	47	19	186	Real Madrid	50188	David Alaba	4	Start	Defender	174	Athletic Club	212769	Unai Simón	0
+372223-	1	34	56	0.0983026	15	22	29	0	89.7	64.5	0	100	53.1	12.7	186	Real Madrid	246333	Vinícius Júnior	7	Start	Striker	174	Athletic Club	212769	Unai Simón	0.2949
+372223-	1	34	59	0.0666025	15	22	0	0	91.7	64.9	0	100	50.3	19	186	Real Madrid	246333	Vinícius Júnior	7	Start	Striker	174	Athletic Club	212769	Unai Simón	0
+372223-	1	35	11	0.150605	15	22	29	0	92.9	54.4	0	100	50.3	19	186	Real Madrid	244855	Jude Bellingham	5	Start	Midfielder	174	Athletic Club	212769	Unai Simón	0
+372223-	1	35	52	0.0782953	16	0	29	0	86.9	42.2	0	100	54.2	17.7	186	Real Madrid	244855	Jude Bellingham	5	Start	Midfielder	174	Athletic Club	212769	Unai Simón	0.4745
+372223-	1	37	22	0.0521471	15	22	0	0	90.9	34.9	0	100	48.4	8.2	174	Athletic Club	619506	Unai Gómez	30	Start	Midfielder	186	Real Madrid	224965	Andriy Lunin	0.0434
+372223-	1	48	44	0.11065	13	22	0	0	91.7	56.6	0	100	31.1	45.8	186	Real Madrid	227166	Fran García	20	Start	Defender	174	Athletic Club	212769	Unai Simón	0
+372223-	2	52	27	0.0847192	13	0	29	0	93.9	43.3	0	100	90.3	19.4	174	Athletic Club	440593	Aitor Paredes	4	Start	Defender	186	Real Madrid	224965	Andriy Lunin	0
+372223-	2	58	23	0.0141565	15	22	29	0	76.5	66.6	0	100	48	19	174	Athletic Club	197326	Mikel Vesga	6	Start	Midfielder	186	Real Madrid	224965	Andriy Lunin	0
+372223-	2	67	41	0.0264028	13	0	26	0	76	71.5	0	100	57.3	2.8	186	Real Madrid	223255	Federico Valverde	15	Start	Midfielder	174	Athletic Club	212769	Unai Simón	0
+372223-	2	69	25	0.0901568	15	0	23	0	89.3	62.7	0	100	48.1	6.3	186	Real Madrid	246333	Vinícius Júnior	7	Start	Striker	174	Athletic Club	212769	Unai Simón	0.1677
+372223-	2	71	56	0.0364487	15	0	29	0	86.8	67.8	0	100	47.4	19	174	Athletic Club	439772	Oihan Sancet	8	Sub	Substitute	186	Real Madrid	224965	Andriy Lunin	0
+372223-	2	75	18	0.0999224	15	22	0	0	86.8	35.8	0	100	49.6	19	174	Athletic Club	195385	Alex Berenguer	7	Sub	Substitute	186	Real Madrid	224965	Andriy Lunin	0
+372223-	2	78	2	0.019765	15	22	29	0	78.4	71.1	0	100	48.9	15.2	186	Real Madrid	440077	Rodrygo	11	Start	Striker	174	Athletic Club	212769	Unai Simón	0.0353
+372223-	2	82	54	0.0941489	15	22	29	0	84.5	47.6	0	100	53	5.7	186	Real Madrid	37055	Luka Modric	10	Sub	Substitute	174	Athletic Club	212769	Unai Simón	0.245
+372223-	2	89	10	0.0219197	13	0	25	0	81.9	54.9	0	100	38.3	72.2	174	Athletic Club	439772	Oihan Sancet	8	Sub	Substitute	186	Real Madrid	224965	Andriy Lunin	0
+372223-	2	90	39	0.138274	13	0	29	0	92.3	48.1	0	100	59.7	20.8	174	Athletic Club	440593	Aitor Paredes	4	Start	Defender	186	Real Madrid	224965	Andriy Lunin	0

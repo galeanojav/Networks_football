@@ -1,0 +1,20 @@
+match_id	period	min	sec	xG	finalizacion	balon_jugado(22)_ABP(0)	tipo_jugada	gol_propia_meta(28)	x1	y1	z1	x2	y2	z2	team_id	team_name	player_id	player_name	dorsal	titular	posicion	team_receives_id	team_receives_name	goalkeeper_receives_id	goalkeeper_receives_name	xGOT
+372228-	1	3	41	0.317388	13	22	29	0	89.2	54.2	0	100	32.3	15.3	1450	Getafe	448179	Juanmi Latasa	14	Start	Striker	178	Barcelona	77318	Marc-André ter Stegen	0
+372228-	1	7	17	0.0424274	15	0	29	0	87	49.9	0	100	51	23.4	178	Barcelona	56764	Robert Lewandowski	9	Start	Striker	1450	Getafe	175204	David Soria	0.0571
+372228-	1	15	35	0.0439567	15	0	26	0	79.9	27.1	0	100	52.3	2.5	178	Barcelona	219961	Raphinha	11	Start	Midfielder	1450	Getafe	175204	David Soria	0.1845
+372228-	1	25	34	0.0743553	13	22	29	0	77.3	42.4	0	100	57.3	2.8	178	Barcelona	78056	Oriol Romeu	18	Start	Midfielder	1450	Getafe	175204	David Soria	0
+372228-	1	29	11	0.100232	15	22	29	0	81.7	50.6	0	100	47.2	5.7	1450	Getafe	464283	Juan Iglesias	21	Start	Midfielder	178	Barcelona	77318	Marc-André ter Stegen	0.1892
+372228-	1	35	46	0.23499	15	22	29	0	95	35.3	0	100	50	3.8	178	Barcelona	219961	Raphinha	11	Start	Midfielder	1450	Getafe	175204	David Soria	0.1342
+372228-	1	36	42	0.0569876	15	22	0	0	82.2	42.6	0	100	47.6	19	178	Barcelona	490541	Pedri	8	Start	Midfielder	1450	Getafe	175204	David Soria	0
+372228-	1	38	2	0.00840227	15	22	29	0	67.2	43.4	0	100	48.9	19	178	Barcelona	220325	Jules Koundé	23	Start	Defender	1450	Getafe	175204	David Soria	0
+372228-	1	48	50	0.0475678	15	22	0	0	80.8	45.8	0	100	49	17.1	1450	Getafe	464283	Juan Iglesias	21	Start	Midfielder	178	Barcelona	77318	Marc-André ter Stegen	0.0327
+372228-	1	52	46	0.0511718	13	22	29	0	88.2	45.8	0	100	60.7	52.8	1450	Getafe	179271	Carles Aleñá	11	Start	Midfielder	178	Barcelona	77318	Marc-André ter Stegen	0
+372228-	2	52	15	0.153896	13	22	29	0	91.2	64.7	0	100	49.6	65.3	178	Barcelona	500745	Abde Ezzalzouli	16	Sub	Substitute	1450	Getafe	175204	David Soria	0
+372228-	2	59	35	0.0489859	15	22	29	0	78.6	57.8	0	100	48.8	19	178	Barcelona	209712	Frenkie de Jong	21	Start	Midfielder	1450	Getafe	175204	David Soria	0
+372228-	2	61	49	0.37245	15	22	29	0	98.4	53.9	0	100	52	19	178	Barcelona	56764	Robert Lewandowski	9	Start	Striker	1450	Getafe	175204	David Soria	0
+372228-	2	61	56	0.061042	13	22	0	0	81.4	47	0	100	50.9	66.7	178	Barcelona	78056	Oriol Romeu	18	Start	Midfielder	1450	Getafe	175204	David Soria	0
+372228-	2	74	54	0.029984	13	22	29	0	93.2	69.8	0	100	57	6.9	178	Barcelona	500745	Abde Ezzalzouli	16	Sub	Substitute	1450	Getafe	175204	David Soria	0
+372228-	2	79	20	0.335425	13	22	29	0	89.6	42.1	0	100	49.9	63.9	178	Barcelona	465607	Ansu Fati	10	Sub	Substitute	1450	Getafe	175204	David Soria	0
+372228-	2	82	28	0.0124803	13	22	29	0	73.9	73.7	0	100	50.4	76.4	178	Barcelona	500745	Abde Ezzalzouli	16	Sub	Substitute	1450	Getafe	175204	David Soria	0
+372228-	2	87	7	0.0151885	13	22	29	0	72	36.8	0	100	36.5	12.5	178	Barcelona	465607	Ansu Fati	10	Sub	Substitute	1450	Getafe	175204	David Soria	0
+372228-	2	105	19	0.0566949	13	0	29	0	92.3	41.8	0	100	42.9	8.3	1450	Getafe	104448	Anthony Lozano	17	Sub	Substitute	178	Barcelona	77318	Marc-André ter Stegen	0

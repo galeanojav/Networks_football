@@ -1,0 +1,22 @@
+match_id	period	min	sec	xG	finalizacion	balon_jugado(22)_ABP(0)	tipo_jugada	gol_propia_meta(28)	x1	y1	z1	x2	y2	z2	team_id	team_name	player_id	player_name	dorsal	titular	posicion	team_receives_id	team_receives_name	goalkeeper_receives_id	goalkeeper_receives_name	xGOT
+372224-	1	4	55	0.352969	15	22	29	0	96.4	45	0	100	49	7	175	Atlético de Madrid	88482	Álvaro Morata	19	Start	Striker	5683	Granada CF	205523	André Ferreira	0.6987
+372224-	1	13	34	0.097304	13	22	29	0	89.5	50.9	0	100	39.7	6.9	175	Atlético de Madrid	88482	Álvaro Morata	19	Start	Striker	5683	Granada CF	205523	André Ferreira	0
+372224-	1	17	41	0.191656	13	0	29	0	91.7	46.6	0	100	48.4	93.1	175	Atlético de Madrid	119141	Rodrigo De Paul	5	Start	Midfielder	5683	Granada CF	205523	André Ferreira	0
+372224-	1	47	41	0.0203462	15	22	29	0	88.3	59.9	0	100	51.7	19	175	Atlético de Madrid	76650	Antoine Griezmann	7	Start	Striker	5683	Granada CF	205523	André Ferreira	0
+372224-	1	48	14	0.013722	13	0	29	0	89.4	57.9	0	100	14.5	6.9	175	Atlético de Madrid	65807	Stefan Savic	15	Start	Defender	5683	Granada CF	205523	André Ferreira	0
+372224-	1	48	28	0.506506	16	0	25	0	90.8	46.2	0	100	52.5	5.7	175	Atlético de Madrid	88482	Álvaro Morata	19	Start	Striker	5683	Granada CF	205523	André Ferreira	0.24
+372224-	2	46	23	0.144809	15	22	29	0	92	51.5	0	100	50.8	24.7	5683	Granada CF	624878	Samu	29	Start	Striker	175	Atlético de Madrid	81352	Jan Oblak	0.4344
+372224-	2	46	24	0.0988468	15	22	0	0	92.6	54.5	0	100	50.9	19	5683	Granada CF	243718	Óscar Melendo	21	Start	Midfielder	175	Atlético de Madrid	81352	Jan Oblak	0
+372224-	2	48	51	0.0421165	13	22	0	0	75.1	56.5	0	100	40.8	1.4	175	Atlético de Madrid	167449	Thomas Lemar	11	Start	Midfielder	5683	Granada CF	205523	André Ferreira	0
+372224-	2	51	20	0.0394421	15	22	29	0	76.8	33.2	0	100	45.9	5.1	175	Atlético de Madrid	41328	César Azpilicueta	3	Start	Defender	5683	Granada CF	205523	André Ferreira	0.2439
+372224-	2	59	54	0.0898588	13	22	29	0	87	59.8	0	100	40.8	16.7	175	Atlético de Madrid	106824	Memphis Depay	9	Sub	Substitute	5683	Granada CF	205523	André Ferreira	0
+372224-	2	61	53	0.46144	16	22	29	0	93.3	48	0	100	50	22.8	5683	Granada CF	624878	Samu	29	Start	Striker	175	Atlético de Madrid	81352	Jan Oblak	0.4484
+372224-	2	66	54	0.0213819	16	22	29	0	73.2	65.8	0	100	46.4	28.5	175	Atlético de Madrid	106824	Memphis Depay	9	Sub	Substitute	5683	Granada CF	205523	André Ferreira	0.4412
+372224-	2	69	15	0.588464	13	22	29	0	95.4	46	0	100	99.8	6.9	175	Atlético de Madrid	106824	Memphis Depay	9	Sub	Substitute	5683	Granada CF	205523	André Ferreira	0
+372224-	2	72	34	0.0889545	15	0	29	0	92.3	52.8	0	100	47.4	15.3	5683	Granada CF	624878	Samu	29	Start	Striker	175	Atlético de Madrid	81352	Jan Oblak	0
+372224-	2	73	15	0.0232636	15	0	29	0	79.1	47.4	0	100	52.3	18.1	5683	Granada CF	244243	Sergio Ruiz	20	Start	Midfielder	175	Atlético de Madrid	81352	Jan Oblak	0
+372224-	2	73	17	0.0259689	15	0	29	0	85.6	35.1	0	100	48.4	6.3	5683	Granada CF	174816	Myrto Uzuni	11	Start	Striker	175	Atlético de Madrid	81352	Jan Oblak	0.0503
+372224-	2	81	34	0.0308327	15	0	29	0	89	45.6	0	100	47.5	19	175	Atlético de Madrid	89335	Saúl Ñíguez	8	Sub	Substitute	5683	Granada CF	205523	André Ferreira	0.1345
+372224-	2	88	25	0.343267	15	22	29	0	89.5	55.2	0	100	50.3	19	175	Atlético de Madrid	106824	Memphis Depay	9	Sub	Substitute	5683	Granada CF	205523	André Ferreira	0
+372224-	2	92	35	0.114604	15	22	0	0	79.2	51.5	0	100	52.4	2.5	5683	Granada CF	174816	Myrto Uzuni	11	Start	Striker	175	Atlético de Madrid	81352	Jan Oblak	0.13
+372224-	2	97	28	0.0855373	16	22	0	0	91.3	37.9	0	100	49.1	2.5	175	Atlético de Madrid	192364	Marcos Llorente	14	Start	Midfielder	5683	Granada CF	205523	André Ferreira	0.2073

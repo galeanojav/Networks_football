@@ -1,0 +1,47 @@
+id	first_name	last_name	known_name	team_id	shirt	posicion	titular	minutos
+81352	Jan Oblak	Jan Oblak	Jan Oblak	175	13	Goalkeeper	Start	90
+213431	Mario Hermoso	Mario Hermoso	Mario Hermoso	175	22	Defender	Start	90
+41328	César Azpilicueta	César Azpilicueta	César Azpilicueta	175	3	Defender	Start	90
+65807	Stefan Savic	Stefan Savic	Stefan Savic	175	15	Defender	Start	90
+119718	Yannick Carrasco	Yannick Carrasco	Yannick Carrasco	175	21	Midfielder	Start	90
+167449	Thomas Lemar	Thomas Lemar	Thomas Lemar	175	11	Midfielder	Start	59
+192364	Marcos Llorente	Marcos Llorente	Marcos Llorente	175	14	Midfielder	Start	90
+77390	Koke	Koke	Koke	175	6	Midfielder	Start	7
+119141	Rodrigo De Paul	Rodrigo De Paul	Rodrigo De Paul	175	5	Midfielder	Start	77
+76650	Antoine Griezmann	Antoine Griezmann	Antoine Griezmann	175	7	Striker	Start	77
+88482	Álvaro Morata	Álvaro Morata	Álvaro Morata	175	19	Striker	Start	58
+156223	Ángel Correa	Ángel Correa	Ángel Correa	175	10	Substitute	Sub	13
+173268	Ivo Grbic	Ivo Grbic	Ivo Grbic	175	1	Substitute	Sub	0
+218031	Çaglar Söyüncü	Çaglar Söyüncü	Çaglar Söyüncü	175	4	Substitute	Sub	31
+219717	Javi Galán	Javi Galán	Javi Galán	175	17	Substitute	Sub	0
+249823	Samuel Lino	Samuel Lino	Samuel Lino	175	12	Substitute	Sub	0
+428399	João Félix	João Félix	João Félix	175	18	Substitute	Sub	0
+437834	Rodrigo Riquelme	Rodrigo Riquelme	Rodrigo Riquelme	175	25	Substitute	Sub	0
+493104	Antonio Gomis	Antonio Gomis	Antonio Gomis	175	31	Substitute	Sub	0
+503523	Pablo Barrios	Pablo Barrios	Pablo Barrios	175	24	Substitute	Sub	83
+551309	Ilias Kostis	Ilias Kostis	Ilias Kostis	175	27	Substitute	Sub	0
+89335	Saúl Ñíguez	Saúl Ñíguez	Saúl Ñíguez	175	8	Substitute	Sub	13
+106824	Memphis Depay	Memphis Depay	Memphis Depay	175	9	Substitute	Sub	32
+205523	André Ferreira	André Ferreira	André Ferreira	5683	13	Goalkeeper	Start	90
+450429	Miguel Ángel Rubio	Miguel Ángel Rubio	Miguel Ángel Rubio	5683	4	Defender	Start	90
+472148	Carlos Neva	Carlos Neva	Carlos Neva	5683	15	Defender	Start	82
+90801	Ignasi Miquel	Ignasi Miquel	Ignasi Miquel	5683	14	Defender	Start	90
+51732	José Callejón	José Callejón	José Callejón	5683	9	Defender	Start	74
+178876	Jesús Vallejo	Jesús Vallejo	Jesús Vallejo	5683	5	Defender	Start	90
+161030	Gerard Gumbau	Gerard Gumbau	Gerard Gumbau	5683	23	Midfielder	Start	74
+244243	Sergio Ruiz	Sergio Ruiz	Sergio Ruiz	5683	20	Midfielder	Start	90
+243718	Óscar Melendo	Óscar Melendo	Óscar Melendo	5683	21	Midfielder	Start	58
+174816	Myrto Uzuni	Myrto Uzuni	Myrto Uzuni	5683	11	Striker	Start	90
+624878	Samu	Samu	Samu	5683	29	Striker	Start	81
+154312	Wilson Manafá	Wilson Manafá	Wilson Manafá	5683	3	Substitute	Sub	0
+431437	Adrián López	Adrián López	Adrián López	5683	31	Substitute	Sub	0
+522601	Bryan Zaragoza	Bryan Zaragoza	Bryan Zaragoza	5683	26	Substitute	Sub	9
+492907	Miki Bosch	Miki Bosch	Miki Bosch	5683	32	Substitute	Sub	0
+49214	Raúl Fernández	Raúl Fernández	Raúl Fernández	5683	1	Substitute	Sub	0
+149535	Famara Diédhiou	Famara Diédhiou	Famara Diédhiou	5683	19	Substitute	Sub	0
+59339	Alberto Perea	Alberto Perea	Alberto Perea	5683	22	Substitute	Sub	0
+450782	Gonzalo Villar	Gonzalo Villar	Gonzalo Villar	5683	24	Substitute	Sub	32
+465495	Ricard Sánchez	Ricard Sánchez	Ricard Sánchez	5683	12	Substitute	Sub	16
+156301	Antonio Puertas	Antonio Puertas	Antonio Puertas	5683	10	Substitute	Sub	16
+55315	Víctor Díaz	Víctor Díaz	Víctor Díaz	5683	16	Substitute	Sub	0
+241645	Njegos Petrovic	Njegos Petrovic	Njegos Petrovic	5683	18	Substitute	Sub	8

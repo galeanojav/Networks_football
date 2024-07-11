@@ -1,0 +1,46 @@
+id	first_name	last_name	known_name	team_id	shirt	posicion	titular	minutos
+120026	Yassine Bounou	Yassine Bounou	Yassine Bounou	179	13	Goalkeeper	Start	90
+17740	Jesús Navas	Jesús Navas	Jesús Navas	179	16	Defender	Start	69
+72154	Nemanja Gudelj	Nemanja Gudelj	Nemanja Gudelj	179	6	Defender	Start	90
+500267	Loïc Badé	Loïc Badé	Loïc Badé	179	22	Defender	Start	81
+169813	Marcos Acuña	Marcos Acuña	Marcos Acuña	179	19	Defender	Start	90
+34703	Ivan Rakitic	Ivan Rakitic	Ivan Rakitic	179	10	Midfielder	Start	90
+52538	Fernando	Fernando	Fernando	179	20	Midfielder	Start	69
+62974	Erik Lamela	Erik Lamela	Erik Lamela	179	17	Midfielder	Start	56
+103953	Suso	Suso	Suso	179	7	Midfielder	Start	90
+121117	Lucas Ocampos	Lucas Ocampos	Lucas Ocampos	179	5	Midfielder	Start	90
+234991	Youssef En-Nesyri	Youssef En-Nesyri	Youssef En-Nesyri	179	15	Striker	Start	82
+185524	Djibril Sow	Djibril Sow	Djibril Sow	179	18	Substitute	Sub	21
+195364	Joan Jordán	Joan Jordán	Joan Jordán	179	8	Substitute	Sub	0
+218430	Gonzalo Montiel	Gonzalo Montiel	Gonzalo Montiel	179	4	Substitute	Sub	0
+219929	Rafa Mir	Rafa Mir	Rafa Mir	179	9	Substitute	Sub	0
+446990	Adrià Pedrosa	Adrià Pedrosa	Adrià Pedrosa	179	3	Substitute	Sub	0
+55776	Papu Gómez	Papu Gómez	Papu Gómez	179	24	Substitute	Sub	0
+456943	Federico Gattoni	Federico Gattoni	Federico Gattoni	179	2	Substitute	Sub	8
+494928	Juanlu Sánchez	Juanlu Sánchez	Juanlu Sánchez	179	26	Substitute	Sub	21
+94618	Marko Dmitrovic	Marko Dmitrovic	Marko Dmitrovic	179	1	Substitute	Sub	0
+550781	Manu Bueno	Manu Bueno	Manu Bueno	179	28	Substitute	Sub	0
+96432	Jesús Corona	Jesús Corona	Jesús Corona	179	11	Substitute	Sub	0
+115860	Óliver Torres	Óliver Torres	Óliver Torres	179	21	Substitute	Sub	34
+449027	Giorgi Mamardashvili	Giorgi Mamardashvili	Giorgi Mamardashvili	191	25	Goalkeeper	Start	90
+132105	José Gayà	José Gayà	José Gayà	191	14	Defender	Start	87
+158074	Gabriel Paulista	Gabriel Paulista	Gabriel Paulista	191	5	Defender	Start	90
+222629	Thierry Correia	Thierry Correia	Thierry Correia	191	12	Defender	Start	90
+490239	Cenk Özkacar	Cenk Özkacar	Cenk Özkacar	191	15	Defender	Start	90
+493072	Diego López	Diego López	Diego López	191	16	Midfielder	Start	65
+208135	Mouctar Diakhaby	Mouctar Diakhaby	Mouctar Diakhaby	191	4	Midfielder	Start	90
+220191	Pepelu	Pepelu	Pepelu	191	18	Midfielder	Start	90
+466057	Fran Pérez	Fran Pérez	Fran Pérez	191	23	Midfielder	Start	61
+247636	André Almeida	André Almeida	André Almeida	191	10	Striker	Start	62
+439716	Hugo Duro	Hugo Duro	Hugo Duro	191	9	Striker	Start	90
+492898	César Tárrega	César Tárrega	César Tárrega	191	29	Substitute	Sub	0
+96767	Dimitri Foulquier	Dimitri Foulquier	Dimitri Foulquier	191	20	Substitute	Sub	29
+492900	Hugo González	Hugo González	Hugo González	191	30	Substitute	Sub	0
+116732	Jaume Domènech	Jaume Domènech	Jaume Domènech	191	1	Substitute	Sub	0
+494922	Rubén Iranzo	Rubén Iranzo	Rubén Iranzo	191	31	Substitute	Sub	0
+546540	Javi Guerra	Javi Guerra	Javi Guerra	191	8	Substitute	Sub	28
+566695	Martín Tejón	Martín Tejón	Martín Tejón	191	32	Substitute	Sub	0
+437460	Hugo Guillamón	Hugo Guillamón	Hugo Guillamón	191	6	Substitute	Sub	0
+442819	Cristian Rivero	Cristian Rivero	Cristian Rivero	191	13	Substitute	Sub	0
+466044	Jesús Vázquez	Jesús Vázquez	Jesús Vázquez	191	21	Substitute	Sub	3
+467005	Pablo Gozálbez	Pablo Gozálbez	Pablo Gozálbez	191	27	Substitute	Sub	25

@@ -1,0 +1,41 @@
+id	first_name	last_name	known_name	team_id	shirt	posicion	titular	minutos
+175204	David Soria	David Soria	David Soria	1450	13	Goalkeeper	Start	90
+112945	Stefan Mitrovic	Stefan Mitrovic	Stefan Mitrovic	1450	23	Defender	Start	45
+99005	Damián Suárez	Damián Suárez	Damián Suárez	1450	22	Defender	Start	90
+501039	Gastón Álvarez	Gastón Álvarez	Gastón Álvarez	1450	4	Defender	Start	90
+200599	Domingos Duarte	Domingos Duarte	Domingos Duarte	1450	6	Defender	Start	90
+464283	Juan Iglesias	Juan Iglesias	Juan Iglesias	1450	21	Midfielder	Start	90
+198499	Nemanja Maksimovic	Nemanja Maksimovic	Nemanja Maksimovic	1450	20	Midfielder	Start	90
+179271	Carles Aleñá	Carles Aleñá	Carles Aleñá	1450	11	Midfielder	Start	65
+149838	Djené Dakonam	Djené Dakonam	Djené Dakonam	1450	2	Midfielder	Start	90
+109270	Jaime Mata	Jaime Mata	Jaime Mata	1450	7	Midfielder	Start	57
+448179	Juanmi Latasa	Juanmi Latasa	Juanmi Latasa	1450	14	Striker	Start	64
+607789	Jorge Benito	Jorge Benito	Jorge Benito	1450	35	Substitute	Sub	0
+199248	Borja Mayoral	Borja Mayoral	Borja Mayoral	1450	19	Substitute	Sub	26
+589587	Gorka Rivera	Gorka Rivera	Gorka Rivera	1450	27	Substitute	Sub	0
+88550	Portu	Portu	Portu	1450	9	Substitute	Sub	45
+153656	Fabrizio Angileri	Fabrizio Angileri	Fabrizio Angileri	1450	3	Substitute	Sub	0
+235585	Daniel Fuzato	Daniel Fuzato	Daniel Fuzato	1450	1	Substitute	Sub	0
+104448	Anthony Lozano	Anthony Lozano	Anthony Lozano	1450	17	Substitute	Sub	25
+562515	Santiago García	Santiago García	Santiago García	1450	28	Substitute	Sub	0
+77318	Marc-André ter Stegen	Marc-André ter Stegen	Marc-André ter Stegen	178	1	Goalkeeper	Start	90
+135363	Andreas Christensen	Andreas Christensen	Andreas Christensen	178	15	Defender	Start	45
+220325	Jules Koundé	Jules Koundé	Jules Koundé	178	23	Defender	Start	90
+445087	Ronald Araújo	Ronald Araújo	Ronald Araújo	178	4	Defender	Start	90
+493019	Alejandro Balde	Alejandro Balde	Alejandro Balde	178	28	Defender	Start	90
+59859	Ilkay Gündogan	Ilkay Gündogan	Ilkay Gündogan	178	22	Midfielder	Start	79
+78056	Oriol Romeu	Oriol Romeu	Oriol Romeu	178	18	Midfielder	Start	76
+209712	Frenkie de Jong	Frenkie de Jong	Frenkie de Jong	178	21	Midfielder	Start	90
+219961	Raphinha	Raphinha	Raphinha	178	11	Midfielder	Start	42
+490541	Pedri	Pedri	Pedri	178	8	Midfielder	Start	79
+56764	Robert Lewandowski	Robert Lewandowski	Robert Lewandowski	178	9	Striker	Start	90
+500046	Gavi	Gavi	Gavi	178	6	Substitute	Sub	11
+500745	Abde Ezzalzouli	Abde Ezzalzouli	Abde Ezzalzouli	178	16	Substitute	Sub	45
+551073	Ander Astralaga	Ander Astralaga	Ander Astralaga	178	26	Substitute	Sub	0
+551086	Fermín López	Fermín López	Fermín López	178	32	Substitute	Sub	0
+593109	Lamine Yamal	Lamine Yamal	Lamine Yamal	178	27	Substitute	Sub	14
+86157	Sergi Roberto	Sergi Roberto	Sergi Roberto	178	20	Substitute	Sub	0
+224444	Ferran Torres	Ferran Torres	Ferran Torres	178	7	Substitute	Sub	0
+432656	Eric García	Eric García	Eric García	178	24	Substitute	Sub	0
+465607	Ansu Fati	Ansu Fati	Ansu Fati	178	10	Substitute	Sub	11
+494927	Marc Casadó	Marc Casadó	Marc Casadó	178	30	Substitute	Sub	0

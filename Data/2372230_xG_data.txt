@@ -1,0 +1,22 @@
+match_id	period	min	sec	xG	finalizacion	balon_jugado(22)_ABP(0)	tipo_jugada	gol_propia_meta(28)	x1	y1	z1	x2	y2	z2	team_id	team_name	player_id	player_name	dorsal	titular	posicion	team_receives_id	team_receives_name	goalkeeper_receives_id	goalkeeper_receives_name	xGOT
+372230-	1	4	13	0.192414	16	0	29	0	86.6	40.2	0	100	52	4.4	188	Real Sociedad	219271	Takefusa Kubo	14	Start	Striker	2893	Girona	102884	Paulo Gazzaniga	0.4696
+372230-	1	9	31	0.0595469	13	0	26	0	81.8	67.8	0	100	57.6	16.7	188	Real Sociedad	178880	Brais Méndez	23	Start	Midfielder	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	1	29	15	0.0588681	15	22	29	0	92	56.4	0	100	50.7	19	2893	Girona	49464	Cristhian Stuani	7	Start	Striker	188	Real Sociedad	197316	Álex Remiro	0
+372230-	1	33	4	0.0181671	13	22	29	0	80.3	23.7	0	100	46.4	56.9	188	Real Sociedad	219271	Takefusa Kubo	14	Start	Striker	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	1	39	59	0.0224035	13	22	29	0	86.7	31	0	100	35	8.3	188	Real Sociedad	176189	Carlos Fernández	9	Start	Striker	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	1	45	17	0.283302	13	0	29	0	95.4	50.4	0	100	61.2	15.3	2893	Girona	49464	Cristhian Stuani	7	Start	Striker	188	Real Sociedad	197316	Álex Remiro	0
+372230-	1	46	19	0.0305972	15	0	29	0	77.2	67	0	100	46.4	19	2893	Girona	468236	Yan Couto	20	Start	Midfielder	188	Real Sociedad	197316	Álex Remiro	0
+372230-	1	46	26	0.108743	13	0	29	0	85.2	47	0	100	62.9	9.7	2893	Girona	11129	David López	5	Start	Defender	188	Real Sociedad	197316	Álex Remiro	0
+372230-	2	45	21	0.0262715	15	22	29	0	77.1	62.2	0	100	50.1	19	188	Real Sociedad	481655	Martín Zubimendi	4	Start	Midfielder	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	2	47	52	0.0179647	13	22	0	0	76.6	62	0	100	42.2	80.6	188	Real Sociedad	176189	Carlos Fernández	9	Start	Striker	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	2	53	45	0.0268556	13	22	29	0	78.5	58.6	0	100	1.5	31.9	188	Real Sociedad	472145	Aihen Muñoz	3	Start	Defender	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	2	55	39	0.0153537	13	22	29	0	71.2	28.3	0	100	43.4	44.4	188	Real Sociedad	178880	Brais Méndez	23	Start	Midfielder	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	2	59	14	0.072126	13	22	29	0	81.6	46.3	0	100	37.5	5.6	188	Real Sociedad	219271	Takefusa Kubo	14	Start	Striker	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	2	67	44	0.0914743	15	22	29	0	89.7	43.3	0	100	49.4	3.2	188	Real Sociedad	219000	Mikel Oyarzabal	10	Start	Striker	2893	Girona	102884	Paulo Gazzaniga	0.2178
+372230-	2	71	40	0.255316	16	22	29	0	97.3	55.7	0	100	50.5	3.8	2893	Girona	213294	Artem Dovbyk	9	Sub	Substitute	188	Real Sociedad	197316	Álex Remiro	0.3767
+372230-	2	76	43	0.0172634	13	22	0	0	72.9	70.7	0	100	34.8	56.9	188	Real Sociedad	488026	Beñat Turrientes	22	Start	Midfielder	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	2	81	21	0.0728655	15	22	29	0	88.9	42.9	0	100	53.6	18.1	2893	Girona	522627	Pablo Torre	18	Sub	Substitute	188	Real Sociedad	197316	Álex Remiro	0
+372230-	2	84	16	0.0169679	13	22	29	0	95.6	33.5	0	100	38.7	68.1	188	Real Sociedad	196878	Umar Sadiq	19	Sub	Substitute	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	2	89	10	0.146601	13	0	29	0	93.7	51.3	0	100	52.3	58.3	188	Real Sociedad	224919	Robin Le Normand	24	Start	Defender	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	2	94	24	0.161957	15	22	29	0	84.2	50.3	0	100	52.9	8.3	188	Real Sociedad	196878	Umar Sadiq	19	Sub	Substitute	2893	Girona	102884	Paulo Gazzaniga	0
+372230-	2	94	25	0.188539	13	22	0	0	90.7	54.2	0	100	41	6.9	188	Real Sociedad	513945	Jon Olasagasti	16	Sub	Substitute	2893	Girona	102884	Paulo Gazzaniga	0

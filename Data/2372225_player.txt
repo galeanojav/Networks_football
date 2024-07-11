@@ -1,0 +1,47 @@
+id	first_name	last_name	known_name	team_id	shirt	posicion	titular	minutos
+234580	Iván Villar	Iván Villar	Iván Villar	176	13	Goalkeeper	Start	90
+242830	Unai Núñez	Unai Núñez	Unai Núñez	176	4	Defender	Start	90
+210171	Joseph Aidoo	Joseph Aidoo	Joseph Aidoo	176	15	Defender	Start	90
+242313	Óscar Mingueza	Óscar Mingueza	Óscar Mingueza	176	3	Defender	Start	90
+184028	Franco Cervi	Franco Cervi	Franco Cervi	176	11	Defender	Start	81
+234511	Fran Beltrán	Fran Beltrán	Fran Beltrán	176	8	Midfielder	Start	90
+538283	Hugo Sotelo	Hugo Sotelo	Hugo Sotelo	176	30	Midfielder	Start	81
+195883	Jonathan Bamba	Jonathan Bamba	Jonathan Bamba	176	17	Midfielder	Start	90
+179369	Carles Pérez	Carles Pérez	Carles Pérez	176	7	Midfielder	Start	63
+247412	Jørgen Strand Larsen	Jørgen Strand Larsen	Jørgen Strand Larsen	176	18	Striker	Start	73
+40270	Iago Aspas	Iago Aspas	Iago Aspas	176	10	Striker	Start	82
+523846	Carlos Domínguez	Carlos Domínguez	Carlos Domínguez	176	28	Substitute	Sub	0
+493071	Coke Carrillo	Coke Carrillo	Coke Carrillo	176	26	Substitute	Sub	0
+107807	Kevin Vázquez	Kevin Vázquez	Kevin Vázquez	176	20	Substitute	Sub	0
+514189	Gabri Veiga	Gabri Veiga	Gabri Veiga	176	24	Substitute	Sub	17
+465494	Manu Sánchez	Manu Sánchez	Manu Sánchez	176	23	Substitute	Sub	9
+174249	Carl Starfelt	Carl Starfelt	Carl Starfelt	176	2	Substitute	Sub	0
+176414	Luca de la Torre	Luca de la Torre	Luca de la Torre	176	14	Substitute	Sub	9
+165812	Gonçalo Paciência	Gonçalo Paciência	Gonçalo Paciência	176	9	Substitute	Sub	0
+494932	Miguel Rodríguez	Miguel Rodríguez	Miguel Rodríguez	176	29	Substitute	Sub	27
+166162	Renato Tapia	Renato Tapia	Renato Tapia	176	5	Substitute	Sub	0
+543932	Williot Swedberg	Williot Swedberg	Williot Swedberg	176	19	Substitute	Sub	8
+448178	Carlos Dotor	Carlos Dotor	Carlos Dotor	176	6	Substitute	Sub	0
+138039	Sergio Herrera	Sergio Herrera	Sergio Herrera	450	1	Goalkeeper	Start	90
+244273	Alejandro Catena	Alejandro Catena	Alejandro Catena	450	24	Defender	Start	90
+126290	Rubén Peña	Rubén Peña	Rubén Peña	450	15	Defender	Start	90
+98851	David García	David García	David García	450	5	Defender	Start	90
+152723	Johan Mojica	Johan Mojica	Johan Mojica	450	22	Defender	Start	90
+484702	Aimar Oroz	Aimar Oroz	Aimar Oroz	450	10	Midfielder	Start	79
+477463	Jon Moncayola	Jon Moncayola	Jon Moncayola	450	7	Midfielder	Start	89
+111232	Lucas Torró	Lucas Torró	Lucas Torró	450	6	Midfielder	Start	89
+130026	Rubén García	Rubén García	Rubén García	450	14	Striker	Start	67
+109243	Moi Gómez	Moi Gómez	Moi Gómez	450	16	Striker	Start	90
+94273	Ante Budimir	Ante Budimir	Ante Budimir	450	17	Striker	Start	79
+163711	Unai García	Unai García	Unai García	450	4	Substitute	Sub	0
+522855	Pablo Valencia	Pablo Valencia	Pablo Valencia	450	31	Substitute	Sub	0
+589577	Iker Muñoz	Iker Muñoz	Iker Muñoz	450	34	Substitute	Sub	1
+219173	José Arnáiz	José Arnáiz	José Arnáiz	450	20	Substitute	Sub	1
+522856	Pablo Ibáñez	Pablo Ibáñez	Pablo Ibáñez	450	19	Substitute	Sub	23
+437549	Jesús Areso	Jesús Areso	Jesús Areso	450	12	Substitute	Sub	11
+93203	Juan Cruz	Juan Cruz	Juan Cruz	450	3	Substitute	Sub	0
+463057	Javi Martínez	Javi Martínez	Javi Martínez	450	21	Substitute	Sub	0
+80993	Aitor Fernández	Aitor Fernández	Aitor Fernández	450	13	Substitute	Sub	0
+230598	Nacho Vidal	Nacho Vidal	Nacho Vidal	450	2	Substitute	Sub	0
+205992	Chimy Avila	Chimy Avila	Chimy Avila	450	9	Substitute	Sub	11
+463784	Jorge Herrando	Jorge Herrando	Jorge Herrando	450	28	Substitute	Sub	0

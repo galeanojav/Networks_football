@@ -1,0 +1,20 @@
+match_id	period	min	sec	xG	finalizacion	balon_jugado(22)_ABP(0)	tipo_jugada	gol_propia_meta(28)	x1	y1	z1	x2	y2	z2	team_id	team_name	player_id	player_name	dorsal	titular	posicion	team_receives_id	team_receives_name	goalkeeper_receives_id	goalkeeper_receives_name	xGOT
+372226-	1	2	55	0.0682008	13	0	26	0	80.9	32.4	0	100	47.4	56.9	191	Valencia CF	132105	José Gayà	14	Start	Defender	179	Sevilla	120026	Yassine Bounou	0
+372226-	1	8	39	0.0287915	13	0	25	0	78.8	62	0	100	46.6	51.4	179	Sevilla	169813	Marcos Acuña	19	Start	Defender	191	Valencia CF	449027	Giorgi Mamardashvili	0
+372226-	1	10	45	0.0559028	13	22	29	0	89.9	72.3	0	100	56.5	47.2	191	Valencia CF	493072	Diego López	16	Start	Midfielder	179	Sevilla	120026	Yassine Bounou	0
+372226-	1	22	38	0.0761266	15	22	29	0	90.5	54	0	100	49.9	4.4	179	Sevilla	234991	Youssef En-Nesyri	15	Start	Striker	191	Valencia CF	449027	Giorgi Mamardashvili	0.0251
+372226-	1	33	45	0.0911261	13	22	29	0	95.7	40.6	0	100	42.9	5.6	191	Valencia CF	493072	Diego López	16	Start	Midfielder	179	Sevilla	120026	Yassine Bounou	0
+372226-	1	36	39	0.0403739	13	22	29	0	84.5	34.2	0	100	42.5	54.2	179	Sevilla	121117	Lucas Ocampos	5	Start	Midfielder	191	Valencia CF	449027	Giorgi Mamardashvili	0
+372226-	1	40	34	0.020901	13	0	29	0	95.4	36.9	0	100	37	41.7	191	Valencia CF	439716	Hugo Duro	9	Start	Striker	179	Sevilla	120026	Yassine Bounou	0
+372226-	2	47	36	0.0165933	13	22	29	0	85.2	48.8	0	100	41.5	22.2	179	Sevilla	234991	Youssef En-Nesyri	15	Start	Striker	191	Valencia CF	449027	Giorgi Mamardashvili	0
+372226-	2	50	9	0.103832	15	22	29	0	91.4	53.4	0	100	50.7	19	179	Sevilla	234991	Youssef En-Nesyri	15	Start	Striker	191	Valencia CF	449027	Giorgi Mamardashvili	0
+372226-	2	55	21	0.0201715	13	22	0	0	77.1	38.4	0	100	65	6.9	191	Valencia CF	220191	Pepelu	18	Start	Midfielder	179	Sevilla	120026	Yassine Bounou	0
+372226-	2	57	42	0.173159	15	0	23	0	95.8	67.8	0	100	51.6	5.1	191	Valencia CF	439716	Hugo Duro	9	Start	Striker	179	Sevilla	120026	Yassine Bounou	0.2623
+372226-	2	59	24	0.293421	16	22	29	0	87.2	48	0	100	53.5	11.4	191	Valencia CF	208135	Mouctar Diakhaby	4	Start	Midfielder	179	Sevilla	120026	Yassine Bounou	0.2862
+372226-	2	66	25	0.128352	15	22	29	0	90.3	52.4	0	100	52.1	19	191	Valencia CF	439716	Hugo Duro	9	Start	Striker	179	Sevilla	120026	Yassine Bounou	0
+372226-	2	68	57	0.384214	16	22	29	0	93.3	52.5	0	100	51.9	30.4	179	Sevilla	234991	Youssef En-Nesyri	15	Start	Striker	191	Valencia CF	449027	Giorgi Mamardashvili	0.7475
+372226-	2	74	34	0.0258969	13	22	29	0	77.3	72.2	0	100	38.8	93.1	179	Sevilla	169813	Marcos Acuña	19	Start	Defender	191	Valencia CF	449027	Giorgi Mamardashvili	0
+372226-	2	83	4	0.0205589	13	22	29	0	70.9	48.8	0	100	57	36.1	191	Valencia CF	220191	Pepelu	18	Start	Midfielder	179	Sevilla	120026	Yassine Bounou	0
+372226-	2	85	17	0.0331102	13	22	29	0	73.5	63.5	0	100	47.4	91.7	179	Sevilla	34703	Ivan Rakitic	10	Start	Midfielder	191	Valencia CF	449027	Giorgi Mamardashvili	0
+372226-	2	87	57	0.252162	16	22	29	0	88.2	57.5	0	100	52.1	30.4	191	Valencia CF	546540	Javi Guerra	8	Sub	Substitute	179	Sevilla	120026	Yassine Bounou	0.5667
+372226-	2	98	36	0.0139876	15	22	29	0	73.6	30.4	0	100	46.2	17.1	179	Sevilla	103953	Suso	7	Start	Midfielder	191	Valencia CF	449027	Giorgi Mamardashvili	0.1795

@@ -1,0 +1,47 @@
+id	first_name	last_name	known_name	team_id	shirt	posicion	titular	minutos
+167210	Jeremías Ledesma	Jeremías Ledesma	Jeremías Ledesma	1737	1	Goalkeeper	Start	90
+111313	Iza Carcelén	Iza Carcelén	Iza Carcelén	1737	20	Defender	Start	90
+130025	Luis Hernández	Luis Hernández	Luis Hernández	1737	23	Defender	Start	90
+463163	Javi Hernández	Javi Hernández	Javi Hernández	1737	15	Defender	Start	65
+213118	Fali	Fali	Fali	1737	3	Defender	Start	90
+178092	Fede San Emeterio	Fede San Emeterio	Fede San Emeterio	1737	24	Midfielder	Start	71
+96771	Rubén Alcaraz	Rubén Alcaraz	Rubén Alcaraz	1737	4	Midfielder	Start	90
+179926	Iván Alejo	Iván Alejo	Iván Alejo	1737	11	Midfielder	Start	65
+111133	Darwin Machís	Darwin Machís	Darwin Machís	1737	18	Midfielder	Start	87
+442838	Chris Ramos	Chris Ramos	Chris Ramos	1737	16	Striker	Start	90
+109702	Roger Martí	Roger Martí	Roger Martí	1737	21	Striker	Start	87
+173947	David Gil	David Gil	David Gil	1737	13	Substitute	Sub	0
+449327	Milutin Osmajic	Milutin Osmajic	Milutin Osmajic	1737	12	Substitute	Sub	0
+178866	Jorge Meré	Jorge Meré	Jorge Meré	1737	22	Substitute	Sub	3
+42892	Álvaro Negredo	Álvaro Negredo	Álvaro Negredo	1737	9	Substitute	Sub	0
+112994	Rubén Sobrino	Rubén Sobrino	Rubén Sobrino	1737	7	Substitute	Sub	25
+616823	José Antonio de la Rosa	José Antonio de la Rosa	José Antonio de la Rosa	1737	27	Substitute	Sub	0
+250700	Momo Mbaye	Momo Mbaye	Momo Mbaye	1737	14	Substitute	Sub	0
+549329	Lucas Pires	Lucas Pires	Lucas Pires	1737	33	Substitute	Sub	25
+98821	Joseba Zaldúa	Joseba Zaldúa	Joseba Zaldúa	1737	2	Substitute	Sub	0
+89592	José Mari Martín	José Mari Martín	José Mari Martín	1737	6	Substitute	Sub	0
+88479	Álex Fernández	Álex Fernández	Álex Fernández	1737	8	Substitute	Sub	3
+156305	Gonzalo Escalante	Gonzalo Escalante	Gonzalo Escalante	1737	17	Substitute	Sub	17
+176245	Antonio Sivera	Antonio Sivera	Antonio Sivera	173	1	Goalkeeper	Start	90
+126119	Rubén Duarte	Rubén Duarte	Rubén Duarte	173	3	Defender	Start	64
+235227	Andoni Gorosabel	Andoni Gorosabel	Andoni Gorosabel	173	2	Defender	Start	90
+488040	Rafa Marín	Rafa Marín	Rafa Marín	173	16	Defender	Start	90
+215792	Aleksandar Sedlar	Aleksandar Sedlar	Aleksandar Sedlar	173	4	Defender	Start	64
+463001	Abdelkabir Abqar	Abdelkabir Abqar	Abdelkabir Abqar	173	5	Defender	Start	90
+431644	Ander Guevara	Ander Guevara	Ander Guevara	173	6	Midfielder	Start	85
+201178	Jon Guridi	Jon Guridi	Jon Guridi	173	18	Midfielder	Start	90
+434941	Luis Rioja	Luis Rioja	Luis Rioja	173	11	Midfielder	Start	90
+437465	Antonio Blanco	Antonio Blanco	Antonio Blanco	173	8	Midfielder	Start	64
+442157	Miguel de la Fuente	Miguel de la Fuente	Miguel de la Fuente	173	9	Striker	Start	57
+547445	Giorgi Gagua	Giorgi Gagua	Giorgi Gagua	173	34	Substitute	Sub	0
+61597	Kike García	Kike García	Kike García	173	15	Substitute	Sub	33
+504045	Xeber Alkain	Xeber Alkain	Xeber Alkain	173	17	Substitute	Sub	0
+207721	Mamadou Sylla	Mamadou Sylla	Mamadou Sylla	173	7	Substitute	Sub	5
+484406	Javi López	Javi López	Javi López	173	27	Substitute	Sub	26
+586866	Abderrahmane Rebbach	Abderrahmane Rebbach	Abderrahmane Rebbach	173	21	Substitute	Sub	26
+244707	Carlos Benavídez	Carlos Benavídez	Carlos Benavídez	173	23	Substitute	Sub	26
+175642	Nikola Maras	Nikola Maras	Nikola Maras	173	19	Substitute	Sub	0
+470312	Jesús Owono	Jesús Owono	Jesús Owono	173	31	Substitute	Sub	0
+466131	Adrián Rodríguez	Adrián Rodríguez	Adrián Rodríguez	173	33	Substitute	Sub	0
+515901	Joseda Álvarez	Joseda Álvarez	Joseda Álvarez	173	26	Substitute	Sub	0
+611627	Selu Diallo	Selu Diallo	Selu Diallo	173	35	Substitute	Sub	0

@@ -1,0 +1,47 @@
+id	first_name	last_name	known_name	team_id	shirt	posicion	titular	minutos
+472194	Álvaro Vallés	Álvaro Vallés	Álvaro Vallés	407	13	Goalkeeper	Start	90
+213469	Álvaro Lemos	Álvaro Lemos	Álvaro Lemos	407	14	Defender	Start	90
+487703	Álex Suárez	Álex Suárez	Álex Suárez	407	4	Defender	Start	90
+167432	Daley Sinkgraven	Daley Sinkgraven	Daley Sinkgraven	407	18	Defender	Start	64
+451565	Saúl Coco	Saúl Coco	Saúl Coco	407	23	Defender	Start	90
+108438	Sandro Ramírez	Sandro Ramírez	Sandro Ramírez	407	9	Midfielder	Start	90
+198221	Javi Muñoz	Javi Muñoz	Javi Muñoz	407	5	Midfielder	Start	90
+86398	Jonathan Viera	Jonathan Viera	Jonathan Viera	407	21	Midfielder	Start	90
+449718	Enzo Loiodice	Enzo Loiodice	Enzo Loiodice	407	12	Midfielder	Start	90
+484753	Kirian Rodríguez	Kirian Rodríguez	Kirian Rodríguez	407	20	Midfielder	Start	85
+244363	Marc Cardona	Marc Cardona	Marc Cardona	407	19	Striker	Start	64
+170864	Munir El Haddadi	Munir El Haddadi	Munir El Haddadi	407	17	Substitute	Sub	26
+220371	Eric Curbelo	Eric Curbelo	Eric Curbelo	407	6	Substitute	Sub	0
+436893	Julián Araujo	Julián Araujo	Julián Araujo	407	28	Substitute	Sub	0
+629462	Iñaki González	Iñaki González	Iñaki González	407	29	Substitute	Sub	0
+165907	Cristian Herrera	Cristian Herrera	Cristian Herrera	407	7	Substitute	Sub	0
+176278	Aarón Escandell	Aarón Escandell	Aarón Escandell	407	1	Substitute	Sub	0
+246124	Benito Ramírez	Benito Ramírez	Benito Ramírez	407	11	Substitute	Sub	0
+484693	Sergi Cardona	Sergi Cardona	Sergi Cardona	407	3	Substitute	Sub	26
+444952	Pejiño	Pejiño	Pejiño	407	24	Substitute	Sub	0
+465677	Mika Mármol	Mika Mármol	Mika Mármol	407	15	Substitute	Sub	0
+183778	Omenuke Mfulu	Omenuke Mfulu	Omenuke Mfulu	407	22	Substitute	Sub	5
+629460	Juan Herzog	Juan Herzog	Juan Herzog	407	31	Substitute	Sub	0
+104407	Predrag Rajkovic	Predrag Rajkovic	Predrag Rajkovic	181	1	Goalkeeper	Start	90
+58792	Jaume Costa	Jaume Costa	Jaume Costa	181	11	Defender	Start	90
+170116	Martin Valjent	Martin Valjent	Martin Valjent	181	24	Defender	Start	90
+170154	Pablo Maffeo	Pablo Maffeo	Pablo Maffeo	181	15	Defender	Start	90
+195923	Giovanni González	Giovanni González	Giovanni González	181	20	Defender	Start	45
+500759	Copete	Copete	Copete	181	6	Defender	Start	45
+107594	Omar Mascarell	Omar Mascarell	Omar Mascarell	181	5	Midfielder	Start	60
+227164	Manu Morlanes	Manu Morlanes	Manu Morlanes	181	8	Midfielder	Start	85
+80906	Dani Rodríguez	Dani Rodríguez	Dani Rodríguez	181	14	Midfielder	Start	90
+225463	Amath Ndiaye	Amath Ndiaye	Amath Ndiaye	181	23	Striker	Start	60
+156293	Vedat Muriqi	Vedat Muriqi	Vedat Muriqi	181	7	Striker	Start	90
+536561	Javi Llabrés	Javi Llabrés	Javi Llabrés	181	34	Substitute	Sub	5
+105571	Antonio Raíllo	Antonio Raíllo	Antonio Raíllo	181	21	Substitute	Sub	45
+185126	Cyle Larin	Cyle Larin	Cyle Larin	181	17	Substitute	Sub	30
+495631	Pere Joan García	Pere Joan García	Pere Joan García	181	31	Substitute	Sub	0
+230696	Siebe Van der Heyden	Siebe Van der Heyden	Siebe Van der Heyden	181	4	Substitute	Sub	0
+621967	Rubén Quintanilla	Rubén Quintanilla	Rubén Quintanilla	181	26	Substitute	Sub	0
+169007	Sergi Darder	Sergi Darder	Sergi Darder	181	10	Substitute	Sub	45
+464284	Antonio Sánchez	Antonio Sánchez	Antonio Sánchez	181	18	Substitute	Sub	0
+212873	Dominik Greif	Dominik Greif	Dominik Greif	181	13	Substitute	Sub	0
+92187	Abdón Prats	Abdón Prats	Abdón Prats	181	9	Substitute	Sub	0
+221306	Toni Lato	Toni Lato	Toni Lato	181	3	Substitute	Sub	0
+485385	Samú Costa	Samú Costa	Samú Costa	181	12	Substitute	Sub	30

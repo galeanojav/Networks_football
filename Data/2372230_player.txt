@@ -1,0 +1,46 @@
+id	first_name	last_name	known_name	team_id	shirt	posicion	titular	minutos
+197316	Álex Remiro	Álex Remiro	Álex Remiro	188	1	Goalkeeper	Start	90
+174528	Hamari Traoré	Hamari Traoré	Hamari Traoré	188	18	Defender	Start	74
+224919	Robin Le Normand	Robin Le Normand	Robin Le Normand	188	24	Defender	Start	90
+216475	Igor Zubeldia	Igor Zubeldia	Igor Zubeldia	188	5	Defender	Start	90
+472145	Aihen Muñoz	Aihen Muñoz	Aihen Muñoz	188	3	Defender	Start	90
+488026	Beñat Turrientes	Beñat Turrientes	Beñat Turrientes	188	22	Midfielder	Start	80
+481655	Martín Zubimendi	Martín Zubimendi	Martín Zubimendi	188	4	Midfielder	Start	90
+178880	Brais Méndez	Brais Méndez	Brais Méndez	188	23	Midfielder	Start	90
+219000	Mikel Oyarzabal	Mikel Oyarzabal	Mikel Oyarzabal	188	10	Striker	Start	74
+176189	Carlos Fernández	Carlos Fernández	Carlos Fernández	188	9	Striker	Start	59
+219271	Takefusa Kubo	Takefusa Kubo	Takefusa Kubo	188	14	Striker	Start	74
+471138	Ander Barrenetxea	Ander Barrenetxea	Ander Barrenetxea	188	7	Substitute	Sub	31
+490884	Mohamed-Ali Cho	Mohamed-Ali Cho	Mohamed-Ali Cho	188	11	Substitute	Sub	16
+514204	Urko González de Zárate	Urko González de Zárate	Urko González de Zárate	188	26	Substitute	Sub	0
+460265	Robert Navarro	Robert Navarro	Robert Navarro	188	17	Substitute	Sub	0
+477406	Álex Sola	Álex Sola	Álex Sola	188	2	Substitute	Sub	16
+171129	Diego Rico	Diego Rico	Diego Rico	188	15	Substitute	Sub	0
+196878	Umar Sadiq	Umar Sadiq	Umar Sadiq	188	19	Substitute	Sub	16
+523062	Unai Marrero	Unai Marrero	Unai Marrero	188	32	Substitute	Sub	0
+513945	Jon Olasagasti	Jon Olasagasti	Jon Olasagasti	188	16	Substitute	Sub	10
+449931	Jon Pacheco	Jon Pacheco	Jon Pacheco	188	20	Substitute	Sub	0
+541052	Jon Karrikaburu	Jon Karrikaburu	Jon Karrikaburu	188	27	Substitute	Sub	0
+547455	Pablo Marín	Pablo Marín	Pablo Marín	188	29	Substitute	Sub	0
+102884	Paulo Gazzaniga	Paulo Gazzaniga	Paulo Gazzaniga	2893	13	Goalkeeper	Start	90
+248498	Miguel Gutiérrez	Miguel Gutiérrez	Miguel Gutiérrez	2893	3	Defender	Start	90
+58877	Daley Blind	Daley Blind	Daley Blind	2893	17	Defender	Start	90
+11129	David López	David López	David López	2893	5	Defender	Start	90
+517333	Arnau Martínez	Arnau Martínez	Arnau Martínez	2893	4	Defender	Start	89
+178871	Aleix García	Aleix García	Aleix García	2893	14	Midfielder	Start	90
+468236	Yan Couto	Yan Couto	Yan Couto	2893	20	Midfielder	Start	64
+226541	Yangel Herrera	Yangel Herrera	Yangel Herrera	2893	21	Midfielder	Start	86
+510281	Sávio	Sávio	Sávio	2893	16	Midfielder	Start	64
+194282	Viktor Tsygankov	Viktor Tsygankov	Viktor Tsygankov	2893	8	Midfielder	Start	90
+49464	Cristhian Stuani	Cristhian Stuani	Cristhian Stuani	2893	7	Striker	Start	64
+88279	Juan Carlos Martín	Juan Carlos Martín	Juan Carlos Martín	2893	1	Substitute	Sub	0
+628794	Iker Almena	Iker Almena	Iker Almena	2893	30	Substitute	Sub	0
+221511	Manu Vallejo	Manu Vallejo	Manu Vallejo	2893	24	Substitute	Sub	0
+224467	Iván Martín	Iván Martín	Iván Martín	2893	23	Substitute	Sub	4
+448169	Toni Fuidias	Toni Fuidias	Toni Fuidias	2893	26	Substitute	Sub	0
+522627	Pablo Torre	Pablo Torre	Pablo Torre	2893	18	Substitute	Sub	26
+213294	Artem Dovbyk	Artem Dovbyk	Artem Dovbyk	2893	9	Substitute	Sub	26
+63119	Juanpe	Juanpe	Juanpe	2893	15	Substitute	Sub	0
+469274	Valery Fernández	Valery Fernández	Valery Fernández	2893	11	Substitute	Sub	26
+628793	Silvi Clua	Silvi Clua	Silvi Clua	2893	28	Substitute	Sub	0
+55317	Bernardo Espinosa	Bernardo Espinosa	Bernardo Espinosa	2893	2	Substitute	Sub	1
